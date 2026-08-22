@@ -1,3 +1,9 @@
+## 2026-08-22 12:27 AM EDT
+
+**Showtime changes:**
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-08-21T22:30:00 (Open Caption)
+
 ## 2026-08-21 10:46 PM EDT
 
 **Movies removed:**

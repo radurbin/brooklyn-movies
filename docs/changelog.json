@@ -374,5 +374,23 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-08-22 12:27 AM EDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Teenage Sex and Death at Camp Miasma",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-21T22:30:00",
+            "format": "Open Caption"
+          }
+        ]
+      }
+    ]
   }
 ]
