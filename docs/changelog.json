@@ -294,5 +294,85 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-08-21 10:46 PM EDT",
+    "movies_added": [],
+    "movies_removed": [
+      "Blow Out"
+    ],
+    "showtime_changes": [
+      {
+        "title": "Tony",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-21T20:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-21T22:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Spa Weekend",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-21T21:00:00",
+            "format": "Open Caption"
+          }
+        ]
+      },
+      {
+        "title": "Mutiny",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-21T22:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Spider-Man: Brand New Day",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-21T21:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Odyssey",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-21T21:30:00",
+            "format": "Open Caption"
+          }
+        ]
+      },
+      {
+        "title": "Insidious: Out of the Further",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-21T22:00:00",
+            "format": "HDR by Barco"
+          }
+        ]
+      }
+    ]
   }
 ]

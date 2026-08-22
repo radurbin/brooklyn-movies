@@ -1,3 +1,23 @@
+## 2026-08-21 10:46 PM EDT
+
+**Movies removed:**
+- Blow Out
+
+**Showtime changes:**
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-08-21T20:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-21T22:15:00 (Standard)
+- Spa Weekend
+  - − Alamo Drafthouse Brooklyn @ 2026-08-21T21:00:00 (Open Caption)
+- Mutiny
+  - − Alamo Drafthouse Brooklyn @ 2026-08-21T22:15:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-08-21T21:45:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-08-21T21:30:00 (Open Caption)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-08-21T22:00:00 (HDR by Barco)
+
 ## 2026-08-21 10:33 PM EDT
 
 **Showtime changes:**
