@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-08-21T20:14:30.174130-04:00",
+    "generated_at": "2026-08-21T20:22:14.732730-04:00",
     "movie_count": 126,
-    "showtime_count": 777,
+    "showtime_count": 775,
     "theaters": {
       "BAM Rose Cinemas": 292,
-      "Alamo Drafthouse Brooklyn": 485
+      "Alamo Drafthouse Brooklyn": 483
     }
   },
   "movies": [
@@ -1029,13 +1029,14 @@
       "runtime": 108,
       "rating": "R",
       "genres": [
-        "Thriller",
+        "Crime",
+        "Drama",
         "Mystery"
       ],
       "poster": "posters/blow-out-1981.jpg",
       "backdrop": null,
-      "short_description": "Sound man (John Travolta) re-creates political murder-by-car-crash.",
-      "plot": "While recording sound effects for a slasher flick, Jack Terry (John Travolta) stumbles upon a real-life horror: a car careening off a bridge and into a river. Jack jumps into the water and fishes out Sally (Nancy Allen) from the car, but the other passenger is already dead -- a governor intending to run for president. As Jack does some investigating of his tapes, and starts a perilous romance with Sally, he enters a tangled web of conspiracy that might leave him dead.",
+      "short_description": null,
+      "plot": "A movie sound recordist accidentally records the evidence that proves that a car accident was actually murder and consequently finds himself in danger.",
       "directors": [
         "Brian De Palma"
       ],
@@ -9827,25 +9828,6 @@
           "source": "Alamo",
           "theater_id": 2101,
           "theater": "Alamo Drafthouse Brooklyn",
-          "showtime_id": 136145,
-          "datetime": "2026-08-21T20:00:00",
-          "datetime_utc": "2026-08-22T00:00:00",
-          "auditorium": 9,
-          "premium_format": "Standard",
-          "purchase_url": "https://drafthouse.com/nyc/tickets/paw-patrol-the-dino-movie/2101/136145",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        },
-        {
-          "source": "Alamo",
-          "theater_id": 2101,
-          "theater": "Alamo Drafthouse Brooklyn",
           "showtime_id": 136174,
           "datetime": "2026-08-22T09:00:00",
           "datetime_utc": "2026-08-22T13:00:00",
@@ -15362,25 +15344,6 @@
           "source": "Alamo",
           "theater_id": 2101,
           "theater": "Alamo Drafthouse Brooklyn",
-          "showtime_id": 136132,
-          "datetime": "2026-08-21T19:45:00",
-          "datetime_utc": "2026-08-21T23:45:00",
-          "auditorium": 10,
-          "premium_format": "Standard",
-          "purchase_url": "https://drafthouse.com/nyc/tickets/the-end-of-oak-street/2101/136132",
-          "sold_out": false,
-          "almost_sold_out": false,
-          "cancelled": false,
-          "has_trailers": false,
-          "discount_matinee": false,
-          "discount_message": null,
-          "attributes": [],
-          "ticket_prices": []
-        },
-        {
-          "source": "Alamo",
-          "theater_id": 2101,
-          "theater": "Alamo Drafthouse Brooklyn",
           "showtime_id": 136151,
           "datetime": "2026-08-21T22:45:00",
           "datetime_utc": "2026-08-22T02:45:00",
@@ -17940,14 +17903,13 @@
       "runtime": 130,
       "rating": "PG-13",
       "genres": [
-        "Adventure",
-        "Drama",
+        "Romance",
         "Fantasy"
       ],
       "poster": "posters/the-twilight-saga-new-moon-2009.jpg",
       "backdrop": null,
-      "short_description": null,
-      "plot": "After Edward leaves because of an incident involving Bella, Jacob Black becomes her best friend, but what Bella doesn't realize is that Jacob also has a secret that will suddenly change their lives.",
+      "short_description": "Bella finds her loyalties tested when she is drawn into the world of werewolves.",
+      "plot": "After the abrupt departure of Edward, her vampire love, Bella finds comfort in her deepening friendship with Jacob Black. However, Bella's loyalties are put to the test as she becomes drawn into the world of werewolves, ancient enemies of vampires.",
       "directors": [
         "Chris Weitz"
       ],
@@ -17969,7 +17931,7 @@
       "language": "English, Italian",
       "country": "United States",
       "box_office": "$298,410,482",
-      "website": null,
+      "website": "http://www.twilightthemovie.com/",
       "movie_url": "https://drafthouse.com/nyc/show/the-twilight-saga-new-moon",
       "trailer_url": null,
       "showtimes": [

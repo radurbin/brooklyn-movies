@@ -214,5 +214,34 @@
         "removed": []
       }
     ]
+  },
+  {
+    "date": "2026-08-21 08:22 PM EDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Paw Patrol: The Dino Movie",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-21T20:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The End of Oak Street",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-21T19:45:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
   }
 ]

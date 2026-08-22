@@ -1,3 +1,11 @@
+## 2026-08-21 08:22 PM EDT
+
+**Showtime changes:**
+- Paw Patrol: The Dino Movie
+  - − Alamo Drafthouse Brooklyn @ 2026-08-21T20:00:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-08-21T19:45:00 (Standard)
+
 ## 2026-08-21 08:14 PM EDT
 
 **Movies added:**
