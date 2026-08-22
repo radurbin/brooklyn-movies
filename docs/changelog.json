@@ -243,5 +243,56 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-08-21 10:33 PM EDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "The Invite",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-08-21T21:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Teenage Sex and Death at Camp Miasma",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-08-21T21:10:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Tony",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-08-21T21:20:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Union County",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-08-21T21:30:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
   }
 ]

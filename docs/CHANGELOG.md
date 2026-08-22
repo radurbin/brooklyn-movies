@@ -1,3 +1,15 @@
+## 2026-08-21 10:33 PM EDT
+
+**Showtime changes:**
+- The Invite
+  - − BAM Rose Cinemas @ 2026-08-21T21:15:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − BAM Rose Cinemas @ 2026-08-21T21:10:00 (Standard)
+- Tony
+  - − BAM Rose Cinemas @ 2026-08-21T21:20:00 (Standard)
+- Union County
+  - − BAM Rose Cinemas @ 2026-08-21T21:30:00 (Standard)
+
 ## 2026-08-21 08:22 PM EDT
 
 **Showtime changes:**
