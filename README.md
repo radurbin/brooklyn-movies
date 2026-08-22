@@ -3,7 +3,7 @@
 This folder builds a static movie showtimes site suitable for GitHub Pages.
 
 Overview
-- The Python backend fetches showtimes from Alamo Drafthouse Brooklyn's public JSON API (`fetchers/alamo.py`) and by scraping BAM Rose Cinemas' public film pages (`fetchers/bam.py`), enriches metadata using the Gracenote/TMS API (`fetchers/tms.py`) and OMDb (`fetchers/omdb.py`), downloads poster images into `docs/posters/`, and writes `docs/movies.json` consumed by the frontend (`docs/index.html`).
+- The Python backend fetches showtimes from Alamo Drafthouse Brooklyn's public JSON API (`fetchers/alamo.py`) and by scraping BAM Rose Cinemas' public film pages (`fetchers/bam.py`), enriches metadata using the Gracenote/TMS API (`fetchers/tms.py`), OMDb (`fetchers/omdb.py`), and Letterboxd ratings (`fetchers/letterboxd.py`), downloads poster images into `docs/posters/`, and writes `docs/movies.json` consumed by the frontend (`docs/index.html`).
 
 Quick local preview
 
@@ -74,6 +74,7 @@ How far in the future is fetched
 Poster and movie data retention
 
 - OMDb responses are cached in `cache/omdb_cache.json` by `fetchers/omdb.py` to avoid re-querying OMDb for unchanged titles. OMDb and TMS both only fill fields a fetcher didn't already supply -- TMS runs first (it has better cast/synopsis data for festival and arthouse titles OMDb sometimes lacks), then OMDb fills whatever's still missing (including IMDb/Rotten Tomatoes/Metacritic ratings, which TMS doesn't provide).
+- Letterboxd ratings are cached in `cache/letterboxd_cache.json` by `fetchers/letterboxd.py`. Letterboxd has no public API, so each movie's page is found via its IMDb ID (`letterboxd.com/imdb/{imdb_id}/`, which redirects to the film page) and the rating is read out of that page's embedded JSON-LD. This only works for movies OMDb already resolved an `imdb_id` for; Letterboxd's own search page 403s scripted requests, so there's no title-based fallback for movies OMDb missed.
 - Posters always come from Alamo/BAM/OMDb, never TMS -- TMS's image URLs require the API key as a query parameter, and baking that into `movies.json` would leak it publicly on GitHub Pages if a poster download ever failed partway through a run.
 - Posters are downloaded into `docs/posters/`. The pipeline avoids re-downloading posters that already exist (it checks file presence by filename).
 - After each run the pipeline removes stale poster files: any files in `docs/posters/` not referenced by the newly generated `movies.json` are deleted.

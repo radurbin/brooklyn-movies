@@ -40,6 +40,7 @@ from config import (
 
 from fetchers.alamo import AlamoFetcher
 from fetchers.bam import BAMFetcher
+from fetchers.letterboxd import LetterboxdFetcher
 from fetchers.omdb import OMDbFetcher
 from fetchers.tms import TMSFetcher
 
@@ -236,6 +237,26 @@ class MoviePipeline:
         print()
 
         print("Finished OMDb enrichment.")
+
+    # ---------------------------------------------------------
+
+    def enrich_letterboxd(self):
+
+        print()
+
+        print("=" * 60)
+        print("Enriching with Letterboxd")
+        print("=" * 60)
+
+        letterboxd = LetterboxdFetcher()
+
+        self.movies = letterboxd.enrich(
+            self.movies
+        )
+
+        print()
+
+        print("Finished Letterboxd enrichment.")
 
     # ---------------------------------------------------------
 
@@ -736,6 +757,8 @@ class MoviePipeline:
         self.enrich_with_tms()
 
         self.enrich_movies()
+
+        self.enrich_letterboxd()
 
         self.download_posters()
 
