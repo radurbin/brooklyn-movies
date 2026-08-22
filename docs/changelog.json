@@ -392,5 +392,38 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-08-22 06:18 AM EDT",
+    "movies_added": [
+      "Sherman's March"
+    ],
+    "movies_removed": [
+      "Sherman's March"
+    ],
+    "showtime_changes": [
+      {
+        "title": "The End of Oak Street",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-21T22:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "One Night Only",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-21T22:45:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
   }
 ]

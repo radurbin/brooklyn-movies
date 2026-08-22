@@ -1,3 +1,17 @@
+## 2026-08-22 06:18 AM EDT
+
+**Movies added:**
+- Sherman's March
+
+**Movies removed:**
+- Sherman's March
+
+**Showtime changes:**
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-08-21T22:45:00 (Standard)
+- One Night Only
+  - − Alamo Drafthouse Brooklyn @ 2026-08-21T22:45:00 (Standard)
+
 ## 2026-08-22 12:27 AM EDT
 
 **Showtime changes:**
