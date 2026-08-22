@@ -196,7 +196,12 @@ class BAMFetcher:
         movie = Movie(
             source="BAM",
             title=title,
-            poster=events[0].get("image"),
+            # Deliberately not using events[0]["image"] here -- BAM's own
+            # Event markup (and og:image) only ever carries a landscape
+            # 16:9 promotional still, never a real portrait movie poster.
+            # Leaving movie.poster unset lets the OMDb enrichment pass
+            # (fetchers/omdb.py) fill in the real poster instead, since it
+            # only fills fields a fetcher didn't already supply.
             plot=events[0].get("description"),
             movie_url=f"{BAM_BASE_URL}{path}",
         )
