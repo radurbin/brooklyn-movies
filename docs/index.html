@@ -1,0 +1,532 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width,initial-scale=1" />
+		<title>Movie Calendar</title>
+		<style>
+			body{margin:0;background:#111;color:#eee;font-family:Arial}
+			header{padding:12px;background:#181818;position:sticky;top:0;z-index:2;display:flex;justify-content:space-between;align-items:center;gap:12px}
+			#lastUpdated{color:#888;font-size:12px;white-space:nowrap}
+			#grid{display:grid;grid-template-columns:repeat(7,1fr);gap:8px;padding:10px}
+			.day{background:#1f1f1f;border-radius:8px;padding:8px;min-height:0}
+			.date{font-weight:bold}
+			.posters{display:grid;grid-template-columns:repeat(auto-fill,minmax(70px,1fr));gap:6px;margin-top:8px;align-content:start}
+			.poster{width:100%;aspect-ratio:2/3;object-fit:cover;border-radius:4px;cursor:pointer;display:block}
+			.poster-fallback{display:flex;align-items:center;justify-content:center;text-align:center;background:#2a2a2a;color:#fff;font-size:10px;font-weight:bold;line-height:1.2;overflow:hidden;min-height:90px;border-radius:4px}
+			#modal{display:none;position:fixed;inset:0;background:#000a;align-items:center;justify-content:center;z-index:10000}
+			#content{background:#222;max-width:900px;width:95%;padding:18px;border-radius:10px;display:grid;grid-template-columns:220px 1fr;gap:16px;max-height:90vh;overflow:auto}
+				.badge{display:inline-block;background:#444;padding:3px 7px;border-radius:99px;margin:2px}
+				.show-badge{cursor:pointer;background:#2a6bf6;color:#fff;padding:6px 8px;border-radius:6px;margin:3px;display:inline-block}
+				.show-badge.sold{background:#a33}
+				.show-tooltip{position:absolute;background:#222;border:1px solid #444;padding:8px;border-radius:6px;color:#ddd;z-index:11001;min-width:200px;box-shadow:0 6px 18px rgba(0,0,0,0.6)}
+			small{color:#bbb}
+			.seatmap-hover{position:fixed;bottom:20px;right:20px;background:#222;border:1px solid #444;border-radius:10px;max-width:400px;z-index:9999;overflow:auto;max-height:80vh}
+			.seatmap-hover .seat-detail{padding:0}
+			.seat{width:12px;height:12px;border-radius:2px;display:inline-block}
+			.seat--empty{background:#444}
+			.seat--available{background:#0f9}
+			.seat--booked{background:#f90}
+			.row-label{font-size:11px;width:15px;text-align:center}
+			.seat-line{display:flex;gap:2px}
+			.screen{text-align:center;font-size:10px;margin:4px 0;color:#bbb}
+			.front-label{text-align:left;font-size:10px;margin:4px 0;color:#bbb}
+			.seat-legend{font-size:10px;margin-top:8px;padding:4px;text-align:left;color:#bbb}
+			.seat-rows{display:flex;flex-direction:column}
+			.seat-row{display:flex;gap:2px;margin:2px 0;align-items:center;justify-content:flex-start}
+			#filters{padding:12px;background:#181818;display:flex;flex-direction:column;gap:8px}
+			.filter-group{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+			.filter-label{color:#888;font-size:12px;min-width:52px}
+			.filter-btn{padding:6px 12px;border:1px solid #444;background:#2a2a2a;color:#eee;border-radius:6px;cursor:pointer}
+			.filter-btn.active{background:#2a6bf6;border-color:#2a6bf6}
+			.filter-select-all{border-style:dashed}
+		</style>
+	</head>
+	<body>
+		<header>
+			<span id="status" style="margin-left:12px"></span>
+			<span id="lastUpdated"></span>
+		</header>
+		<div id="filters"></div>
+
+		<main>
+			<div id="grid"></div>
+		</main>
+
+		<div id="modal" onclick="if(event.target===this)closeModal()">
+			<div id="content"></div>
+		</div>
+
+		<script>
+			// Frontend reads the generated movies.json and local posters in the same folder.
+			const STATUS = document.getElementById('status');
+			const LAST_UPDATED = document.getElementById('lastUpdated');
+			const GRID = document.getElementById('grid');
+			const MODAL = document.getElementById('modal');
+			const CONTENT = document.getElementById('content');
+			let allMovies = [];
+
+			function formatLastUpdated(iso) {
+				if (!iso) return '';
+				const d = new Date(iso);
+				if (isNaN(d)) return '';
+				return 'Updated ' + d.toLocaleString([], {month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit'});
+			}
+
+			function closeModal() {
+				// hide modal and remove any tooltips
+				MODAL.style.display = 'none';
+				document.querySelectorAll('.show-tooltip').forEach(el => el.remove());
+			}
+
+			const seatmapCache = {};
+
+			function getCachedSeatmap(showId, callback) {
+				const cached = seatmapCache[showId];
+				if(cached && Date.now() - cached.time < 300000) {
+					callback(cached.html);
+					return;
+				}
+				const proxyUrl = `https://patient-haze-05d5.rileydurbin.workers.dev/${showId}`;
+				fetch(proxyUrl)
+					.then(r=>r.text())
+					.then(seatmapHtml => {
+						seatmapCache[showId] = { html: seatmapHtml, time: Date.now() };
+						callback(seatmapHtml);
+					})
+					.catch(e=>console.log('Seatmap fetch failed'));
+			}
+
+			// Attributes come from AMC as noisy, sometimes-duplicated strings
+			// ("NoTrailers" vs "No Trailers", multiple recliner tiers, etc).
+			// Normalize into a small set of useful, human-friendly filter tags
+			// and drop administrative ones (discount exclusions, ID checks, etc).
+			const ATTRIBUTE_BLOCKLIST = new Set([
+				// 'Reserved Seating',
+				'Pay with Disney Rewards Redemption Card',
+				'Excluded from 50% off Discount',
+				// 'Excluded from A-List',
+				'No Passes',
+				'ID Required',
+				'Alternative Content',
+				// 'RealD 3D',
+				// '70mm',
+				// 'PRIME at AMC',
+				// 'IMAX at AMC',
+			]);
+
+			const ATTRIBUTE_ALIASES = {
+				'Closed Caption': 'Closed Captions',
+				'AMC Signature Recliners': 'Recliners',
+				'Heated AMC Signature Recliners': 'Recliners',
+				'Dine-In Delivery to Seat': 'Dine-In Delivery',
+				'AMC Artisan Films': 'Artisan Films',
+				'Event': 'Special Event',
+				'NoTrailers': 'No Trailers',
+				'Open Caption (On-screen Subtitles)': 'On-Screen Subtitles',
+				'English Language Dubbed with No Subtitles': 'Dubbed',
+				'Spanish Language Dubbed with No Subtitles': 'Dubbed',
+			};
+
+			function normalizeAttribute(raw) {
+				if (!raw || ATTRIBUTE_BLOCKLIST.has(raw)) return null;
+				if (ATTRIBUTE_ALIASES[raw]) return ATTRIBUTE_ALIASES[raw];
+				if (/spoken with no subtitles/i.test(raw)) return 'Foreign Language (No Subtitles)';
+				if (/spoken with .*subtitles/i.test(raw)) return 'Subtitled (Foreign Language)';
+				return raw;
+			}
+
+			function showAttributes(show) {
+				const set = new Set();
+				for (const raw of show.attributes || []) {
+					const norm = normalizeAttribute(raw);
+					if (norm) set.add(norm);
+				}
+				return Array.from(set);
+			}
+
+			// Adds a dashed "All" toggle to a filter group: click once to select every
+			// button in the group, click again to clear them all.
+			function addSelectAllToggle(group, selector) {
+				const allBtn = document.createElement('button');
+				allBtn.className = 'filter-btn filter-select-all';
+				allBtn.textContent = 'All';
+				allBtn.onclick = () => {
+					const btns = Array.from(group.querySelectorAll(selector));
+					const allActive = btns.every(b => b.classList.contains('active'));
+					btns.forEach(b => b.classList.toggle('active', !allActive));
+					applyFilters();
+				};
+				group.appendChild(allBtn);
+			}
+
+			function buildFilters(movies) {
+				const formatsSet = new Set();
+				const theatersSet = new Set();
+				const attrsSet = new Set();
+				for (const movie of movies) {
+					for (const show of movie.showtimes || []) {
+						formatsSet.add(show.premium_format || 'Standard');
+						theatersSet.add(show.theater || show.theatre || 'Unknown');
+						for (const a of showAttributes(show)) attrsSet.add(a);
+					}
+				}
+				
+				const filtersDiv = document.getElementById('filters');
+				filtersDiv.innerHTML = '';
+
+				const formatGroup = document.createElement('div');
+				formatGroup.className = 'filter-group';
+				const formatLabel = document.createElement('span');
+				formatLabel.className = 'filter-label';
+				formatLabel.textContent = 'Format';
+				formatGroup.appendChild(formatLabel);
+				addSelectAllToggle(formatGroup, '[data-format]');
+
+				Array.from(formatsSet).sort().forEach(format => {
+					const btn = document.createElement('button');
+					btn.className = 'filter-btn active';
+					btn.textContent = format;
+					btn.dataset.format = format;
+					btn.onclick = () => {
+						btn.classList.toggle('active');
+						applyFilters();
+					};
+					formatGroup.appendChild(btn);
+				});
+
+				const theaterGroup = document.createElement('div');
+				theaterGroup.className = 'filter-group';
+				const theaterLabel = document.createElement('span');
+				theaterLabel.className = 'filter-label';
+				theaterLabel.textContent = 'Theater';
+				theaterGroup.appendChild(theaterLabel);
+				addSelectAllToggle(theaterGroup, '[data-theater]');
+
+				Array.from(theatersSet).sort().forEach(theater => {
+					const btn = document.createElement('button');
+					btn.className = 'filter-btn active';
+					btn.textContent = theater;
+					btn.dataset.theater = theater;
+					btn.onclick = () => {
+						btn.classList.toggle('active');
+						applyFilters();
+					};
+					theaterGroup.appendChild(btn);
+				});
+
+				const attributeGroup = document.createElement('div');
+				attributeGroup.className = 'filter-group';
+				const attributeLabel = document.createElement('span');
+				attributeLabel.className = 'filter-label';
+				attributeLabel.textContent = 'Attributes';
+				attributeGroup.appendChild(attributeLabel);
+				addSelectAllToggle(attributeGroup, '[data-attribute]');
+
+				// Attribute buttons start inactive: with none selected, no attribute
+				// filtering is applied. Selecting one or more narrows to showtimes
+				// that have at least one of the selected attributes.
+				Array.from(attrsSet).sort().forEach(attr => {
+					const btn = document.createElement('button');
+					btn.className = 'filter-btn';
+					btn.textContent = attr;
+					btn.dataset.attribute = attr;
+					btn.onclick = () => {
+						btn.classList.toggle('active');
+						applyFilters();
+					};
+					attributeGroup.appendChild(btn);
+				});
+
+				filtersDiv.appendChild(formatGroup);
+				filtersDiv.appendChild(theaterGroup);
+				filtersDiv.appendChild(attributeGroup);
+			}
+
+			function applyFilters() {
+				const activeFormats = new Set();
+				document.querySelectorAll('.filter-btn.active[data-format]').forEach(btn => activeFormats.add(btn.dataset.format));
+				const activeTheaters = new Set();
+				document.querySelectorAll('.filter-btn.active[data-theater]').forEach(btn => activeTheaters.add(btn.dataset.theater));
+				const activeAttributes = new Set();
+				document.querySelectorAll('.filter-btn.active[data-attribute]').forEach(btn => activeAttributes.add(btn.dataset.attribute));
+
+				document.querySelectorAll('[data-formats]').forEach(el => {
+					const formats = JSON.parse(el.dataset.formats);
+					const theaters = JSON.parse(el.dataset.theaters || '[]');
+					const attributes = JSON.parse(el.dataset.attributes || '[]');
+					const formatMatch = formats.some(f => activeFormats.has(f));
+					const theaterMatch = theaters.some(t => activeTheaters.has(t));
+					const attributeMatch = activeAttributes.size === 0 || attributes.some(a => activeAttributes.has(a));
+					el.style.display = (formatMatch && theaterMatch && attributeMatch) ? 'block' : 'none';
+				});
+			}
+
+			async function load() {
+				STATUS.textContent = 'Loading...';
+
+				try {
+					const res = await fetch('./movies.json');
+					const data = await res.json();
+
+					allMovies = data.movies || []; // Change this line
+
+					// Build day -> movieKey -> { movie, shows }
+					const days = {};
+
+					for (const movie of allMovies) {
+						for (const show of movie.showtimes || []) {
+							const date = (show.datetime || '').slice(0, 10);
+							if (!date) continue;
+							days[date] = days[date] || {};
+							const key = `${movie.title}::${movie.release_year || ''}::${movie.movie_id || ''}`;
+							days[date][key] = days[date][key] || { movie, shows: [] };
+							days[date][key].shows.push(show);
+						}
+					}
+
+					render(days);
+					buildFilters(allMovies); // Change this line
+					STATUS.textContent = `${data.metadata?.showtime_count || 0} showtimes, ${data.metadata?.movie_count || allMovies.length} movies`;
+					LAST_UPDATED.textContent = formatLastUpdated(data.metadata?.generated_at);
+
+				} catch (err) {
+					console.error(err);
+					STATUS.textContent = 'Failed to load movies.json';
+				}
+			}
+
+			function render(days) {
+				GRID.innerHTML = '';
+
+				const sortedDates = Object.keys(days).sort();
+				if(sortedDates.length === 0) return;
+
+				const firstDate = new Date(sortedDates[0] + 'T12:00:00');
+				const lastDate = new Date(sortedDates[sortedDates.length - 1] + 'T12:00:00');
+
+				// Find the most recent Friday on or before the first date
+				const dayOfWeek = firstDate.getDay();
+				const daysUntilFriday = (dayOfWeek === 5) ? 0 : (dayOfWeek > 5) ? dayOfWeek - 5 : dayOfWeek + 2;
+				const startDate = new Date(firstDate);
+				startDate.setDate(startDate.getDate() - daysUntilFriday);
+
+				// Generate all dates from start Friday to end date
+				const allDates = [];
+				let current = new Date(startDate);
+				while(current <= lastDate) {
+					const dateStr = current.toISOString().slice(0, 10);
+					allDates.push(dateStr);
+					current.setDate(current.getDate() + 1);
+				}
+
+				// Render in rows of 7
+				for(let i = 0; i < allDates.length; i += 7) {
+					const week = allDates.slice(i, i + 7);
+					
+					for(const d of week) {
+						const cell = document.createElement('div');
+						cell.className = 'day';
+						const dateObj = new Date(d + 'T12:00:00');
+						cell.innerHTML = `<div class="date">${dateObj.toDateString()}</div><div class="posters"></div>`;
+						const posters = cell.querySelector('.posters');
+
+						if(days[d]) {
+							const sortedEntries = Object.values(days[d]).sort((a, b) => b.shows.length - a.shows.length);
+
+							for (const entry of sortedEntries) {
+								const movie = entry.movie;
+								const shows = entry.shows;
+
+								const hasPoster = movie.poster && movie.poster !== 'None' && movie.poster !== 'null';
+
+								const formats = JSON.stringify(shows.map(s => s.premium_format || 'Standard'));
+								const theaters = JSON.stringify(shows.map(s => s.theater || s.theatre || 'Unknown'));
+								const attributes = JSON.stringify(Array.from(new Set(shows.flatMap(s => showAttributes(s)))));
+
+								let el;
+								if (hasPoster) {
+									el = document.createElement('img');
+									el.className = 'poster';
+									el.src = movie.poster;
+									el.alt = movie.title;
+									el.dataset.formats = formats;
+									el.dataset.theaters = theaters;
+									el.dataset.attributes = attributes;
+									el.onerror = () => {
+										const f = document.createElement('div');
+										f.className = 'poster poster-fallback';
+										f.textContent = movie.title;
+										f.title = movie.title;
+										f.dataset.formats = formats;
+										f.dataset.theaters = theaters;
+										f.dataset.attributes = attributes;
+										f.onclick = () => openMovie(movie, shows);
+										el.replaceWith(f);
+									};
+								} else {
+									el = document.createElement('div');
+									el.className = 'poster poster-fallback';
+									el.textContent = movie.title;
+									el.title = movie.title;
+									el.dataset.formats = formats;
+									el.dataset.theaters = theaters;
+									el.dataset.attributes = attributes;
+								}
+
+								el.onclick = () => openMovie(movie, shows);
+								posters.appendChild(el);
+							}
+						}
+
+						GRID.appendChild(cell);
+					}
+				}
+			}
+			function openMovie(movie, shows) {
+				// Group shows by theater
+				const groups = {};
+				for (const s of shows) {
+					const t = s.theater || s.theatre || 'Unknown';
+					groups[t] = groups[t] || [];
+					groups[t].push(s);
+				}
+
+				const posterHtml = movie.poster ? `<img style="width:220px;border-radius:6px" src="${movie.poster}" alt="${movie.title}">` : `<div class='poster poster-fallback' style='width:220px;height:330px'>${movie.title}</div>`;
+
+				CONTENT.innerHTML = `
+					<div>${posterHtml}</div>
+					<div>
+						<button onclick="closeModal()" style="float:right">✕</button>
+						<h1>${movie.title}</h1>
+						<div>
+							<span class="badge">${movie.imdb_rating || ''} IMDb</span>
+							<span class="badge">${movie.release_year || ''}</span>
+							<span class="badge">${(movie.genres || []).join(', ')}</span>
+						</div>
+						<p><small>${movie.plot || movie.short_description || ''}</small></p>
+						<h2>Showtimes</h2>
+						${Object.entries(groups).map(([theater, list]) => `
+							<div class="theater-group" data-theater="${theater}">
+							<h3>${theater}</h3>
+							${list.map(s => {
+								const time = new Date(s.datetime).toLocaleTimeString([], {hour:'numeric',minute:'2-digit'});
+								const fmt = s.premium_format || 'Standard';
+								// Encode attributes for use in data-attrs
+								const attrs = (s.attributes || []).join(', ');
+								const prices = (s.ticket_prices || []).map(p=>`${p.type}: $${p.price}`).join(', ');
+								const today = new Date().toDateString();
+								const tomorrow = new Date(Date.now() + 86400000).toDateString();
+								const showDate = new Date(s.datetime).toDateString();
+								const isAmcTodayTomorrow = (s.theater || s.theatre || '').includes('AMC') && (showDate === today || showDate === tomorrow);
+								const normAttrs = JSON.stringify(showAttributes(s));
+
+								return `<div><span class="show-badge ${s.sold_out? 'sold':''}" ${isAmcTodayTomorrow ? `data-show-id="${s.showtime_id||s.id}"` : ''} data-datetime="${s.datetime}" data-format="${fmt}" data-auditorium="${s.auditorium||''}" data-sold="${s.sold_out}" data-almost="${s.almost_sold_out}" data-cancelled="${s.cancelled}" data-attrs="${attrs}" data-normalized-attrs='${normAttrs}' data-prices="${prices}">${time} · ${fmt}</span></div>`;
+							}).join('')}
+							</div>
+						`).join('')}
+						<hr>
+						<p><b>Directors:</b> ${(movie.directors || []).join(', ')}<br><b>Cast:</b> ${(movie.actors || []).join(', ')}</p>
+					</div>`;
+
+				MODAL.style.display = 'flex';
+
+				// Apply current filters to modal showtimes
+				const activeFormats = new Set();
+				document.querySelectorAll('.filter-btn.active[data-format]').forEach(btn => activeFormats.add(btn.dataset.format));
+				const activeTheaters = new Set();
+				document.querySelectorAll('.filter-btn.active[data-theater]').forEach(btn => activeTheaters.add(btn.dataset.theater));
+				const activeAttributes = new Set();
+				document.querySelectorAll('.filter-btn.active[data-attribute]').forEach(btn => activeAttributes.add(btn.dataset.attribute));
+				document.querySelectorAll('.theater-group').forEach(group => {
+					group.style.display = activeTheaters.has(group.dataset.theater) ? '' : 'none';
+				});
+				document.querySelectorAll('.show-badge').forEach(badge => {
+					const fmt = badge.getAttribute('data-format') || 'Standard';
+					const badgeAttrs = JSON.parse(badge.getAttribute('data-normalized-attrs') || '[]');
+					const attributeMatch = activeAttributes.size === 0 || badgeAttrs.some(a => activeAttributes.has(a));
+					badge.style.display = (activeFormats.has(fmt) && attributeMatch) ? 'inline-block' : 'none';
+				});
+
+				// Attach hover / click handlers to showtime badges
+				const tooltip = document.createElement('div');
+				tooltip.className = 'show-tooltip';
+				tooltip.style.display = 'none';
+				document.body.appendChild(tooltip);
+
+				function showTooltip(el) {
+					const dt = el.getAttribute('data-datetime') || '';
+					const fmt = el.getAttribute('data-format') || '';
+					const showId = el.getAttribute('data-show-id');
+					const aud = el.getAttribute('data-auditorium') || '';
+					const sold = el.getAttribute('data-sold') === 'true';
+					const almost = el.getAttribute('data-almost') === 'true';
+					const cancelled = el.getAttribute('data-cancelled') === 'true';
+					const attrs = el.getAttribute('data-attrs') || '';
+					const prices = el.getAttribute('data-prices') || '';
+
+					let html = `<div><b>${new Date(dt).toLocaleString()}</b></div>
+						<div style="margin-top:6px"><b>Format:</b> ${fmt}</div>
+						${aud? `<div><b>Auditorium:</b> ${aud}</div>`: ''}
+						${prices? `<div><b>Prices:</b> ${prices}</div>`: ''}
+						${attrs? `<div><b>Attributes:</b> ${attrs}</div>`: ''}
+						${sold? `<div style="color:#faa"><b>Sold out</b></div>`: (almost? `<div style="color:#ffb"><b>Almost sold out</b></div>`: '')}
+						${cancelled? `<div style="color:#888"><b>Cancelled</b></div>`: ''}`;
+
+					tooltip.innerHTML = html;
+					tooltip.style.display = 'block';
+
+					if(showId && !sold && !cancelled) {
+						if(!el.dataset.seatmapFetched) {
+							el.dataset.seatmapFetched = 'true';
+							getCachedSeatmap(showId, (seatmapHtml) => {
+								const parser = new DOMParser();
+								const doc = parser.parseFromString(seatmapHtml, 'text/html');
+								doc.querySelector('.detail-close')?.remove();
+								doc.querySelector('.seat-caption')?.remove();
+								doc.querySelector('.screen')?.remove();
+								const cleaned = doc.querySelector('.seatmap').outerHTML;
+								el.dataset.seatmapHtml = cleaned;
+								tooltip.innerHTML += `<div style="margin-top:8px;border-top:1px solid #444;padding-top:8px">${cleaned}</div>`;
+								positionTooltip(el);
+							});
+						} else {
+							tooltip.innerHTML += `<div style="margin-top:8px;border-top:1px solid #444;padding-top:8px">${el.dataset.seatmapHtml}</div>`;
+							positionTooltip(el);
+						}
+					} else {
+						positionTooltip(el);
+					}
+				}
+
+				function positionTooltip(el) {
+					const r = el.getBoundingClientRect();
+					const tooltipHeight = tooltip.offsetHeight;
+					let top = window.scrollY + r.bottom + 8;
+					
+					if(top + tooltipHeight > window.innerHeight + window.scrollY) {
+						top = window.scrollY + r.top - tooltipHeight - 8;
+					}
+					
+					tooltip.style.left = Math.min(window.innerWidth - 420, Math.max(8, r.left)) + 'px';
+					tooltip.style.top = top + 'px';
+				}
+				function hideTooltip() {
+					tooltip.style.display = 'none';
+				}
+
+				document.querySelectorAll('.show-badge').forEach(b => {
+					b.addEventListener('mouseenter', () => showTooltip(b));
+					b.addEventListener('mouseleave', hideTooltip);
+					b.addEventListener('click', (ev) => { ev.stopPropagation(); showTooltip(b); });
+				});
+
+				// Hide tooltip when clicking outside
+				document.addEventListener('click', hideTooltip);
+			}
+
+			// Auto-load on page open
+			load();
+		</script>
+	</body>
+</html>

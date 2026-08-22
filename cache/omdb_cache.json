@@ -1,0 +1,4871 @@
+{
+  "dune: part three": {
+    "Title": "Dune: Part Three",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "18 Dec 2026",
+    "Runtime": "N/A",
+    "Genre": "Action, Adventure, Drama",
+    "Director": "Denis Villeneuve",
+    "Writer": "Denis Villeneuve, Brian K. Vaughan, Frank Herbert",
+    "Actors": "Timoth\u00e9e Chalamet, Zendaya, Jason Momoa",
+    "Plot": "Emperor Paul Atreides faces the fallout from his ascent to power as political plots and a galaxy-wide holy war endanger the future only he can see.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 3 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjk1NjgwZDMtYzI5OS00Y2Q4LWI1NmItNTE5OGU2NDVmMTAxXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt31378509",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "hope": {
+    "Title": "Hope",
+    "Year": "2013",
+    "Rated": "Not Rated",
+    "Released": "04 Apr 2017",
+    "Runtime": "122 min",
+    "Genre": "Drama",
+    "Director": "Lee Joon-ik",
+    "Writer": "Ji-hye Kim",
+    "Actors": "Lee Re, Sul Kyung-gu, Uhm Ji-won",
+    "Plot": "Story of an 8-year-old girl who faces a horrible rape that damages her internally and affects her emotionally, trying to overcome all the obstacles following the incident with the good support of those around her.",
+    "Language": "Korean",
+    "Country": "South Korea",
+    "Awards": "9 wins & 14 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzBiMDNhOWMtMTI0ZC00MjUxLTk0NzYtYzQxZGRjMjFmNDA3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.2/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.2",
+    "imdbVotes": "11,399",
+    "imdbID": "tt3153634",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the dog stars": {
+    "Title": "The Dog Stars",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "28 Aug 2026",
+    "Runtime": "N/A",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Ridley Scott",
+    "Writer": "Peter Heller, Mark L. Smith, Christopher Wilkinson",
+    "Actors": "Jacob Elordi, Margaret Qualley, Josh Brolin",
+    "Plot": "In a post-apocalyptic world, a virus wipes out humanity. Survivors face roaming scavengers called Reapers. Protagonist Hig, a pilot, survived the flu but lost his wife.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDBkZTNhMmQtMjliNS00OTIyLWI1OTItYzEzZTU0NGU0NTI4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt21285562",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "mystery voyage": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "avengers: doomsday": {
+    "Title": "Avengers: Doomsday",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "18 Dec 2026",
+    "Runtime": "165 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Anthony Russo, Joe Russo",
+    "Writer": "Jack Kirby, Stan Lee, Stephen McFeely",
+    "Actors": "Robert Downey Jr., Pedro Pascal, Chris Hemsworth",
+    "Plot": "Heroes from three different worlds must unite when they're thrust together to confront a catastrophic danger that could destroy everything they know.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "2 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTdlMDgxNjAtNjkxOC00ZDYxLTg3MDEtZmIwZjIxOGMwYjVkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt21357150",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "basic instinct": {
+    "Title": "Basic Instinct",
+    "Year": "1992",
+    "Rated": "R",
+    "Released": "20 Mar 1992",
+    "Runtime": "127 min",
+    "Genre": "Drama, Mystery, Romance",
+    "Director": "Paul Verhoeven",
+    "Writer": "Joe Eszterhas",
+    "Actors": "Michael Douglas, Sharon Stone, George Dzundza",
+    "Plot": "A violent police detective investigates a brutal murder that might involve a manipulative and seductive novelist.",
+    "Language": "English, Spanish",
+    "Country": "France, United States",
+    "Awards": "Nominated for 2 Oscars. 6 wins & 23 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjlhMGM2ZWItN2ZhZi00YzU0LTg1MTQtNzczZmY3OGJlOGM4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "56%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "43/100"
+      }
+    ],
+    "Metascore": "43",
+    "imdbRating": "7.1",
+    "imdbVotes": "241,317",
+    "imdbID": "tt0103772",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$117,727,224",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "blow out": {
+    "Title": "Blow Out",
+    "Year": "1981",
+    "Rated": "R",
+    "Released": "24 Jul 1981",
+    "Runtime": "108 min",
+    "Genre": "Crime, Drama, Mystery",
+    "Director": "Brian De Palma",
+    "Writer": "Brian De Palma, Bill Mesce Jr.",
+    "Actors": "John Travolta, Nancy Allen, John Lithgow",
+    "Plot": "A movie sound recordist accidentally records the evidence that proves that a car accident was actually murder and consequently finds himself in danger.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "2 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTc0MTY2ZWMtOTY4NC00ZDUyLWI0MTUtMmYxYjA4MzJhYTk0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "88%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "86/100"
+      }
+    ],
+    "Metascore": "86",
+    "imdbRating": "7.4",
+    "imdbVotes": "74,172",
+    "imdbID": "tt0082085",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$12,000,000",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "butthole surfers: the hole truth and nothing butt": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "by any means": {
+    "Title": "By Any Means",
+    "Year": "2017",
+    "Rated": "TV-MA",
+    "Released": "27 Jun 2017",
+    "Runtime": "84 min",
+    "Genre": "Crime, Drama, Mystery",
+    "Director": "Leighton Spence",
+    "Writer": "Clark Phillips-Janssen, Leighton Spence",
+    "Actors": "Tom Gipson, Brooke Burfitt, Michelle Money",
+    "Plot": "A C-list celebrity gets kidnapped and held hostage after a night-club appearance. When the police interrogate the man she accuses, they question whether she's after justice or a front-page story.",
+    "Language": "English",
+    "Country": "Bermuda, United States",
+    "Awards": "9 wins & 10 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjI4NTk4NDE4Ml5BMl5BanBnXkFtZTgwODQzNTQ3NzE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.0/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.0",
+    "imdbVotes": "1,722",
+    "imdbID": "tt4741768",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "carrie": {
+    "Title": "Carrie",
+    "Year": "1976",
+    "Rated": "R",
+    "Released": "16 Nov 1976",
+    "Runtime": "98 min",
+    "Genre": "Horror",
+    "Director": "Brian De Palma",
+    "Writer": "Stephen King, Lawrence D. Cohen",
+    "Actors": "Sissy Spacek, Piper Laurie, Amy Irving",
+    "Plot": "Carrie White, a shy, friendless teenage girl who is sheltered by her domineering, religious mother, unleashes her telekinetic powers after being humiliated by her classmates at her senior prom.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 2 Oscars. 6 wins & 9 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjMwMDVlZjYtMWRlZS00OTU1LTlmYTQtOGViNTdmYTE0ZjRlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "94%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "86/100"
+      }
+    ],
+    "Metascore": "86",
+    "imdbRating": "7.4",
+    "imdbVotes": "226,591",
+    "imdbID": "tt0074285",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$33,800,000",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "crunchyroll anime night sneak peek (9/21/2026": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "de palma": {
+    "Title": "De Palma",
+    "Year": "2015",
+    "Rated": "R",
+    "Released": "23 Sep 2016",
+    "Runtime": "110 min",
+    "Genre": "Documentary, Biography",
+    "Director": "Noah Baumbach, Jake Paltrow",
+    "Writer": "N/A",
+    "Actors": "Brian De Palma, Mark Hamill, Amy Irving",
+    "Plot": "A documentary about writer and director Brian De Palma.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 4 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDNlYTgyNTItZWM4NC00YmNmLWEzYjEtZjFkN2ZhODgxNDE5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "95%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.4",
+    "imdbVotes": "6,478",
+    "imdbID": "tt1683048",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$165,237",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "deathgasm 2: goremageddon": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "destroy all monsters": {
+    "Title": "Destroy All Monsters",
+    "Year": "1968",
+    "Rated": "G",
+    "Released": "28 May 1969",
+    "Runtime": "88 min",
+    "Genre": "Action, Sci-Fi, Thriller",
+    "Director": "Ishir\u00f4 Honda, Jun Fukuda",
+    "Writer": "Ishir\u00f4 Honda, Takeshi Kimura",
+    "Actors": "Akira Kubo, Jun Tazaki, Yukiko Kobayashi",
+    "Plot": "In 1999, a race of she-aliens, the Kilaaks, brainwash Earth's monsters into attacking major cities, prompting a team of astronauts to stop the invaders while the monsters battle Ghidorah.",
+    "Language": "Japanese",
+    "Country": "Japan",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmM2NWVmZDktY2ZiZi00YTdiLTk4NmEtZTNkZmYyMGYxMTAxXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "82%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.4",
+    "imdbVotes": "8,555",
+    "imdbID": "tt0063172",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "dire duplicity": {
+    "Title": "Dire Duplicity",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "15 May 2026",
+    "Runtime": "93 min",
+    "Genre": "Action",
+    "Director": "Neil Breen",
+    "Writer": "Neil Breen",
+    "Actors": "Neil Breen, Lita Asis, Kansas Bowling",
+    "Plot": "A tormented secret agent with emotional and psychological problems attempts to stop an international cyber attack. This dark emotional mystery intensifies as he is betrayed by those he trusts and loves.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmY1ZTAyMmYtNzBkZC00OTliLTg0MDYtODY2Njg1Yjk1ZjMwXkEyXkFqcGc@._V1_QL75_UX380_CR0,30,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.0/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.0",
+    "imdbVotes": "14",
+    "imdbID": "tt39029658",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "practical magic 2": {
+    "Title": "Practical Magic 2",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "11 Sep 2026",
+    "Runtime": "N/A",
+    "Genre": "Comedy, Drama, Fantasy",
+    "Director": "Susanne Bier",
+    "Writer": "Akiva Goldsman, Alice Hoffman, Georgia Pritchett",
+    "Actors": "Lee Pace, Nicole Kidman, Maisie Williams",
+    "Plot": "A multi generational family of witches, cursed to be loveless for centuries, attempts to break the spell by confronting dark secrets and sacrificing for each other.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2U2NDgxYzItOWExYS00NzVlLTkwOTMtMzQ1ZWM0ZWMyMjg1XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt32588798",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "ernie & emma": {
+    "Title": "Ernie & Emma",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "15 Feb 2026",
+    "Runtime": "N/A",
+    "Genre": "Comedy",
+    "Director": "Bruce Campbell",
+    "Writer": "N/A",
+    "Actors": "Bruce Campbell, Cerina Vincent, Robin McAlpine",
+    "Plot": "Widowed pear salesman Ernie Tyler travels to scatter his wife's ashes in places she specified, each location stirring memories that help him process their marriage, his work life, and his future.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzMxMDYxZDktZTY5YS00MzhmLWEyZmQtNjg1YjE0ZjM1MTcyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt37091259",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "finding emily": {
+    "Title": "Finding Emily",
+    "Year": "2026",
+    "Rated": "PG-13",
+    "Released": "22 May 2026",
+    "Runtime": "111 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Alicia MacDonald",
+    "Writer": "Rachel Hirons",
+    "Actors": "Angourie Rice, Spike Fearn, Minnie Driver",
+    "Plot": "When a lovesick musician is given the wrong number for his dream girl, he teams up with a driven psychology student to find her. Together, they spark a hilarious campus-wide frenzy that tests their own hearts and ambitions along t...",
+    "Language": "English",
+    "Country": "United Kingdom, United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2MzZDk2Y2ItYzNiZS00Y2Y3LTg2NzYtMmI3NmI4NGFhYzBmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.2/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "71/100"
+      }
+    ],
+    "Metascore": "71",
+    "imdbRating": "7.2",
+    "imdbVotes": "939",
+    "imdbID": "tt32499466",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "first blood": {
+    "Title": "First Blood",
+    "Year": "1982",
+    "Rated": "R",
+    "Released": "22 Oct 1982",
+    "Runtime": "93 min",
+    "Genre": "Action, Adventure, Thriller",
+    "Director": "Ted Kotcheff",
+    "Writer": "David Morrell, Michael Kozoll, William Sackheim",
+    "Actors": "Sylvester Stallone, Brian Dennehy, Richard Crenna",
+    "Plot": "Green Beret veteran Rambo takes on a Pacific Northwest sheriff and the National Guard.",
+    "Language": "English",
+    "Country": "United States, Netherlands",
+    "Awards": "1 win & 4 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzc4ZmQ5YzEtYTQzYy00ZDdiLWI2NmQtZTA3MzM1ZGIyYmUzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "86%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "61/100"
+      }
+    ],
+    "Metascore": "61",
+    "imdbRating": "7.7",
+    "imdbVotes": "299,053",
+    "imdbID": "tt0083944",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$47,212,904",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "breaking bad day": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "friday night lights (tv": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "spider-man: brand new day": {
+    "Title": "Spider-Man: Brand New Day",
+    "Year": "2026",
+    "Rated": "PG-13",
+    "Released": "31 Jul 2026",
+    "Runtime": "145 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Destin Daniel Cretton",
+    "Writer": "Chris McKenna, Erik Sommers, Stan Lee",
+    "Actors": "Tom Holland, Zendaya, Mark Ruffalo",
+    "Plot": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
+    "Language": "English",
+    "Country": "United States, Canada, United Kingdom, Germany",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "66/100"
+      }
+    ],
+    "Metascore": "66",
+    "imdbRating": "8.1",
+    "imdbVotes": "183,571",
+    "imdbID": "tt22084616",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$655,088,528",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "idiots": {
+    "Title": "Idiots",
+    "Year": "2012",
+    "Rated": "N/A",
+    "Released": "23 Nov 2012",
+    "Runtime": "120 min",
+    "Genre": "Comedy",
+    "Director": "K.S. Bava",
+    "Writer": "K.S. Bava, Anwar Huzain",
+    "Actors": "Asif Ali, Baburaj, Kalabhavan Haneef",
+    "Plot": "A rich heiress enlists the help of an assassin to create the illusion that she has been murdered so she can put the blame on her boyfriend who ended the relationship with her.",
+    "Language": "Malayalam",
+    "Country": "India",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjc5M2E0NmEtYmJiZi00OTMxLTk1OTktNDQzY2RmNzgxYzgyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "3.6/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "3.6",
+    "imdbVotes": "103",
+    "imdbID": "tt2622956",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "insidious: out of the further": {
+    "Title": "Insidious: Out of the Further",
+    "Year": "2026",
+    "Rated": "PG-13",
+    "Released": "21 Aug 2026",
+    "Runtime": "106 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Jacob Chase",
+    "Writer": "David Leslie Johnson-McGoldrick, Leigh Whannell, Jacob Chase",
+    "Actors": "Lin Shaye, Sam Spruell, Maisie Richardson-Sellers",
+    "Plot": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+    "Language": "English",
+    "Country": "Australia, United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4YjM1OGItMDlmMi00OTU1LWEzM2MtZGMyZTQ1NzhiM2VhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt32393988",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "it ends": {
+    "Title": "It Ends",
+    "Year": "2025",
+    "Rated": "R",
+    "Released": "10 Dec 2025",
+    "Runtime": "89 min",
+    "Genre": "Drama, Fantasy, Horror",
+    "Director": "Alex Ullom",
+    "Writer": "Alex Ullom",
+    "Actors": "Mitchell Cole, Akira Jackson, Noah Toth",
+    "Plot": "Friends on a late-night food run become trapped on an infinite highway with otherworldly terrors lurking beyond. Confined in their Jeep Cherokee, they must decide whether to accept their fate or attempt escape.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 2 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjI5MDU4YjktNDkwYi00ODk4LThiY2ItMDE5ZjdhZjIzNzkzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "100%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.7",
+    "imdbVotes": "4,354",
+    "imdbID": "tt35519455",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "moonrise kingdom": {
+    "Title": "Moonrise Kingdom",
+    "Year": "2012",
+    "Rated": "PG-13",
+    "Released": "29 Jun 2012",
+    "Runtime": "94 min",
+    "Genre": "Adventure, Comedy, Drama",
+    "Director": "Wes Anderson",
+    "Writer": "Wes Anderson, Roman Coppola",
+    "Actors": "Jared Gilman, Kara Hayward, Bruce Willis",
+    "Plot": "Two 12-year-olds, who live on an island, fall in love with each other and elope into the wilderness. While people set out on a search mission, a violent storm approaching them catches their attention.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 1 Oscar. 36 wins & 121 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTEwMTc3NDkzOTJeQTJeQWpwZ15BbWU3MDI4NTAwNzc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "93%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "84/100"
+      }
+    ],
+    "Metascore": "84",
+    "imdbRating": "7.7",
+    "imdbVotes": "382,558",
+    "imdbID": "tt1748122",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$45,512,466",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "linkin park: unshatter": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "faust": {
+    "Title": "Faust",
+    "Year": "1926",
+    "Rated": "Not Rated",
+    "Released": "06 Dec 1926",
+    "Runtime": "107 min",
+    "Genre": "Drama, Fantasy, Horror",
+    "Director": "F.W. Murnau",
+    "Writer": "Gerhart Hauptmann, Hans Kyser, Johann Wolfgang von Goethe",
+    "Actors": "G\u00f6sta Ekman, Emil Jannings, Camilla Horn",
+    "Plot": "The demon Mephisto wagers with God that he can corrupt a mortal man's soul.",
+    "Language": "German, English",
+    "Country": "Germany",
+    "Awards": "3 wins",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDRjZDMwMGItOGY1MS00YmExLWI3N2ItNjk5MTA2N2QxMTI0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "91%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.1",
+    "imdbVotes": "17,097",
+    "imdbID": "tt0016847",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the cabinet of dr. caligari": {
+    "Title": "The Cabinet of Dr. Caligari",
+    "Year": "1920",
+    "Rated": "Not Rated",
+    "Released": "27 Feb 1920",
+    "Runtime": "67 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Robert Wiene",
+    "Writer": "Carl Mayer, Hans Janowitz",
+    "Actors": "Werner Krauss, Conrad Veidt, Friedrich Feher",
+    "Plot": "Hypnotist Dr. Caligari uses a somnambulist, Cesare, to commit murders.",
+    "Language": "None, German",
+    "Country": "Germany",
+    "Awards": "2 wins & 1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzNhY2VmYTctODhhZC00M2U1LTk4MTktMmFmNmJhY2Y1YzgxXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.0",
+    "imdbVotes": "74,697",
+    "imdbID": "tt0010323",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$8,811",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "mothra vs. godzilla": {
+    "Title": "Mothra vs. Godzilla",
+    "Year": "1964",
+    "Rated": "Not Rated",
+    "Released": "26 Aug 1964",
+    "Runtime": "89 min",
+    "Genre": "Adventure, Fantasy, Sci-Fi",
+    "Director": "Ishir\u00f4 Honda",
+    "Writer": "Shin'ichi Sekizawa",
+    "Actors": "Akira Takarada, Yuriko Hoshi, Hiroshi Koizumi",
+    "Plot": "When greedy tycoons refuse to return Mothra's egg to the people of Infant Island, they must decide if they are willing to answer Japan's own pleas for help when Godzilla arises near Nagoya.",
+    "Language": "Japanese, Marshallese",
+    "Country": "Japan",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmNmMGRhNjAtMTUyNS00NTAyLTgxMzQtNzk1ZGI2MzczYWUwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "93%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.5",
+    "imdbVotes": "11,501",
+    "imdbID": "tt0058379",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "nacho libre": {
+    "Title": "Nacho Libre",
+    "Year": "2006",
+    "Rated": "PG",
+    "Released": "16 Jun 2006",
+    "Runtime": "92 min",
+    "Genre": "Comedy, Family, Sport",
+    "Director": "Jared Hess",
+    "Writer": "Jared Hess, Jerusha Hess, Mike White",
+    "Actors": "Jack Black, Ana de la Reguera, H\u00e9ctor Jim\u00e9nez",
+    "Plot": "Berated all his life by those around him, a monk follows his dream and dons a mask to moonlight as a Luchador (Mexican wrestler).",
+    "Language": "English, Spanish",
+    "Country": "Germany, United States",
+    "Awards": "1 win & 11 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjMyNmEzNWYtMDNkYS00NGFmLWE3YjYtNDViYjUyMDA3MTlkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "39%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "52/100"
+      }
+    ],
+    "Metascore": "52",
+    "imdbRating": "5.9",
+    "imdbVotes": "101,384",
+    "imdbID": "tt0457510",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$80,197,993",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "spy kids": {
+    "Title": "Spy Kids",
+    "Year": "2001",
+    "Rated": "PG",
+    "Released": "30 Mar 2001",
+    "Runtime": "88 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Robert Rodriguez",
+    "Writer": "Robert Rodriguez",
+    "Actors": "Alexa PenaVega, Daryl Sabara, Antonio Banderas",
+    "Plot": "Two kids become spies in attempt to save their ex-spies parents from an evil mastermind. Armed with a bag of high tech gadgets, Carmen and Juni will bravely crisscross the globe on a mission to save their parents and maybe even th...",
+    "Language": "English, Spanish",
+    "Country": "United States",
+    "Awards": "3 wins & 10 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTQyNDA0ZDctZjFkMC00NDA1LWI3Y2QtOWY5OWE0NTQ2YzJjXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "71/100"
+      }
+    ],
+    "Metascore": "71",
+    "imdbRating": "5.6",
+    "imdbVotes": "131,798",
+    "imdbID": "tt0227538",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$112,719,001",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the fast and the furious": {
+    "Title": "The Fast and the Furious",
+    "Year": "2001",
+    "Rated": "PG-13",
+    "Released": "22 Jun 2001",
+    "Runtime": "106 min",
+    "Genre": "Action, Crime, Thriller",
+    "Director": "Rob Cohen",
+    "Writer": "Ken Li, Gary Scott Thompson, Erik Bergquist",
+    "Actors": "Vin Diesel, Paul Walker, Michelle Rodriguez",
+    "Plot": "Los Angeles police officer Brian O'Conner must decide where his loyalty really lies when he becomes enamored with the street racing world he has been sent undercover to end it.",
+    "Language": "English, Spanish",
+    "Country": "United States, Germany",
+    "Awards": "11 wins & 18 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGRiMDE1NTMtMThmZS00YjE4LWI1ODQtNjRkZGZlOTg2MGE1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "55%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "58/100"
+      }
+    ],
+    "Metascore": "58",
+    "imdbRating": "6.8",
+    "imdbVotes": "452,738",
+    "imdbID": "tt0232500",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$144,745,925",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the outsiders: the complete novel": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "mutiny": {
+    "Title": "Mutiny",
+    "Year": "1952",
+    "Rated": "Approved",
+    "Released": "19 Mar 1952",
+    "Runtime": "77 min",
+    "Genre": "Adventure, History",
+    "Director": "Edward Dmytryk",
+    "Writer": "Philip Yordan, Sidney Harmon, Hollister Noble",
+    "Actors": "Mark Stevens, Angela Lansbury, Patric Knowles",
+    "Plot": "During the War of 1812, the U.S. tasks Captain James Marshall to sail through the British blockade and bring back a French loan in gold but the secret leaks out and many greedy hands, including the mutinous crew's, are after the g...",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmFlYzk1MGEtMDgwYy00MWQzLTlhNWUtMTliZTJjODE0ZTJhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.2/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.2",
+    "imdbVotes": "538",
+    "imdbID": "tt0044936",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "one night only": {
+    "Title": "One Night Only",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "07 Aug 2026",
+    "Runtime": "102 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Will Gluck",
+    "Writer": "Travis Braun",
+    "Actors": "Monica Barbaro, Callum Turner, Charlie Gillespie",
+    "Plot": "Two New Yorkers search for love on the one night of the year when pre-marital sex is legal.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2ZlYTQ2YmUtZTNlNy00OGI0LWFmNjctN2MyNjYzNjAzNjliXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.4/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "43/100"
+      }
+    ],
+    "Metascore": "43",
+    "imdbRating": "6.4",
+    "imdbVotes": "1,318",
+    "imdbID": "tt37853455",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$5,700,000",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "onslaught": {
+    "Title": "Onslaught",
+    "Year": "2016",
+    "Rated": "N/A",
+    "Released": "13 Oct 2016",
+    "Runtime": "78 min",
+    "Genre": "Drama",
+    "Director": "Vasilis Vafeas",
+    "Writer": "Vasilis Vafeas",
+    "Actors": "Nikos Poursanidis, Amalia Arseni, Takis Papamattheou",
+    "Plot": "A taunting look at contemporary Greece centered on Aris, a young film director who tries to find balance between two worlds; the society of the spectacle and a society in turmoil.",
+    "Language": "Greek",
+    "Country": "Greece",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYThjZjBkN2ItMzk0Yy00OWE0LWFhYjItOWQ4YTQzZjRkNTQ2XkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "17",
+    "imdbID": "tt6858778",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "paw patrol: the dino movie": {
+    "Title": "PAW Patrol: The Dino Movie",
+    "Year": "2026",
+    "Rated": "PG",
+    "Released": "14 Aug 2026",
+    "Runtime": "88 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Cal Brunker",
+    "Writer": "Cal Brunker, Bob Barlen, Keith Chapman",
+    "Actors": "Carter Young, Mckenna Grace, Terry Crews",
+    "Plot": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
+    "Language": "English",
+    "Country": "Canada, United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2E2Y2Q0Y2ItZTUyZS00MzllLTkwYmQtYjdmNzM3NGRiYjFmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "47/100"
+      }
+    ],
+    "Metascore": "47",
+    "imdbRating": "6.2",
+    "imdbVotes": "1,038",
+    "imdbID": "tt29356163",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$20,254,688",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "pulp: what do you do for an encore?": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "little shop of horrors": {
+    "Title": "Little Shop of Horrors",
+    "Year": "1986",
+    "Rated": "PG-13",
+    "Released": "19 Dec 1986",
+    "Runtime": "94 min",
+    "Genre": "Comedy, Horror, Musical",
+    "Director": "Frank Oz",
+    "Writer": "Howard Ashman, Roger Corman, Charles B. Griffith",
+    "Actors": "Rick Moranis, Ellen Greene, Vincent Gardenia",
+    "Plot": "A nerdy florist finds his chance for success and romance with the help of a giant man-eating plant who demands to be fed.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 2 Oscars. 2 wins & 14 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTJjM2VhMDctMTIxYi00MzY3LWI5ZDgtZjFiNzg0M2QxNzI5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "91%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "81/100"
+      }
+    ],
+    "Metascore": "81",
+    "imdbRating": "7.1",
+    "imdbVotes": "93,959",
+    "imdbID": "tt0091419",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$39,032,001",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the birdcage": {
+    "Title": "The Birdcage",
+    "Year": "1996",
+    "Rated": "R",
+    "Released": "08 Mar 1996",
+    "Runtime": "117 min",
+    "Genre": "Comedy",
+    "Director": "Mike Nichols",
+    "Writer": "Jean Poiret, Francis Veber, \u00c9douard Molinaro",
+    "Actors": "Robin Williams, Nathan Lane, Gene Hackman",
+    "Plot": "A gay cabaret owner and his drag queen companion agree to put up a false straight front so that their son can introduce them to his fianc\u00e9e's right-wing, conservative parents.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 1 Oscar. 7 wins & 25 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM2NjExODYyOF5BMl5BanBnXkFtZTcwNTc0NjgyNA@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "85%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "71/100"
+      }
+    ],
+    "Metascore": "71",
+    "imdbRating": "7.2",
+    "imdbVotes": "110,097",
+    "imdbID": "tt0115685",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$124,060,553",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "remake": {
+    "Title": "Remake",
+    "Year": "2003",
+    "Rated": "Approved",
+    "Released": "21 Aug 2004",
+    "Runtime": "108 min",
+    "Genre": "Drama, History, War",
+    "Director": "Dino Mustafic",
+    "Writer": "Zlatko Topcic",
+    "Actors": "Ermin Bravo, Aleksandar Seksan, Ermin Sijamija",
+    "Plot": "The parallel coming-of-age stories of a father living in Sarajevo during World War II and his son living through the Siege of Sarajevo during the Bosnian War.",
+    "Language": "Bosnian, French, English, Croatian, Serbian",
+    "Country": "Bosnia and Herzegovina, France, Turkey",
+    "Awards": "5 wins & 4 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDhlYTkyNzQtMzc3YS00MmNjLThhNjMtNjFkMjU1YzZiODFiXkEyXkFqcGdeQXVyNjczNzI5MzQ@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.7",
+    "imdbVotes": "1,041",
+    "imdbID": "tt0334226",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "my sassy girl": {
+    "Title": "My Sassy Girl",
+    "Year": "2001",
+    "Rated": "Not Rated",
+    "Released": "27 Jul 2001",
+    "Runtime": "137 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Jae-young Kwak",
+    "Writer": "Ho-sik Kim, Jae-young Kwak",
+    "Actors": "Cha Tae-hyun, Jun Ji-hyun, In-mun Kim",
+    "Plot": "A young man sees a drunk, cute woman standing too close to the tracks at a metro station in Seoul and pulls her back. She ends up getting him into trouble repeatedly after that, starting on the train.",
+    "Language": "Korean, English",
+    "Country": "South Korea",
+    "Awards": "9 wins & 6 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjNlYTg0MGItM2VhMy00NTZhLTlmNTktM2NmYmM4YmJhYmZkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.9",
+    "imdbVotes": "52,148",
+    "imdbID": "tt0293715",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "sherman's march": {
+    "Title": "Sherman's March",
+    "Year": "1985",
+    "Rated": "Not Rated",
+    "Released": "06 May 1986",
+    "Runtime": "157 min",
+    "Genre": "Documentary, Biography, Comedy",
+    "Director": "Ross McElwee",
+    "Writer": "Ross McElwee",
+    "Actors": "Ross McElwee, Dede McElwee, Ross McElwee Jr.",
+    "Plot": "Documentary filmmaker Ross McElwee sets out to make a movie about Union General Sherman's March to the Sea towards the end of the American Civil War, but keeps getting sidetracked by his own love life.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "7 wins & 2 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTI5OTEzNDcwOV5BMl5BanBnXkFtZTcwMjYzMjUyMQ@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "100%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.2",
+    "imdbVotes": "2,753",
+    "imdbID": "tt0091943",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "spa weekend": {
+    "Title": "Spa Weekend",
+    "Year": "2019",
+    "Rated": "N/A",
+    "Released": "15 Jun 2019",
+    "Runtime": "75 min",
+    "Genre": "Comedy",
+    "Director": "Maureen O'Connell",
+    "Writer": "Karl Argue, Maureen O'Connell",
+    "Actors": "Noel Aungier, Martina Babisova, Stephen Casey Bracken",
+    "Plot": "After living in London for 5 years, actress Jo Murphy is back in Dublin. Everyone expected her to make it. She expected to make it. But, she's back in Dublin trying to hide the fact she lives at home with her Mother and is working...",
+    "Language": "English",
+    "Country": "Ireland",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTkyNDE2ZGEtOTkxNS00NzhmLTkwNmUtMDU2MjgxZDdjMDAxXkEyXkFqcGdeQXVyNDY1NDYzMjI@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt8244262",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "star trek ii: the wrath of khan": {
+    "Title": "Star Trek II: The Wrath of Khan",
+    "Year": "1982",
+    "Rated": "PG",
+    "Released": "04 Jun 1982",
+    "Runtime": "113 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Nicholas Meyer",
+    "Writer": "Gene Roddenberry, Jack B. Sowards, Harve Bennett",
+    "Actors": "William Shatner, Leonard Nimoy, DeForest Kelley",
+    "Plot": "With the assistance of the Enterprise crew, Admiral Kirk must stop an old nemesis, Khan Noonien Singh, from using the life-generating Genesis Device as the ultimate weapon.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "5 wins & 9 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTFkZDY5NWQtMjY4Yy00OThiLTk3YjQtMDdhYTllMTI4MTdiXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "68/100"
+      }
+    ],
+    "Metascore": "68",
+    "imdbRating": "7.7",
+    "imdbVotes": "134,088",
+    "imdbID": "tt0084726",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$79,707,906",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "star trek iii: the search for spock": {
+    "Title": "Star Trek III: The Search for Spock",
+    "Year": "1984",
+    "Rated": "PG",
+    "Released": "01 Jun 1984",
+    "Runtime": "105 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Leonard Nimoy",
+    "Writer": "Harve Bennett, Gene Roddenberry",
+    "Actors": "William Shatner, Leonard Nimoy, DeForest Kelley",
+    "Plot": "Admiral Kirk and his bridge crew risk their careers stealing the decommissioned U.S.S. Enterprise to return to the restricted Genesis Planet to recover Spock's body.",
+    "Language": "English, Klingon, Russian, French",
+    "Country": "United States",
+    "Awards": "1 win & 10 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzNkOTZjMTMtOWYzZS00Yjg2LTgyMzQtMmNjODdkYzM0ZjhmXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "78%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "58/100"
+      }
+    ],
+    "Metascore": "58",
+    "imdbRating": "6.7",
+    "imdbVotes": "90,305",
+    "imdbID": "tt0088170",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$76,471,046",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "star trek iv: the voyage home": {
+    "Title": "Star Trek IV: The Voyage Home",
+    "Year": "1986",
+    "Rated": "PG",
+    "Released": "26 Nov 1986",
+    "Runtime": "119 min",
+    "Genre": "Adventure, Comedy, Sci-Fi",
+    "Director": "Leonard Nimoy",
+    "Writer": "Gene Roddenberry, Leonard Nimoy, Harve Bennett",
+    "Actors": "William Shatner, Leonard Nimoy, DeForest Kelley",
+    "Plot": "To save Earth from an alien probe, Admiral James T. Kirk and his fugitive crew go back in time to San Francisco in 1986 to retrieve the only beings who can communicate with it: humpback whales.",
+    "Language": "English, Finnish",
+    "Country": "United States",
+    "Awards": "Nominated for 4 Oscars. 4 wins & 19 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmZlYWYwMzUtMjYzMy00MWI1LTg3MDctOTdjYjA2MDkwNGU5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "81%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "71/100"
+      }
+    ],
+    "Metascore": "71",
+    "imdbRating": "7.3",
+    "imdbVotes": "96,177",
+    "imdbID": "tt0092007",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$109,713,132",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "star trek: the motion picture - director's edition": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "the nutty professor": {
+    "Title": "The Nutty Professor",
+    "Year": "1996",
+    "Rated": "PG-13",
+    "Released": "28 Jun 1996",
+    "Runtime": "95 min",
+    "Genre": "Comedy, Romance, Sci-Fi",
+    "Director": "Tom Shadyac",
+    "Writer": "Jerry Lewis, Bill Richmond, David Sheffield",
+    "Actors": "Eddie Murphy, Jada Pinkett Smith, James Coburn",
+    "Plot": "Grossly overweight yet good-hearted professor Sherman Klump takes a special chemical that turns him into the slim but obnoxious Buddy Love.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 1 Oscar. 10 wins & 12 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE0NjI1YTMtYWFiZi00Zjc1LWE5NzgtMTdlMWMwOTczZWJkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "64%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "64/100"
+      }
+    ],
+    "Metascore": "64",
+    "imdbRating": "5.7",
+    "imdbVotes": "129,827",
+    "imdbID": "tt0117218",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$128,814,019",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "star trek: the genesis trilogy": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "teenage sex and death at camp miasma": {
+    "Title": "Teenage Sex and Death at Camp Miasma",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "07 Aug 2026",
+    "Runtime": "112 min",
+    "Genre": "Drama, Horror, Romance",
+    "Director": "Jane Schoenbrun",
+    "Writer": "Jane Schoenbrun",
+    "Actors": "Gillian Anderson, Hannah Einbinder, Patrick Fischler",
+    "Plot": "A director making a slasher sequel becomes obsessed with casting the original film's 'final girl,' leading both women into psychological and sexual chaos.",
+    "Language": "English",
+    "Country": "United States, Canada, United Kingdom",
+    "Awards": "2 wins & 2 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.1/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "89/100"
+      }
+    ],
+    "Metascore": "89",
+    "imdbRating": "7.1",
+    "imdbVotes": "912",
+    "imdbID": "tt35298123",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "don't torture a duckling": {
+    "Title": "Don't Torture a Duckling",
+    "Year": "1972",
+    "Rated": "Not Rated",
+    "Released": "29 Sep 1972",
+    "Runtime": "105 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Lucio Fulci",
+    "Writer": "Lucio Fulci, Roberto Gianviti, Gianfranco Clerici",
+    "Actors": "Florinda Bolkan, Barbara Bouchet, Tomas Milian",
+    "Plot": "When a southern Italian town is rocked by a string of child murders, the police and two urban outcasts search for the culprit amid scapegoating within the superstitious community.",
+    "Language": "Italian",
+    "Country": "Italy",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWZmNzU5NDAtNDBhYi00MzQ5LWE0OTItYTMxNGYyNDc1MjAxXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "88%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.0",
+    "imdbVotes": "12,474",
+    "imdbID": "tt0069019",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "exorcist iii": {
+    "Title": "The Exorcist III",
+    "Year": "1990",
+    "Rated": "R",
+    "Released": "17 Aug 1990",
+    "Runtime": "110 min",
+    "Genre": "Drama, Horror, Mystery",
+    "Director": "William Peter Blatty",
+    "Writer": "William Peter Blatty",
+    "Actors": "George C. Scott, Ed Flanders, Brad Dourif",
+    "Plot": "A police lieutenant uncovers more than he bargained for as his investigation of a series of murders, which have all the hallmarks of the deceased Gemini serial killer, leads him to question the patients of a psychiatric ward.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "2 wins & 5 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjRiZDQxNTAtNDg4Yy00OTc1LWI5NmQtODM5ODgzMzJmNDI3XkEyXkFqcGc@._V1_QL75_UX380_CR0,1,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "60%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "48/100"
+      }
+    ],
+    "Metascore": "48",
+    "imdbRating": "6.5",
+    "imdbVotes": "42,449",
+    "imdbID": "tt0099528",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$26,098,824",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "ju-on: the curse": {
+    "Title": "Ju-on: The Curse",
+    "Year": "2000",
+    "Rated": "Not Rated",
+    "Released": "11 Feb 2000",
+    "Runtime": "70 min",
+    "Genre": "Horror, Mystery",
+    "Director": "Takashi Shimizu",
+    "Writer": "Takashi Shimizu",
+    "Actors": "Y\u00fbrei Yanagi, Yue, Ry\u00f4ta Koyama, Hitomi Miwa",
+    "Plot": "A teacher visits the house of one of his students after the boy goes missing, only to have a horrifying excuse for his absence from school.",
+    "Language": "Japanese",
+    "Country": "Japan",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmI4NWNkYmYtMTgzNi00NTdmLWIzNTctOGQxYzc1ZTZlMTQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "64%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.9",
+    "imdbVotes": "7,477",
+    "imdbID": "tt0330500",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "saw vi": {
+    "Title": "Saw VI",
+    "Year": "2009",
+    "Rated": "R",
+    "Released": "23 Oct 2009",
+    "Runtime": "90 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Kevin Greutert",
+    "Writer": "Patrick Melton, Marcus Dunstan",
+    "Actors": "Costas Mandylor, Mark Rolston, Betsy Russell",
+    "Plot": "Agent Strahm is dead, and FBI agent Erickson draws nearer to Hoffman. Meanwhile, a pair of insurance executives find themselves in another game set by Jigsaw.",
+    "Language": "English",
+    "Country": "Canada, United States, Australia",
+    "Awards": "2 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NDA3MTM4M15BMl5BanBnXkFtZTcwOTY4Njg3Mg@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "39%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "30/100"
+      }
+    ],
+    "Metascore": "30",
+    "imdbRating": "6.1",
+    "imdbVotes": "134,052",
+    "imdbID": "tt1233227",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$27,693,292",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "terror tuesday: the devil's doorway": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "the doors": {
+    "Title": "The Doors",
+    "Year": "1991",
+    "Rated": "R",
+    "Released": "01 Mar 1991",
+    "Runtime": "140 min",
+    "Genre": "Biography, Drama, Music",
+    "Director": "Oliver Stone",
+    "Writer": "Randall Jahnson, Oliver Stone",
+    "Actors": "Val Kilmer, Meg Ryan, Kyle MacLachlan",
+    "Plot": "Jim Morrison's life, from his LA film student days to his death in Paris. Val Kilmer delivers an uncanny portrayal, with vocals indistinguishable from Morrison's originals. It depicts Morrison's journey as the iconic 60s rock fron...",
+    "Language": "English",
+    "Country": "France, United States",
+    "Awards": "3 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2JlMDYyYWEtMmY3Ny00ODgyLWFiMDMtZjFmNzQ3NzE3Njg5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "57%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "62/100"
+      }
+    ],
+    "Metascore": "62",
+    "imdbRating": "7.2",
+    "imdbVotes": "105,333",
+    "imdbID": "tt0101761",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$34,416,893",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the end of oak street": {
+    "Title": "The End of Oak Street",
+    "Year": "2026",
+    "Rated": "PG-13",
+    "Released": "14 Aug 2026",
+    "Runtime": "99 min",
+    "Genre": "Action, Adventure, Mystery",
+    "Director": "David Robert Mitchell",
+    "Writer": "David Robert Mitchell",
+    "Actors": "Anne Hathaway, Ewan McGregor, Maisy Stella",
+    "Plot": "The Platt family bands together to navigate their new surroundings after a cosmic event transports their suburban neighborhood to someplace unknown.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGI0YmRjNWYtYTliYy00YzdjLTkzNzQtZWExNjA2ZDU5MzAwXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt27165187",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the magic faraway tree": {
+    "Title": "The Magic Faraway Tree",
+    "Year": "2026",
+    "Rated": "PG",
+    "Released": "21 Aug 2026",
+    "Runtime": "110 min",
+    "Genre": "Adventure, Family, Fantasy",
+    "Director": "Ben Gregor",
+    "Writer": "Enid Blyton, Simon Farnaby",
+    "Actors": "Nonso Anozie, Sonny Meo, Andrew Garfield",
+    "Plot": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical lands, rekindling their family bond through adventures.",
+    "Language": "English",
+    "Country": "United Kingdom, United States, France",
+    "Awards": "1 win & 4 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZThiYWI3ZTYtMjZmYy00Njc5LWE4OGYtNTlmNTQyYWZmYjQ0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.2",
+    "imdbVotes": "4,800",
+    "imdbID": "tt7734244",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the odyssey": {
+    "Title": "The Odyssey",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "17 Jul 2026",
+    "Runtime": "172 min",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "Christopher Nolan",
+    "Writer": "Christopher Nolan, Homer",
+    "Actors": "Matt Damon, Tom Holland, Anne Hathaway",
+    "Plot": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "Language": "English, Greek",
+    "Country": "United Kingdom, United States, Canada, New Zealand, Iceland",
+    "Awards": "2 wins total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.5/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "88/100"
+      }
+    ],
+    "Metascore": "88",
+    "imdbRating": "8.5",
+    "imdbVotes": "377,702",
+    "imdbID": "tt33764258",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$461,172,890",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the twilight saga: new moon": {
+    "Title": "The Twilight Saga: New Moon",
+    "Year": "2009",
+    "Rated": "PG-13",
+    "Released": "20 Nov 2009",
+    "Runtime": "130 min",
+    "Genre": "Adventure, Drama, Fantasy",
+    "Director": "Chris Weitz",
+    "Writer": "Melissa Rosenberg, Stephenie Meyer",
+    "Actors": "Kristen Stewart, Robert Pattinson, Taylor Lautner",
+    "Plot": "After Edward leaves because of an incident involving Bella, Jacob Black becomes her best friend, but what Bella doesn't realize is that Jacob also has a secret that will suddenly change their lives.",
+    "Language": "English, Italian",
+    "Country": "United States",
+    "Awards": "23 wins & 24 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTI3MjE3NDIxNF5BMl5BanBnXkFtZTcwODM3NTY5Mg@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "4.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "28%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "44/100"
+      }
+    ],
+    "Metascore": "44",
+    "imdbRating": "4.8",
+    "imdbVotes": "320,139",
+    "imdbID": "tt1259571",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$298,410,482",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "twilight": {
+    "Title": "Twilight",
+    "Year": "2008",
+    "Rated": "PG-13",
+    "Released": "21 Nov 2008",
+    "Runtime": "122 min",
+    "Genre": "Drama, Fantasy, Romance",
+    "Director": "Catherine Hardwicke",
+    "Writer": "Melissa Rosenberg, Stephenie Meyer",
+    "Actors": "Kristen Stewart, Robert Pattinson, Billy Burke",
+    "Plot": "When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire.",
+    "Language": "English",
+    "Country": "United States, United Kingdom",
+    "Awards": "34 wins & 16 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NzUxMTAxN15BMl5BanBnXkFtZTcwMzEyMTIwMg@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "48%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "56/100"
+      }
+    ],
+    "Metascore": "56",
+    "imdbRating": "5.4",
+    "imdbVotes": "522,520",
+    "imdbID": "tt1099212",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$195,553,813",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the wrong girls": {
+    "Title": "The Wrong Girls",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "14 Aug 2026",
+    "Runtime": "100 min",
+    "Genre": "Comedy, Crime, Drama",
+    "Director": "Dylan Meyer",
+    "Writer": "Dylan Meyer",
+    "Actors": "Kristen Stewart, Alia Shawkat, Cate Blanchett",
+    "Plot": "Two aimless young women inadvertently gain telepathic abilities after ingesting an experimental drug, pitting them against dangerous rivals pursuing the same powerful substance.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDc5ZTZiMmQtMDRjYi00NDAzLWEyMTQtYWIxNTFkMmE5ZWZkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt35060353",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tony": {
+    "Title": "Tony",
+    "Year": "2009",
+    "Rated": "Unrated",
+    "Released": "01 Jan 2010",
+    "Runtime": "76 min",
+    "Genre": "Drama, Horror, Thriller",
+    "Director": "Gerard Johnson",
+    "Writer": "Gerard Johnson",
+    "Actors": "Peter Ferdinando, Greg Kam, Ricky Grover",
+    "Plot": "A thriller centered on a serial killer in a rundown London suburb.",
+    "Language": "English",
+    "Country": "United Kingdom",
+    "Awards": "1 win total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4NzQ4OTc4M15BMl5BanBnXkFtZTcwMjQ0MTAxMw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "76%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.1",
+    "imdbVotes": "3,753",
+    "imdbID": "tt1120945",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "toxic: a fairy tale for grown-ups": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "mystery transmission": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "castration movie anthology ii. the best of both worlds": {
+    "Title": "Castration Movie Anthology ii. The Best of Both Worlds",
+    "Year": "2025",
+    "Rated": "N/A",
+    "Released": "01 Dec 2025",
+    "Runtime": "720 min",
+    "Genre": "Drama",
+    "Director": "Louise Weard",
+    "Writer": "Louise Weard",
+    "Actors": "Aoife Josie Clements, Louise Weard, Alex Walton",
+    "Plot": "N/A",
+    "Language": "English",
+    "Country": "Canada",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDE4NGJjN2EtYjM2OC00NzQzLTkwODYtM2Y2YmVjODI1ZDc1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt36158276",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "cherry 2000": {
+    "Title": "Cherry 2000",
+    "Year": "1987",
+    "Rated": "PG-13",
+    "Released": "05 Feb 1988",
+    "Runtime": "99 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Steve De Jarnatt",
+    "Writer": "Lloyd Fonvielle, Michael Almereyda",
+    "Actors": "Melanie Griffith, David Andrews, Pamela Gidley",
+    "Plot": "In 2017, a successful businessman travels to the ends of the earth to find that the perfect woman is always under his nose. He hires a sexy renegade tracker to find an exact duplicate of his android wife.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWNmMzBmMjctMjAyYi00ZGRhLTg1MzItMmQzMTk2NjNhYmM4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "38%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "59/100"
+      }
+    ],
+    "Metascore": "59",
+    "imdbRating": "5.6",
+    "imdbVotes": "11,258",
+    "imdbID": "tt0092746",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the invite": {
+    "Title": "The Invite",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "10 Jul 2026",
+    "Runtime": "107 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Olivia Wilde",
+    "Writer": "Cesc Gay, Will McCormack, Rashida Jones",
+    "Actors": "Seth Rogen, Olivia Wilde, Pen\u00e9lope Cruz",
+    "Plot": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
+    "Language": "English, Spanish",
+    "Country": "United States",
+    "Awards": "2 wins & 6 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjI0MzJjMjctNmQzZi00Y2U4LWEwZGItMmE3NDUzNzk1YzY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,15,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "82/100"
+      }
+    ],
+    "Metascore": "82",
+    "imdbRating": "7.8",
+    "imdbVotes": "27,141",
+    "imdbID": "tt14173636",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$24,275,757",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the samurai and the prisoner": {
+    "Title": "Kokurojo: The Samurai and the Prisoner",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "N/A",
+    "Runtime": "N/A",
+    "Genre": "Drama, History, Mystery",
+    "Director": "Kiyoshi Kurosawa",
+    "Writer": "Kiyoshi Kurosawa, Honobu Yonezawa",
+    "Actors": "Munetaka Aoki, Tasuku Emoto, Ry\u00f4ta Miyadate",
+    "Plot": "Based on Honobu Yonezawa's novel. Set in 16th century Japan, follows Lord Murashige Araki who, besieged in his castle, confronts mysterious crimes and allies with imprisoned strategist Kanbei Kuroda to uncover the truth.",
+    "Language": "Japanese",
+    "Country": "Japan",
+    "Awards": "N/A",
+    "Poster": "N/A",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt39602215",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "union county": {
+    "Title": "Union County",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "14 Aug 2026",
+    "Runtime": "97 min",
+    "Genre": "Drama",
+    "Director": "Adam Meeks",
+    "Writer": "Adam Meeks",
+    "Actors": "Will Poulter, Kevin P. Braig, Annette Deao",
+    "Plot": "Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amidst the opioid epidemic in rural Ohio.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "2 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTdiYTIwMGEtMzYwOC00NzlhLTk2NTQtMDdlYTBjYjhhMzRjXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.6/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "72/100"
+      }
+    ],
+    "Metascore": "72",
+    "imdbRating": "6.6",
+    "imdbVotes": "163",
+    "imdbID": "tt36981462",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "coyote vs acme": {
+    "Title": "Coyote vs. Acme",
+    "Year": "2026",
+    "Rated": "PG",
+    "Released": "28 Aug 2026",
+    "Runtime": "98 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Dave Green",
+    "Writer": "Samy Burch, James Gunn, Jeremy Slater",
+    "Actors": "John Cena, Lana Condor, Will Forte",
+    "Plot": "A story set in the ACME warehouse, the manufacturer of anything and everything used by the Looney Tunes characters.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjJmZWY2YjItYzMxNC00MjdiLWFjM2MtYmEwNjY1MTgyNjY4XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt1756855",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "red card + sunrise/sunset": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "powwow people": {
+    "Title": "Powwow People",
+    "Year": "2025",
+    "Rated": "N/A",
+    "Released": "N/A",
+    "Runtime": "88 min",
+    "Genre": "Documentary",
+    "Director": "Sky Hopinka",
+    "Writer": "N/A",
+    "Actors": "N/A",
+    "Plot": "A cinematic invitation into the realm of Native American powwow culture.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "N/A",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt28730655",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the dog stars (2026)": {
+    "Title": "The Dog Stars",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "28 Aug 2026",
+    "Runtime": "N/A",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Ridley Scott",
+    "Writer": "Peter Heller, Mark L. Smith, Christopher Wilkinson",
+    "Actors": "Jacob Elordi, Margaret Qualley, Josh Brolin",
+    "Plot": "In a post-apocalyptic world, a virus wipes out humanity. Survivors face roaming scavengers called Reapers. Protagonist Hig, a pilot, survived the flu but lost his wife.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDBkZTNhMmQtMjliNS00OTIyLWI1OTItYzEzZTU0NGU0NTI4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt21285562",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "basic instinct (1992)": {
+    "Title": "Basic Instinct",
+    "Year": "1992",
+    "Rated": "R",
+    "Released": "20 Mar 1992",
+    "Runtime": "127 min",
+    "Genre": "Drama, Mystery, Romance",
+    "Director": "Paul Verhoeven",
+    "Writer": "Joe Eszterhas",
+    "Actors": "Michael Douglas, Sharon Stone, George Dzundza",
+    "Plot": "A violent police detective investigates a brutal murder that might involve a manipulative and seductive novelist.",
+    "Language": "English, Spanish",
+    "Country": "France, United States",
+    "Awards": "Nominated for 2 Oscars. 6 wins & 23 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjlhMGM2ZWItN2ZhZi00YzU0LTg1MTQtNzczZmY3OGJlOGM4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "56%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "43/100"
+      }
+    ],
+    "Metascore": "43",
+    "imdbRating": "7.1",
+    "imdbVotes": "241,317",
+    "imdbID": "tt0103772",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$117,727,224",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "blow out (1981)": {
+    "Title": "Blow Out",
+    "Year": "1981",
+    "Rated": "R",
+    "Released": "24 Jul 1981",
+    "Runtime": "108 min",
+    "Genre": "Crime, Drama, Mystery",
+    "Director": "Brian De Palma",
+    "Writer": "Brian De Palma, Bill Mesce Jr.",
+    "Actors": "John Travolta, Nancy Allen, John Lithgow",
+    "Plot": "A movie sound recordist accidentally records the evidence that proves that a car accident was actually murder and consequently finds himself in danger.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "2 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTc0MTY2ZWMtOTY4NC00ZDUyLWI0MTUtMmYxYjA4MzJhYTk0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "88%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "86/100"
+      }
+    ],
+    "Metascore": "86",
+    "imdbRating": "7.4",
+    "imdbVotes": "74,172",
+    "imdbID": "tt0082085",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$12,000,000",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "butthole surfers: the hole truth and nothing butt (2025)": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "by any means (2026)": {
+    "Title": "By Any Means",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "04 Sep 2026",
+    "Runtime": "N/A",
+    "Genre": "Action, Crime, Thriller",
+    "Director": "Elegance Bratton",
+    "Writer": "Sascha Penn, Theodore Witcher",
+    "Actors": "Mark Wahlberg, Giancarlo Esposito, Yahya Abdul-Mateen II",
+    "Plot": "A notorious mafia hitman and a young Black FBI agent team up to investigate the murders of civil rights leaders in 1966 Mississippi.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0MTQ4OTMyMV5BMl5BanBnXkFtZTcwMTQxOTY1NA@@._V1_QL75_UX280_CR0,0,280,280_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt34379051",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "de palma (2015)": {
+    "Title": "De Palma",
+    "Year": "2015",
+    "Rated": "R",
+    "Released": "23 Sep 2016",
+    "Runtime": "110 min",
+    "Genre": "Documentary, Biography",
+    "Director": "Noah Baumbach, Jake Paltrow",
+    "Writer": "N/A",
+    "Actors": "Brian De Palma, Mark Hamill, Amy Irving",
+    "Plot": "A documentary about writer and director Brian De Palma.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 4 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDNlYTgyNTItZWM4NC00YmNmLWEzYjEtZjFkN2ZhODgxNDE5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "95%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.4",
+    "imdbVotes": "6,478",
+    "imdbID": "tt1683048",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$165,237",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "practical magic 2 (2026)": {
+    "Title": "Practical Magic 2",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "11 Sep 2026",
+    "Runtime": "N/A",
+    "Genre": "Comedy, Drama, Fantasy",
+    "Director": "Susanne Bier",
+    "Writer": "Akiva Goldsman, Alice Hoffman, Georgia Pritchett",
+    "Actors": "Lee Pace, Nicole Kidman, Maisie Williams",
+    "Plot": "A multi generational family of witches, cursed to be loveless for centuries, attempts to break the spell by confronting dark secrets and sacrificing for each other.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2U2NDgxYzItOWExYS00NzVlLTkwOTMtMzQ1ZWM0ZWMyMjg1XkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt32588798",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "ernie & emma (2026)": {
+    "Title": "Ernie & Emma",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "15 Feb 2026",
+    "Runtime": "N/A",
+    "Genre": "Comedy",
+    "Director": "Bruce Campbell",
+    "Writer": "N/A",
+    "Actors": "Bruce Campbell, Cerina Vincent, Robin McAlpine",
+    "Plot": "Widowed pear salesman Ernie Tyler travels to scatter his wife's ashes in places she specified, each location stirring memories that help him process their marriage, his work life, and his future.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzMxMDYxZDktZTY5YS00MzhmLWEyZmQtNjg1YjE0ZjM1MTcyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt37091259",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "finding emily (2026)": {
+    "Title": "Finding Emily",
+    "Year": "2026",
+    "Rated": "PG-13",
+    "Released": "22 May 2026",
+    "Runtime": "111 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Alicia MacDonald",
+    "Writer": "Rachel Hirons",
+    "Actors": "Angourie Rice, Spike Fearn, Minnie Driver",
+    "Plot": "When a lovesick musician is given the wrong number for his dream girl, he teams up with a driven psychology student to find her. Together, they spark a hilarious campus-wide frenzy that tests their own hearts and ambitions along t...",
+    "Language": "English",
+    "Country": "United Kingdom, United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2MzZDk2Y2ItYzNiZS00Y2Y3LTg2NzYtMmI3NmI4NGFhYzBmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.2/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "71/100"
+      }
+    ],
+    "Metascore": "71",
+    "imdbRating": "7.2",
+    "imdbVotes": "939",
+    "imdbID": "tt32499466",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "first blood (1982)": {
+    "Title": "First Blood",
+    "Year": "1982",
+    "Rated": "R",
+    "Released": "22 Oct 1982",
+    "Runtime": "93 min",
+    "Genre": "Action, Adventure, Thriller",
+    "Director": "Ted Kotcheff",
+    "Writer": "David Morrell, Michael Kozoll, William Sackheim",
+    "Actors": "Sylvester Stallone, Brian Dennehy, Richard Crenna",
+    "Plot": "Green Beret veteran Rambo takes on a Pacific Northwest sheriff and the National Guard.",
+    "Language": "English",
+    "Country": "United States, Netherlands",
+    "Awards": "1 win & 4 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzc4ZmQ5YzEtYTQzYy00ZDdiLWI2NmQtZTA3MzM1ZGIyYmUzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "86%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "61/100"
+      }
+    ],
+    "Metascore": "61",
+    "imdbRating": "7.7",
+    "imdbVotes": "299,053",
+    "imdbID": "tt0083944",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$47,212,904",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "spider-man: brand new day (2026)": {
+    "Title": "Spider-Man: Brand New Day",
+    "Year": "2026",
+    "Rated": "PG-13",
+    "Released": "31 Jul 2026",
+    "Runtime": "145 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Destin Daniel Cretton",
+    "Writer": "Chris McKenna, Erik Sommers, Stan Lee",
+    "Actors": "Tom Holland, Zendaya, Mark Ruffalo",
+    "Plot": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
+    "Language": "English",
+    "Country": "United States, Canada, United Kingdom, Germany",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "66/100"
+      }
+    ],
+    "Metascore": "66",
+    "imdbRating": "8.1",
+    "imdbVotes": "183,571",
+    "imdbID": "tt22084616",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$655,088,528",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "idiots (2026)": {
+    "Title": "Idiots",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "28 Aug 2026",
+    "Runtime": "98 min",
+    "Genre": "Comedy, Crime",
+    "Director": "Macon Blair",
+    "Writer": "Macon Blair, Alex Orr",
+    "Actors": "Dave Franco, O'Shea Jackson Jr., Mason Thames",
+    "Plot": "Two rock-bottom drivers transport a wealthy teen to rehab, but their simple job spirals into a chaotic journey of drugs, danger, and crime as their passenger derails their plans.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTc4MTMwMzEtOGQ1Ni00OWJiLWE3YmEtMzIxZmNjNDBkZDQwXkEyXkFqcGc@._V1_QL75_UY562_CR310,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "67/100"
+      }
+    ],
+    "Metascore": "67",
+    "imdbRating": "6.1",
+    "imdbVotes": "81",
+    "imdbID": "tt6628920",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "insidious: out of the further (2026)": {
+    "Title": "Insidious: Out of the Further",
+    "Year": "2026",
+    "Rated": "PG-13",
+    "Released": "21 Aug 2026",
+    "Runtime": "106 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Jacob Chase",
+    "Writer": "David Leslie Johnson-McGoldrick, Leigh Whannell, Jacob Chase",
+    "Actors": "Lin Shaye, Sam Spruell, Maisie Richardson-Sellers",
+    "Plot": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+    "Language": "English",
+    "Country": "Australia, United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4YjM1OGItMDlmMi00OTU1LWEzM2MtZGMyZTQ1NzhiM2VhXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt32393988",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "it ends (2025)": {
+    "Title": "It Ends",
+    "Year": "2025",
+    "Rated": "R",
+    "Released": "10 Dec 2025",
+    "Runtime": "89 min",
+    "Genre": "Drama, Fantasy, Horror",
+    "Director": "Alex Ullom",
+    "Writer": "Alex Ullom",
+    "Actors": "Mitchell Cole, Akira Jackson, Noah Toth",
+    "Plot": "Friends on a late-night food run become trapped on an infinite highway with otherworldly terrors lurking beyond. Confined in their Jeep Cherokee, they must decide whether to accept their fate or attempt escape.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 2 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjI5MDU4YjktNDkwYi00ODk4LThiY2ItMDE5ZjdhZjIzNzkzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "100%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.7",
+    "imdbVotes": "4,354",
+    "imdbID": "tt35519455",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "moonrise kingdom (2012)": {
+    "Title": "Moonrise Kingdom",
+    "Year": "2012",
+    "Rated": "PG-13",
+    "Released": "29 Jun 2012",
+    "Runtime": "94 min",
+    "Genre": "Adventure, Comedy, Drama",
+    "Director": "Wes Anderson",
+    "Writer": "Wes Anderson, Roman Coppola",
+    "Actors": "Jared Gilman, Kara Hayward, Bruce Willis",
+    "Plot": "Two 12-year-olds, who live on an island, fall in love with each other and elope into the wilderness. While people set out on a search mission, a violent storm approaching them catches their attention.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 1 Oscar. 36 wins & 121 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTEwMTc3NDkzOTJeQTJeQWpwZ15BbWU3MDI4NTAwNzc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "93%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "84/100"
+      }
+    ],
+    "Metascore": "84",
+    "imdbRating": "7.7",
+    "imdbVotes": "382,558",
+    "imdbID": "tt1748122",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$45,512,466",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "mothra vs. godzilla (1964)": {
+    "Title": "Mothra vs. Godzilla",
+    "Year": "1964",
+    "Rated": "Not Rated",
+    "Released": "26 Aug 1964",
+    "Runtime": "89 min",
+    "Genre": "Adventure, Fantasy, Sci-Fi",
+    "Director": "Ishir\u00f4 Honda",
+    "Writer": "Shin'ichi Sekizawa",
+    "Actors": "Akira Takarada, Yuriko Hoshi, Hiroshi Koizumi",
+    "Plot": "When greedy tycoons refuse to return Mothra's egg to the people of Infant Island, they must decide if they are willing to answer Japan's own pleas for help when Godzilla arises near Nagoya.",
+    "Language": "Japanese, Marshallese",
+    "Country": "Japan",
+    "Awards": "1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmNmMGRhNjAtMTUyNS00NTAyLTgxMzQtNzk1ZGI2MzczYWUwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "93%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.5",
+    "imdbVotes": "11,501",
+    "imdbID": "tt0058379",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the outsiders: the complete novel (1983)": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "mutiny (2026)": {
+    "Title": "Mutiny",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "21 Aug 2026",
+    "Runtime": "95 min",
+    "Genre": "Action, Crime, Thriller",
+    "Director": "Jean-Fran\u00e7ois Richet",
+    "Writer": "J.P. Davis, Lindsay Michel",
+    "Actors": "Jason Statham, Annabelle Wallis, Adrian Lester",
+    "Plot": "After his billionaire industrialist boss is murdered in front of him, Cole Reed is set up to take the fall for the crime -- leaving him on the run as he works to uncover an international conspiracy.",
+    "Language": "English",
+    "Country": "United Kingdom, United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTVjMjVlZjktZTg1Zi00ZDdmLTk1ODItNDE1Y2I4MTg1MDQ0XkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt32338669",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "one night only (2026)": {
+    "Title": "One Night Only",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "07 Aug 2026",
+    "Runtime": "102 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Will Gluck",
+    "Writer": "Travis Braun",
+    "Actors": "Monica Barbaro, Callum Turner, Charlie Gillespie",
+    "Plot": "Two New Yorkers search for love on the one night of the year when pre-marital sex is legal.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2ZlYTQ2YmUtZTNlNy00OGI0LWFmNjctN2MyNjYzNjAzNjliXkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.4/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "43/100"
+      }
+    ],
+    "Metascore": "43",
+    "imdbRating": "6.4",
+    "imdbVotes": "1,318",
+    "imdbID": "tt37853455",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$5,700,000",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "onslaught (2026)": {
+    "Title": "Onslaught",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "04 Sep 2026",
+    "Runtime": "N/A",
+    "Genre": "Action, Horror, Thriller",
+    "Director": "Adam Wingard",
+    "Writer": "Simon Barrett, Adam Wingard",
+    "Actors": "Dan Stevens, Adria Arjona, Rebecca Hall",
+    "Plot": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTNkNGZjOWItNTQ1Yy00ZGE4LWFhOTUtNmQyNDk1OTNkMTljXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt32268691",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "paw patrol: the dino movie (2026)": {
+    "Title": "PAW Patrol: The Dino Movie",
+    "Year": "2026",
+    "Rated": "PG",
+    "Released": "14 Aug 2026",
+    "Runtime": "88 min",
+    "Genre": "Animation, Action, Adventure",
+    "Director": "Cal Brunker",
+    "Writer": "Cal Brunker, Bob Barlen, Keith Chapman",
+    "Actors": "Carter Young, Mckenna Grace, Terry Crews",
+    "Plot": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
+    "Language": "English",
+    "Country": "Canada, United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2E2Y2Q0Y2ItZTUyZS00MzllLTkwYmQtYjdmNzM3NGRiYjFmXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "47/100"
+      }
+    ],
+    "Metascore": "47",
+    "imdbRating": "6.2",
+    "imdbVotes": "1,038",
+    "imdbID": "tt29356163",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$20,254,688",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "remake (2016)": {
+    "Title": "The Conjuring 2 Remake",
+    "Year": "2016",
+    "Rated": "N/A",
+    "Released": "10 Nov 2016",
+    "Runtime": "70 min",
+    "Genre": "Horror",
+    "Director": "Simon Logan",
+    "Writer": "N/A",
+    "Actors": "Tyra Forsgren, Angelina Lawson, Miranda Gray, Matilda Westin",
+    "Plot": "The supernatural thriller brings another real case from the files of renowned demonologists Ed and Lorraine Warren. Lorraine and Ed Warren, who, in one of their most terrifying paranormal ...",
+    "Language": "English",
+    "Country": "Sweden",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjdhZGY1ZjEtNzBlOC00YmYxLWFkMTAtYzBlMDI2ZGJmNTUzXkEyXkFqcGdeQXVyNjU0NDIxMDU@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "80%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.7",
+    "imdbVotes": "256",
+    "imdbID": "tt6951902",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "spa weekend (2026)": {
+    "Title": "Spa Weekend",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "21 Aug 2026",
+    "Runtime": "97 min",
+    "Genre": "Comedy",
+    "Director": "Jon Lucas, Scott Moore",
+    "Writer": "Jon Lucas, Scott Moore",
+    "Actors": "Anna Faris, Isla Fisher, Leslie Mann",
+    "Plot": "Three friends go on a spa weekend that descends into chaos when their trainwreck friend joins, leading to hilarious consequences.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTcwYjQwMzEtMTAwMS00MjQxLTg5NTEtNzExNzI1ODQzNmQ4XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt33305867",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "teenage sex and death at camp miasma (2026)": {
+    "Title": "Teenage Sex and Death at Camp Miasma",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "07 Aug 2026",
+    "Runtime": "112 min",
+    "Genre": "Drama, Horror, Romance",
+    "Director": "Jane Schoenbrun",
+    "Writer": "Jane Schoenbrun",
+    "Actors": "Gillian Anderson, Hannah Einbinder, Patrick Fischler",
+    "Plot": "A director making a slasher sequel becomes obsessed with casting the original film's 'final girl,' leading both women into psychological and sexual chaos.",
+    "Language": "English",
+    "Country": "United States, Canada, United Kingdom",
+    "Awards": "2 wins & 2 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTRlMWM2ZmQtNTljZC00MTg0LTlhNzQtZDg2N2FiMmU1NWY1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.1/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "89/100"
+      }
+    ],
+    "Metascore": "89",
+    "imdbRating": "7.1",
+    "imdbVotes": "912",
+    "imdbID": "tt35298123",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "don't torture a duckling (1972)": {
+    "Title": "Don't Torture a Duckling",
+    "Year": "1972",
+    "Rated": "Not Rated",
+    "Released": "29 Sep 1972",
+    "Runtime": "105 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Lucio Fulci",
+    "Writer": "Lucio Fulci, Roberto Gianviti, Gianfranco Clerici",
+    "Actors": "Florinda Bolkan, Barbara Bouchet, Tomas Milian",
+    "Plot": "When a southern Italian town is rocked by a string of child murders, the police and two urban outcasts search for the culprit amid scapegoating within the superstitious community.",
+    "Language": "Italian",
+    "Country": "Italy",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWZmNzU5NDAtNDBhYi00MzQ5LWE0OTItYTMxNGYyNDc1MjAxXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "88%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.0",
+    "imdbVotes": "12,474",
+    "imdbID": "tt0069019",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "saw vi (2009)": {
+    "Title": "Saw VI",
+    "Year": "2009",
+    "Rated": "R",
+    "Released": "23 Oct 2009",
+    "Runtime": "90 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Kevin Greutert",
+    "Writer": "Patrick Melton, Marcus Dunstan",
+    "Actors": "Costas Mandylor, Mark Rolston, Betsy Russell",
+    "Plot": "Agent Strahm is dead, and FBI agent Erickson draws nearer to Hoffman. Meanwhile, a pair of insurance executives find themselves in another game set by Jigsaw.",
+    "Language": "English",
+    "Country": "Canada, United States, Australia",
+    "Awards": "2 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NDA3MTM4M15BMl5BanBnXkFtZTcwOTY4Njg3Mg@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "39%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "30/100"
+      }
+    ],
+    "Metascore": "30",
+    "imdbRating": "6.1",
+    "imdbVotes": "134,052",
+    "imdbID": "tt1233227",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$27,693,292",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the doors (1991)": {
+    "Title": "The Doors",
+    "Year": "1991",
+    "Rated": "R",
+    "Released": "01 Mar 1991",
+    "Runtime": "140 min",
+    "Genre": "Biography, Drama, Music",
+    "Director": "Oliver Stone",
+    "Writer": "Randall Jahnson, Oliver Stone",
+    "Actors": "Val Kilmer, Meg Ryan, Kyle MacLachlan",
+    "Plot": "Jim Morrison's life, from his LA film student days to his death in Paris. Val Kilmer delivers an uncanny portrayal, with vocals indistinguishable from Morrison's originals. It depicts Morrison's journey as the iconic 60s rock fron...",
+    "Language": "English",
+    "Country": "France, United States",
+    "Awards": "3 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2JlMDYyYWEtMmY3Ny00ODgyLWFiMDMtZjFmNzQ3NzE3Njg5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "57%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "62/100"
+      }
+    ],
+    "Metascore": "62",
+    "imdbRating": "7.2",
+    "imdbVotes": "105,333",
+    "imdbID": "tt0101761",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$34,416,893",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the end of oak street (2026)": {
+    "Title": "The End of Oak Street",
+    "Year": "2026",
+    "Rated": "PG-13",
+    "Released": "14 Aug 2026",
+    "Runtime": "99 min",
+    "Genre": "Action, Adventure, Mystery",
+    "Director": "David Robert Mitchell",
+    "Writer": "David Robert Mitchell",
+    "Actors": "Anne Hathaway, Ewan McGregor, Maisy Stella",
+    "Plot": "The Platt family bands together to navigate their new surroundings after a cosmic event transports their suburban neighborhood to someplace unknown.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGI0YmRjNWYtYTliYy00YzdjLTkzNzQtZWExNjA2ZDU5MzAwXkEyXkFqcGc@._V1_QL75_UY562_CR35,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt27165187",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the magic faraway tree (2026)": {
+    "Title": "The Magic Faraway Tree",
+    "Year": "2026",
+    "Rated": "PG",
+    "Released": "21 Aug 2026",
+    "Runtime": "110 min",
+    "Genre": "Adventure, Family, Fantasy",
+    "Director": "Ben Gregor",
+    "Writer": "Enid Blyton, Simon Farnaby",
+    "Actors": "Nonso Anozie, Sonny Meo, Andrew Garfield",
+    "Plot": "A modern family relocates to the countryside where the children discover a magical tree with eccentric residents. They're transported to fantastical lands, rekindling their family bond through adventures.",
+    "Language": "English",
+    "Country": "United Kingdom, United States, France",
+    "Awards": "1 win & 4 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZThiYWI3ZTYtMjZmYy00Njc5LWE4OGYtNTlmNTQyYWZmYjQ0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.2",
+    "imdbVotes": "4,800",
+    "imdbID": "tt7734244",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the odyssey (2026)": {
+    "Title": "The Odyssey",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "17 Jul 2026",
+    "Runtime": "172 min",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "Christopher Nolan",
+    "Writer": "Christopher Nolan, Homer",
+    "Actors": "Matt Damon, Tom Holland, Anne Hathaway",
+    "Plot": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "Language": "English, Greek",
+    "Country": "United Kingdom, United States, Canada, New Zealand, Iceland",
+    "Awards": "2 wins total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.5/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "88/100"
+      }
+    ],
+    "Metascore": "88",
+    "imdbRating": "8.5",
+    "imdbVotes": "377,702",
+    "imdbID": "tt33764258",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$461,172,890",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the wrong girls (2026)": {
+    "Title": "The Wrong Girls",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "14 Aug 2026",
+    "Runtime": "100 min",
+    "Genre": "Comedy, Crime, Drama",
+    "Director": "Dylan Meyer",
+    "Writer": "Dylan Meyer",
+    "Actors": "Kristen Stewart, Alia Shawkat, Cate Blanchett",
+    "Plot": "Two aimless young women inadvertently gain telepathic abilities after ingesting an experimental drug, pitting them against dangerous rivals pursuing the same powerful substance.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDc5ZTZiMmQtMDRjYi00NDAzLWEyMTQtYWIxNTFkMmE5ZWZkXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt35060353",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tony (2026)": {
+    "Title": "Tony",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "21 Aug 2026",
+    "Runtime": "106 min",
+    "Genre": "Biography, Comedy, Drama",
+    "Director": "Matt Johnson",
+    "Writer": "Todd Bartels, Lou Howe, Matt Johnson",
+    "Actors": "Dominic Sessa, Antonio Banderas, Emilia Jones",
+    "Plot": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+    "Language": "English",
+    "Country": "United States, Canada",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDc1NGEyMzAtZWNiNC00MDY0LTg2NmYtZWIxZmM0NTNhNjc0XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.7/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "75/100"
+      }
+    ],
+    "Metascore": "75",
+    "imdbRating": "7.7",
+    "imdbVotes": "156",
+    "imdbID": "tt33095251",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$348,995",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "toxic: a fairy tale for grown-ups (2026)": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "cherry 2000 (1988)": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "the invite (2026)": {
+    "Title": "The Invite",
+    "Year": "2026",
+    "Rated": "R",
+    "Released": "10 Jul 2026",
+    "Runtime": "107 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Olivia Wilde",
+    "Writer": "Cesc Gay, Will McCormack, Rashida Jones",
+    "Actors": "Seth Rogen, Olivia Wilde, Pen\u00e9lope Cruz",
+    "Plot": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
+    "Language": "English, Spanish",
+    "Country": "United States",
+    "Awards": "2 wins & 6 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjI0MzJjMjctNmQzZi00Y2U4LWEwZGItMmE3NDUzNzk1YzY3XkEyXkFqcGc@._V1_QL75_UX380_CR0,15,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "82/100"
+      }
+    ],
+    "Metascore": "82",
+    "imdbRating": "7.8",
+    "imdbVotes": "27,141",
+    "imdbID": "tt14173636",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$24,275,757",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the samurai and the prisoner (2026)": {
+    "Title": "Kokurojo: The Samurai and the Prisoner",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "N/A",
+    "Runtime": "N/A",
+    "Genre": "Drama, History, Mystery",
+    "Director": "Kiyoshi Kurosawa",
+    "Writer": "Kiyoshi Kurosawa, Honobu Yonezawa",
+    "Actors": "Munetaka Aoki, Tasuku Emoto, Ry\u00f4ta Miyadate",
+    "Plot": "Based on Honobu Yonezawa's novel. Set in 16th century Japan, follows Lord Murashige Araki who, besieged in his castle, confronts mysterious crimes and allies with imprisoned strategist Kanbei Kuroda to uncover the truth.",
+    "Language": "Japanese",
+    "Country": "Japan",
+    "Awards": "N/A",
+    "Poster": "N/A",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt39602215",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "union county (2026)": {
+    "Title": "Union County",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "14 Aug 2026",
+    "Runtime": "97 min",
+    "Genre": "Drama",
+    "Director": "Adam Meeks",
+    "Writer": "Adam Meeks",
+    "Actors": "Will Poulter, Kevin P. Braig, Annette Deao",
+    "Plot": "Assigned to a county-mandated drug court program, Cody Parsons embarks on the tenuous journey toward recovery amidst the opioid epidemic in rural Ohio.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "2 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTdiYTIwMGEtMzYwOC00NzlhLTk2NTQtMDdlYTBjYjhhMzRjXkEyXkFqcGc@._V1_QL75_UY562_CR1,0,380,562_.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.6/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "72/100"
+      }
+    ],
+    "Metascore": "72",
+    "imdbRating": "6.6",
+    "imdbVotes": "163",
+    "imdbID": "tt36981462",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "alphaville (1965)": {
+    "Title": "Alphaville",
+    "Year": "1965",
+    "Rated": "Not Rated",
+    "Released": "05 May 1965",
+    "Runtime": "99 min",
+    "Genre": "Comedy, Drama, Mystery",
+    "Director": "Jean-Luc Godard",
+    "Writer": "Jean-Luc Godard, Paul \u00c9luard",
+    "Actors": "Eddie Constantine, Anna Karina, Akim Tamiroff",
+    "Plot": "An agent wrecks the main computer on another planet.",
+    "Language": "French, English, Spanish",
+    "Country": "France, Italy",
+    "Awards": "1 win & 1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjk3MmMwMjktMzg3NC00YmJiLTg2YjMtMGZkMDI0MzBiOTNkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "92/100"
+      }
+    ],
+    "Metascore": "92",
+    "imdbRating": "7.0",
+    "imdbVotes": "29,952",
+    "imdbID": "tt0058898",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$47,696",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "space is the place (1974)": {
+    "Title": "Space Is the Place",
+    "Year": "1974",
+    "Rated": "R",
+    "Released": "01 Nov 1974",
+    "Runtime": "82 min",
+    "Genre": "Sci-Fi, Music",
+    "Director": "John Coney",
+    "Writer": "Joshua Smith, Sun Ra",
+    "Actors": "Sun Ra, Raymond Johnson, Christopher Brooks",
+    "Plot": "In an effort to bring unity and equality to African-Americans, an interstellar traveler and musician lands on earth and duels with an evil overlord for the souls of people.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDY1NTAzYzQtZThmYy00ZTQ2LTk3NDctNjQ2NmQwOTk5Yzg4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "71%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.5",
+    "imdbVotes": "1,550",
+    "imdbID": "tt0072195",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "solaris (2002)": {
+    "Title": "Solaris",
+    "Year": "2002",
+    "Rated": "PG-13",
+    "Released": "27 Nov 2002",
+    "Runtime": "99 min",
+    "Genre": "Drama, Mystery, Romance",
+    "Director": "Steven Soderbergh",
+    "Writer": "Stanislaw Lem, Steven Soderbergh",
+    "Actors": "George Clooney, Natascha McElhone, Ulrich Tukur",
+    "Plot": "A troubled psychologist is sent to investigate the crew of an isolated research station orbiting a bizarre planet.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "2 wins & 11 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODM3ZWM5NjMtNDE5NC00ODEwLTllZGUtMTdlNzQ5NTNiNmIwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "66%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "67/100"
+      }
+    ],
+    "Metascore": "67",
+    "imdbRating": "6.2",
+    "imdbVotes": "88,658",
+    "imdbID": "tt0307479",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$14,973,382",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "la jet\u00e9e + the last angel of history": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "memoria (2021)": {
+    "Title": "Memoria",
+    "Year": "2021",
+    "Rated": "PG",
+    "Released": "30 Sep 2021",
+    "Runtime": "136 min",
+    "Genre": "Drama, Mystery, Sci-Fi",
+    "Director": "Apichatpong Weerasethakul",
+    "Writer": "Apichatpong Weerasethakul",
+    "Actors": "Tilda Swinton, Agnes Brekke, Daniel Gim\u00e9nez Cacho",
+    "Plot": "A woman from Scotland, while traveling in Colombia, begins to notice strange sounds. Soon she begins to think about their appearance.",
+    "Language": "English, Spanish",
+    "Country": "Colombia, Thailand, France, Germany, Mexico, Qatar, United Kingdom, China, United States, Switzerland, Taiwan, Japan, Netherlands, Hong Kong",
+    "Awards": "9 wins & 27 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTFkZjU3MGUtM2MxNS00MzM5LTg3NGQtMTFkYWViNWFiNmVlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "90%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "92/100"
+      }
+    ],
+    "Metascore": "92",
+    "imdbRating": "6.4",
+    "imdbVotes": "12,377",
+    "imdbID": "tt8399288",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$52,656",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "stalker (1979)": {
+    "Title": "Stalker",
+    "Year": "1979",
+    "Rated": "Not Rated",
+    "Released": "17 Apr 1980",
+    "Runtime": "162 min",
+    "Genre": "Drama, Sci-Fi",
+    "Director": "Andrei Tarkovsky",
+    "Writer": "Arkadiy Strugatskiy, Boris Strugatskiy, Andrei Tarkovsky",
+    "Actors": "Alisa Freyndlikh, Aleksandr Kaydanovskiy, Anatoliy Solonitsyn",
+    "Plot": "A guide leads two men through an area known as the Zone to find a room that grants wishes.",
+    "Language": "Russian",
+    "Country": "Soviet Union",
+    "Awards": "2 wins & 2 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDIzMDRiYjgtM2U1Yy00MjlhLTliODMtM2E5NDI5Njc3YmZkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "100%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "85/100"
+      }
+    ],
+    "Metascore": "85",
+    "imdbRating": "8.0",
+    "imdbVotes": "155,355",
+    "imdbID": "tt0079944",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$292,049",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "2046 (2004)": {
+    "Title": "2046",
+    "Year": "2004",
+    "Rated": "R",
+    "Released": "29 Sep 2004",
+    "Runtime": "129 min",
+    "Genre": "Drama, Romance, Sci-Fi",
+    "Director": "Wong Kar-Wai",
+    "Writer": "Wong Kar-Wai",
+    "Actors": "Tony Leung Chiu-wai, Ziyi Zhang, Faye Wong",
+    "Plot": "Several women enter a science fiction author's life over the course of a few years, after the author has lost the woman he considers his one true love.",
+    "Language": "Cantonese, Japanese, Mandarin",
+    "Country": "Hong Kong, China, France, Italy, Germany, Netherlands",
+    "Awards": "38 wins & 81 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGM2NTQyM2MtODAzMi00NWVjLTgwNWMtYjNkMjMxZmUwOTU3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "78/100"
+      }
+    ],
+    "Metascore": "78",
+    "imdbRating": "7.4",
+    "imdbVotes": "65,046",
+    "imdbID": "tt0212712",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$1,444,588",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "existenz (1999)": {
+    "Title": "eXistenZ",
+    "Year": "1999",
+    "Rated": "R",
+    "Released": "23 Apr 1999",
+    "Runtime": "97 min",
+    "Genre": "Horror, Mystery, Sci-Fi",
+    "Director": "David Cronenberg",
+    "Writer": "David Cronenberg",
+    "Actors": "Jude Law, Jennifer Jason Leigh, Ian Holm",
+    "Plot": "A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.",
+    "Language": "English",
+    "Country": "United Kingdom, France, Canada",
+    "Awards": "3 wins & 14 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjk3MGRhN2EtN2IyYi00NjFkLWFmNTUtNWI3MzZiYjI2ZjRkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "77%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "70/100"
+      }
+    ],
+    "Metascore": "70",
+    "imdbRating": "6.8",
+    "imdbVotes": "111,094",
+    "imdbID": "tt0120907",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$2,856,712",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "on the silver globe (1987)": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "born in flames (1983)": {
+    "Title": "Born in Flames",
+    "Year": "1983",
+    "Rated": "Not Rated",
+    "Released": "01 Apr 1983",
+    "Runtime": "79 min",
+    "Genre": "Drama, Sci-Fi",
+    "Director": "Lizzie Borden",
+    "Writer": "Ed Bowes, Lizzie Borden",
+    "Actors": "Honey, Adele Bertei, Jean Satterfield",
+    "Plot": "Set ten years after the most peaceful revolution in United States history, it presents a dystopia in which the issues of many groups - minorities, liberals, gay rights organizations, feminists - are dealt with by the government.",
+    "Language": "English, French",
+    "Country": "United States",
+    "Awards": "2 wins total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWYyODk5NzgtYWM1MC00MzA3LWIyMzItNDYwMTRhODg1NTBlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "89%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.5",
+    "imdbVotes": "2,418",
+    "imdbID": "tt0085267",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tetsuo: the iron man (1989)": {
+    "Title": "Tetsuo: The Iron Man",
+    "Year": "1989",
+    "Rated": "Not Rated",
+    "Released": "01 Jul 1989",
+    "Runtime": "67 min",
+    "Genre": "Horror, Sci-Fi",
+    "Director": "Shin'ya Tsukamoto",
+    "Writer": "Shin'ya Tsukamoto",
+    "Actors": "Tomor\u00f4 Taguchi, Kei Fujiwara, Nobu Kanaoka",
+    "Plot": "A businessman accidentally kills The Metal Fetishist, who gets his revenge by slowly turning the man into a grotesque hybrid of flesh and rusty metal.",
+    "Language": "Japanese",
+    "Country": "Japan",
+    "Awards": "2 wins total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2YwM2EyZDMtZTdhYi00NDg1LTgxYWItNWU2NDdiY2JiZGJjXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "78%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.9",
+    "imdbVotes": "28,476",
+    "imdbID": "tt0096251",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the thin man": {
+    "Title": "The Thin Man",
+    "Year": "1934",
+    "Rated": "TV-PG",
+    "Released": "25 May 1934",
+    "Runtime": "91 min",
+    "Genre": "Comedy, Crime, Mystery",
+    "Director": "W.S. Van Dyke",
+    "Writer": "Albert Hackett, Frances Goodrich, Dashiell Hammett",
+    "Actors": "William Powell, Myrna Loy, Maureen O'Sullivan",
+    "Plot": "Former detective Nick Charles and his wealthy wife Nora investigate a murder case, mostly for the fun of it.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 4 Oscars. 6 wins & 4 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWNhZmQxMzUtZDMxYS00OWFhLWI1MjgtOTYxNmM0NWQ3M2FhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "98%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "86/100"
+      }
+    ],
+    "Metascore": "86",
+    "imdbRating": "7.9",
+    "imdbVotes": "34,049",
+    "imdbID": "tt0025878",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "lassie +  jean rescues": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "umberto d.": {
+    "Title": "Umberto D.",
+    "Year": "1952",
+    "Rated": "Not Rated",
+    "Released": "07 Nov 1955",
+    "Runtime": "89 min",
+    "Genre": "Drama",
+    "Director": "Vittorio De Sica",
+    "Writer": "Cesare Zavattini",
+    "Actors": "Carlo Battisti, Maria Pia Casilio, Lina Gennari",
+    "Plot": "An elderly man and his dog struggle to survive on his government pension in Rome.",
+    "Language": "Italian",
+    "Country": "Italy",
+    "Awards": "Nominated for 1 Oscar. 3 wins & 3 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWRkY2VmOTEtMTk5My00OWZmLWFmYWMtODE3ZmYyZTBhNTE0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "98%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "92/100"
+      }
+    ],
+    "Metascore": "92",
+    "imdbRating": "8.1",
+    "imdbVotes": "30,490",
+    "imdbID": "tt0045274",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$71,816",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "best in show + every dog has his day: ilak\u2019s birthday": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "seeking haven for mr. rambo": {
+    "Title": "Seeking Haven for Mr Rambo",
+    "Year": "2024",
+    "Rated": "N/A",
+    "Released": "04 Sep 2024",
+    "Runtime": "100 min",
+    "Genre": "Comedy, Drama, Thriller",
+    "Director": "Khaled Mansour",
+    "Writer": "Mohamed El-Hosseiny, Khaled Mansour",
+    "Actors": "Essam Omar, Rakeen Saad, Samma Ibrahim",
+    "Plot": "On a quest to save Rambo, his dog and best friend; Hassan is forced to confront the fears of his past and rediscovers himself.",
+    "Language": "Arabic",
+    "Country": "Egypt",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2RkZGZmNmQtMmU2OC00ODM0LTk4NGMtNWJiZDI1ODIxMDI0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt33030125",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "nostalghia": {
+    "Title": "Nostalghia",
+    "Year": "1983",
+    "Rated": "Not Rated",
+    "Released": "01 Mar 1992",
+    "Runtime": "125 min",
+    "Genre": "Drama",
+    "Director": "Andrei Tarkovsky",
+    "Writer": "Andrei Tarkovsky, Tonino Guerra",
+    "Actors": "Oleg Yankovskiy, Erland Josephson, Domiziana Giordano",
+    "Plot": "A Russian poet and his interpreter travel to Italy researching the life of an 18th-century composer, and instead meet a ruminative madman who tells the poet how the world may be saved.",
+    "Language": "Italian, Russian",
+    "Country": "Italy, Soviet Union",
+    "Awards": "3 wins & 1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWFjMGFhYzEtODZkZS00MDRjLWE2NGEtMWRhODcwMzNiN2I1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "88%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "74/100"
+      }
+    ],
+    "Metascore": "74",
+    "imdbRating": "7.9",
+    "imdbVotes": "32,844",
+    "imdbID": "tt0086022",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$303,022",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the wizard of oz": {
+    "Title": "The Wizard of Oz",
+    "Year": "1939",
+    "Rated": "G",
+    "Released": "25 Aug 1939",
+    "Runtime": "102 min",
+    "Genre": "Adventure, Family, Fantasy",
+    "Director": "Victor Fleming, George Cukor, Norman Taurog",
+    "Writer": "Noel Langley, Florence Ryerson, Edgar Allan Woolf",
+    "Actors": "Judy Garland, Frank Morgan, Ray Bolger",
+    "Plot": "Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the others...",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Won 2 Oscars. 16 wins & 14 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWRmY2I0MGItYTQ0OC00NWZmLWIwMDktYjJlNDc0MzVhMmViXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "98%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "92/100"
+      }
+    ],
+    "Metascore": "92",
+    "imdbRating": "8.1",
+    "imdbVotes": "464,833",
+    "imdbID": "tt0032138",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$24,668,669",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "wendy and lucy": {
+    "Title": "Wendy and Lucy",
+    "Year": "2008",
+    "Rated": "R",
+    "Released": "06 Mar 2009",
+    "Runtime": "80 min",
+    "Genre": "Drama",
+    "Director": "Kelly Reichardt",
+    "Writer": "Jonathan Raymond, Kelly Reichardt",
+    "Actors": "Michelle Williams, Lucy, David Koppell",
+    "Plot": "Over the summer, a series of unfortunate happenings triggers a financial crisis for a young woman and she soon finds her life falling apart.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "9 wins & 16 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTI3MTE1NjAwNV5BMl5BanBnXkFtZTcwMDM3MzMwMg@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "85%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "80/100"
+      }
+    ],
+    "Metascore": "80",
+    "imdbRating": "7.1",
+    "imdbVotes": "20,201",
+    "imdbID": "tt1152850",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$865,695",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "space dogs": {
+    "Title": "Space Dogs",
+    "Year": "2010",
+    "Rated": "G",
+    "Released": "26 Jul 2013",
+    "Runtime": "85 min",
+    "Genre": "Animation, Adventure, Comedy",
+    "Director": "Inna Evlannikova, Svyatoslav Ushakov",
+    "Writer": "John Chua, Alexander Talal, Vadim Sveshnikov",
+    "Actors": "Anna Bolshova, Elena Yakovleva, Evgeniy Mironov",
+    "Plot": "Schoolbooks say that Belka and Strelka were first space dogs. But the dogs say that people dissemble a lot.",
+    "Language": "Russian",
+    "Country": "Russia",
+    "Awards": "1 win total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjYwMTIxODA2NF5BMl5BanBnXkFtZTcwMTUyOTY3Mw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.0/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.0",
+    "imdbVotes": "1,595",
+    "imdbID": "tt1272051",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$14,408",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "silence of the lambs + dog factory": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "fallen leaves + jean the matchmaker": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "atlantics": {
+    "Title": "Atlantics",
+    "Year": "2019",
+    "Rated": "TV-14",
+    "Released": "29 Nov 2019",
+    "Runtime": "106 min",
+    "Genre": "Drama, Fantasy, Mystery",
+    "Director": "Mati Diop",
+    "Writer": "Mati Diop, Olivier Demangel",
+    "Actors": "Mame Bineta Sane, Amadou Mbow, Traore",
+    "Plot": "In a popular suburb of Dakar, workers on the construction site of a futuristic tower, without pay for months, decide to leave the country by the ocean for a better future. Among them is Souleiman, the lover of Ada, promised to ano...",
+    "Language": "Wolof, French, Arabic, English",
+    "Country": "France, Senegal, Belgium",
+    "Awards": "13 wins & 64 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGY1NTZhMTAtMjc2Ni00OGM1LTliMmUtM2I0MDQ2OTQ1NWJkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "85/100"
+      }
+    ],
+    "Metascore": "85",
+    "imdbRating": "6.7",
+    "imdbVotes": "10,714",
+    "imdbID": "tt10199586",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "body double": {
+    "Title": "Body Double",
+    "Year": "1984",
+    "Rated": "R",
+    "Released": "26 Oct 1984",
+    "Runtime": "114 min",
+    "Genre": "Crime, Drama, Mystery",
+    "Director": "Brian De Palma",
+    "Writer": "Robert J. Avrech, Brian De Palma",
+    "Actors": "Craig Wasson, Melanie Griffith, Gregg Henry",
+    "Plot": "A young actor's obsession with spying on a beautiful woman who lives nearby leads to a baffling series of events with drastic consequences.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "1 win & 4 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjhkM2Q4MWUtOGY1OC00MDgxLTgxYzMtMjdhOTdlNDUxYzlhXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "79%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "69/100"
+      }
+    ],
+    "Metascore": "69",
+    "imdbRating": "6.8",
+    "imdbVotes": "43,178",
+    "imdbID": "tt0086984",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$8,801,940",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "wild things": {
+    "Title": "Wild Things",
+    "Year": "1998",
+    "Rated": "R",
+    "Released": "20 Mar 1998",
+    "Runtime": "108 min",
+    "Genre": "Crime, Drama, Mystery",
+    "Director": "John McNaughton",
+    "Writer": "Stephen Peters",
+    "Actors": "Kevin Bacon, Neve Campbell, Matt Dillon",
+    "Plot": "A police detective uncovers a conspiracy behind a case involving a high-school guidance counselor when accusations of rape are made against him by two female students.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "2 wins & 4 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDRiYjFlNjgtNWJkMS00YjAzLTg1OTItZTkxOTFlZDA1N2U4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "65%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "51/100"
+      }
+    ],
+    "Metascore": "51",
+    "imdbRating": "6.6",
+    "imdbVotes": "140,395",
+    "imdbID": "tt0120890",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$30,147,739",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "bacurau": {
+    "Title": "Bacurau",
+    "Year": "2019",
+    "Rated": "Not Rated",
+    "Released": "19 Mar 2020",
+    "Runtime": "131 min",
+    "Genre": "Action, Adventure, Drama",
+    "Director": "Juliano Dornelles, Kleber Mendon\u00e7a Filho",
+    "Writer": "Kleber Mendon\u00e7a Filho, Juliano Dornelles",
+    "Actors": "B\u00e1rbara Colen, Thom\u00e1s Aquino, Silvero Pereira",
+    "Plot": "After the death of her grandmother, Teresa comes home to her matriarchal village in a near-future Brazil to find a succession of sinister events that mobilizes all of its residents.",
+    "Language": "Portuguese, English",
+    "Country": "Brazil, France",
+    "Awards": "52 wins & 71 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDE4OTMyOGQtODNiNy00YjIzLWFjNTAtMmY2Yjg3ZWJiY2YxXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "93%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "82/100"
+      }
+    ],
+    "Metascore": "82",
+    "imdbRating": "7.3",
+    "imdbVotes": "33,636",
+    "imdbID": "tt2762506",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$58,115",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "onibaba": {
+    "Title": "Onibaba",
+    "Year": "1964",
+    "Rated": "Not Rated",
+    "Released": "04 Feb 1965",
+    "Runtime": "103 min",
+    "Genre": "Drama, Horror, Thriller",
+    "Director": "Kaneto Shind\u00f4",
+    "Writer": "Kaneto Shind\u00f4",
+    "Actors": "Nobuko Otowa, Jitsuko Yoshimura, Kei Sat\u00f4",
+    "Plot": "Two women kill samurai and sell their belongings for a living. While one of them is having an affair with their neighbor, the other woman meets a mysterious samurai wearing a bizarre mask.",
+    "Language": "Japanese",
+    "Country": "Japan",
+    "Awards": "2 wins total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTA4M2JlYzEtM2FhYy00NDVhLWI0MTgtMDVkYmVlNmUyYjMzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "90%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.8",
+    "imdbVotes": "25,138",
+    "imdbID": "tt0058430",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "mississippi masala": {
+    "Title": "Mississippi Masala",
+    "Year": "1991",
+    "Rated": "R",
+    "Released": "05 Feb 1992",
+    "Runtime": "118 min",
+    "Genre": "Drama, Romance",
+    "Director": "Mira Nair",
+    "Writer": "Sooni Taraporevala",
+    "Actors": "Denzel Washington, Sarita Choudhury, Roshan Seth",
+    "Plot": "An ethnic Indian family is expelled from Idi Amin's Uganda in 1972 and lives in Mississippi 17 years later. The dad sues Uganda to get his property back. The grown daughter falls in love with a Black man.",
+    "Language": "English",
+    "Country": "United States, United Kingdom",
+    "Awards": "5 wins & 3 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDc1MjUyZTMtNDQ2Mi00ZDBhLTk4ZjktM2I3ZGQ4MTUyNDkzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "78/100"
+      }
+    ],
+    "Metascore": "78",
+    "imdbRating": "6.8",
+    "imdbVotes": "6,391",
+    "imdbID": "tt0102456",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$7,332,515",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "babylon": {
+    "Title": "Babylon",
+    "Year": "2022",
+    "Rated": "R",
+    "Released": "23 Dec 2022",
+    "Runtime": "189 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Damien Chazelle",
+    "Writer": "Damien Chazelle",
+    "Actors": "Brad Pitt, Margot Robbie, Jean Smart",
+    "Plot": "A tale of outsized ambition and outrageous excess, it traces the rise and fall of multiple characters during an era of unbridled decadence and depravity in early Hollywood.",
+    "Language": "English, Spanish, Italian, Cantonese, French, Hungarian, German",
+    "Country": "United States",
+    "Awards": "Nominated for 3 Oscars. 45 wins & 158 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGY3M2NkN2QtZTdhOS00YTNjLTgyYmMtMGY3Y2U0OTk2NjA0XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "57%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "61/100"
+      }
+    ],
+    "Metascore": "61",
+    "imdbRating": "7.1",
+    "imdbVotes": "204,188",
+    "imdbID": "tt10640346",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$15,658,225",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "amazing grace": {
+    "Title": "Amazing Grace",
+    "Year": "2006",
+    "Rated": "PG",
+    "Released": "23 Feb 2007",
+    "Runtime": "118 min",
+    "Genre": "Biography, Drama, History",
+    "Director": "Michael Apted",
+    "Writer": "Steven Knight",
+    "Actors": "Ioan Gruffudd, Albert Finney, Michael Gambon",
+    "Plot": "The idealist William Wilberforce maneuvers his way through Parliament, endeavoring to end the British transatlantic slave trade.",
+    "Language": "English",
+    "Country": "United States, United Kingdom",
+    "Awards": "3 wins & 6 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTI5MTkxMDA4M15BMl5BanBnXkFtZTcwNjA4Mjg0MQ@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "68%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "65/100"
+      }
+    ],
+    "Metascore": "65",
+    "imdbRating": "7.4",
+    "imdbVotes": "26,398",
+    "imdbID": "tt0454776",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$21,250,683",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "tongues untied": {
+    "Title": "Tongues Untied",
+    "Year": "1989",
+    "Rated": "Not Rated",
+    "Released": "01 Jul 1989",
+    "Runtime": "55 min",
+    "Genre": "Documentary",
+    "Director": "Marlon Riggs",
+    "Writer": "Joseph Beam, Chris Harris, Essex Hemphill",
+    "Actors": "Marlon Riggs, Michael Bell, Kerrigan Black",
+    "Plot": "A documentary about the experiences of black homosexual men living in the United States of America.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "5 wins",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzNlODA1ODAtMmQ0OS00MWYzLTgwMWYtN2I0ZmRlM2EyYmFmXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "100%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.1",
+    "imdbVotes": "1,918",
+    "imdbID": "tt0103099",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "starstruck": {
+    "Title": "StarStruck",
+    "Year": "2010",
+    "Rated": "TV-G",
+    "Released": "14 Feb 2010",
+    "Runtime": "90 min",
+    "Genre": "Comedy, Family, Music",
+    "Director": "Michael Grossman",
+    "Writer": "Barbara Johns, Annie DeYoung",
+    "Actors": "Sterling Knight, Danielle Campbell, Maggie Castle",
+    "Plot": "Jessica Olsen was expecting a normal trip to California with her family to visit her grandma. However, she agrees to join her older sister to find famous pop star Christopher Wilde.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "2 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjU4MjZjZGMtMmMxMC00NGE1LWIzNDQtMWE1NmM1YjYzOTk4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.1",
+    "imdbVotes": "18,441",
+    "imdbID": "tt1579247",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "island of lost souls + the island of dr. moreau": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "kuroneko": {
+    "Title": "Ginza kuroneko monogatari",
+    "Year": "2020",
+    "Rated": "N/A",
+    "Released": "17 Jul 2020",
+    "Runtime": "N/A",
+    "Genre": "Drama",
+    "Director": "N/A",
+    "Writer": "N/A",
+    "Actors": "K\u00f4ichi Yamadera, Sayaka Akimoto, Honoka Miki",
+    "Plot": "N/A",
+    "Language": "Japanese",
+    "Country": "Japan",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjVhZDRlNTgtOTE4NS00MTZmLWE4YjgtMTc5MjIwNzUzODExXkEyXkFqcGdeQXVyMjQ5MjczMzA@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "8",
+    "imdbID": "tt14558658",
+    "Type": "series",
+    "totalSeasons": "1",
+    "Response": "True"
+  },
+  "the cassandra cat": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "the cat creeps": {
+    "Title": "The Cat Creeps",
+    "Year": "1946",
+    "Rated": "Approved",
+    "Released": "17 May 1946",
+    "Runtime": "58 min",
+    "Genre": "Comedy, Drama, Horror",
+    "Director": "Erle C. Kenton",
+    "Writer": "Edward Dein, Jerry Warner, Gerald Geraghty",
+    "Actors": "Noah Beery Jr., Lois Collier, Paul Kelly",
+    "Plot": "A black cat is suspected of being possessed by the spirit of a elderly murdered woman.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTEzYTBmOTgtZDdjOC00YTI2LWJmYTktMjM2ZTJlMmE2NmFkXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "5.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "75%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.2",
+    "imdbVotes": "393",
+    "imdbID": "tt0038401",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "cat people": {
+    "Title": "Cat People",
+    "Year": "1942",
+    "Rated": "Approved",
+    "Released": "25 Dec 1942",
+    "Runtime": "73 min",
+    "Genre": "Fantasy, Horror, Thriller",
+    "Director": "Jacques Tourneur",
+    "Writer": "DeWitt Bodeen",
+    "Actors": "Simone Simon, Tom Conway, Kent Smith",
+    "Plot": "An American man marries a Serbian immigrant who fears that she will turn into the cat person of her homeland's fables if they are intimate together.",
+    "Language": "English, Czech, Serbian",
+    "Country": "United States",
+    "Awards": "2 wins & 3 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDMzMjc3NmQtNjhjYS00Y2MyLWE4NTUtODVmYTU2Y2JjMGU4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "92%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "85/100"
+      }
+    ],
+    "Metascore": "85",
+    "imdbRating": "7.2",
+    "imdbVotes": "27,428",
+    "imdbID": "tt0034587",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the cat from outerspace": {
+    "Response": "False",
+    "Error": "Movie not found!"
+  },
+  "hausu": {
+    "Title": "Hausu",
+    "Year": "2026",
+    "Rated": "N/A",
+    "Released": "04 Apr 2026",
+    "Runtime": "88 min",
+    "Genre": "Comedy, Drama, Family",
+    "Director": "Tom Kenny",
+    "Writer": "Clancy Brown, Rodger Bumpass, Carolyn Lawrence",
+    "Actors": "Godiego, Wi Ha-joon, Hoyeon",
+    "Plot": "N/A",
+    "Language": "Japanese, English",
+    "Country": "Japan, United States",
+    "Awards": "1 win total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzY5MjFkZGMtNjQxYy00YjI4LWFiZjgtZmJlMDhhYTZmOWE4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [],
+    "Metascore": "N/A",
+    "imdbRating": "N/A",
+    "imdbVotes": "N/A",
+    "imdbID": "tt2009417",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "kiki\u2019s delivery service": {
+    "Title": "Kiki's Delivery Service",
+    "Year": "1989",
+    "Rated": "G",
+    "Released": "20 Dec 1990",
+    "Runtime": "103 min",
+    "Genre": "Animation, Family, Fantasy",
+    "Director": "Hayao Miyazaki",
+    "Writer": "Eiko Kadono, Hayao Miyazaki",
+    "Actors": "Minami Takayama, Rei Sakuma, Mieko Nobusawa",
+    "Plot": "Along with her black cat Jiji, Kiki settles in a seaside town and starts a high-flying delivery service. Here begins her magical encounter with independence and responsibility, making lifelong friends and finding her place in the ...",
+    "Language": "Japanese, English",
+    "Country": "Japan",
+    "Awards": "4 wins total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTFhYWI1NGUtZWFhZS00MTdkLWIzZTItMDBhNWNiZDNlMjYyXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "85/100"
+      }
+    ],
+    "Metascore": "85",
+    "imdbRating": "7.8",
+    "imdbVotes": "185,670",
+    "imdbID": "tt0097814",
+    "Type": "movie",
+    "DVD": "08 May 2007",
+    "BoxOffice": "$1,004,057",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "bell, book and candle": {
+    "Title": "Bell Book and Candle",
+    "Year": "1958",
+    "Rated": "Approved",
+    "Released": "19 Dec 1958",
+    "Runtime": "106 min",
+    "Genre": "Comedy, Fantasy, Romance",
+    "Director": "Richard Quine",
+    "Writer": "Daniel Taradash, John Van Druten",
+    "Actors": "James Stewart, Kim Novak, Jack Lemmon",
+    "Plot": "A modern-day witch likes her neighbor but despises his fianc\u00e9e, so she enchants him to love her instead.",
+    "Language": "English, French",
+    "Country": "United States",
+    "Awards": "Nominated for 2 Oscars. 4 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGM5ZjVjOTctMTc2Zi00MDRhLWE0ZDMtMGJlYTE5ZjZiNWEwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "81%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.8",
+    "imdbVotes": "13,615",
+    "imdbID": "tt0051406",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the black cat": {
+    "Title": "The Black Cat",
+    "Year": "1934",
+    "Rated": "Not Rated",
+    "Released": "07 May 1934",
+    "Runtime": "65 min",
+    "Genre": "Crime, Horror, Romance",
+    "Director": "Edgar G. Ulmer",
+    "Writer": "Edgar Allan Poe, Peter Ruric, Edgar G. Ulmer",
+    "Actors": "Boris Karloff, Bela Lugosi, David Manners",
+    "Plot": "Stranded honeymooners follow mad doctor to manor.",
+    "Language": "English, Latin, Hungarian",
+    "Country": "United States",
+    "Awards": "2 wins & 1 nomination total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzRlNjUzMGQtMGM2MS00ODY0LWI1NjktMjNmY2EyYjdmNmFiXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.9/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "89%"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.9",
+    "imdbVotes": "13,937",
+    "imdbID": "tt0024894",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "dust of angels": {
+    "Title": "Dust of Angels",
+    "Year": "1992",
+    "Rated": "N/A",
+    "Released": "03 Jul 1992",
+    "Runtime": "110 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Hsiao-Ming Hsu",
+    "Writer": "Hsiao-Ming Hsu",
+    "Actors": "Shih Chang, Sung-Young Chen, Jack Kao",
+    "Plot": "Beigang teens A-guo and A-douzi fight, loaf, and cause trouble all day. One day, they accidentally grab a bag with guns and drugs, and head for Taipei looking for Brother Jie, a friend in the underworld there.",
+    "Language": "Chinese, Mandarin",
+    "Country": "Taiwan",
+    "Awards": "1 win & 3 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTUzYmUyODktMmFkYS00YjY0LWJlOTctM2Q2NjE4NGQ2OTQ2XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.3",
+    "imdbVotes": "577",
+    "imdbID": "tt0105382",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "pink floyd \u2013 the wall": {
+    "Title": "Pink Floyd: The Wall",
+    "Year": "1982",
+    "Rated": "R",
+    "Released": "17 Sep 1982",
+    "Runtime": "95 min",
+    "Genre": "Drama, Fantasy, Music",
+    "Director": "Alan Parker",
+    "Writer": "Roger Waters",
+    "Actors": "Bob Geldof, Christine Hargreaves, James Laurenson",
+    "Plot": "A confined but troubled rock star descends into madness in the midst of his physical and social isolation from everyone.",
+    "Language": "English, German",
+    "Country": "United Kingdom",
+    "Awards": "Won 2 BAFTA 3 wins & 2 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzMxZGFhMTUtZGJjYS00Njc4LTk1NTktZmYzNjI0MzQxZDU3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "73%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "47/100"
+      }
+    ],
+    "Metascore": "47",
+    "imdbRating": "8.0",
+    "imdbVotes": "89,354",
+    "imdbID": "tt0084503",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$22,244,207",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "hometown boy": {
+    "Title": "Hometown Boy",
+    "Year": "2011",
+    "Rated": "N/A",
+    "Released": "18 Nov 2011",
+    "Runtime": "72 min",
+    "Genre": "Documentary",
+    "Director": "Hung-i Yao",
+    "Writer": "N/A",
+    "Actors": "N/A",
+    "Plot": "This documentary is about a famous Chinese painter, Liu XiaoDong. He left his hometown when he was 17. Thirty years later, he decided to go back home and to paint his family, his friends and his hometown which changed a lot today....",
+    "Language": "N/A",
+    "Country": "Taiwan",
+    "Awards": "4 wins & 4 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc0YjA3Y2ItNmEwMC00NGM0LWI4M2ItNmFmMzk0YWMzMzJiXkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.4/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.4",
+    "imdbVotes": "31",
+    "imdbID": "tt2157194",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "the assassin": {
+    "Title": "The Assassin",
+    "Year": "2015",
+    "Rated": "Not Rated",
+    "Released": "27 Aug 2015",
+    "Runtime": "105 min",
+    "Genre": "Action, Drama, History",
+    "Director": "Hsiao-Hsien Hou",
+    "Writer": "Cheng Ah, T'ien-wen Chu, Hsiao-Hsien Hou",
+    "Actors": "Shu Qi, Chang Chen, Yun Zhou",
+    "Plot": "A female assassin receives a dangerous mission to kill a political leader in eighth-century China.",
+    "Language": "Mandarin",
+    "Country": "Taiwan, Hong Kong, China",
+    "Awards": "Nominated for 1 BAFTA Award36 wins & 75 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTczMTk3MjMyOV5BMl5BanBnXkFtZTgwMjA2Mjk4NjE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "80%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "82/100"
+      }
+    ],
+    "Metascore": "82",
+    "imdbRating": "6.3",
+    "imdbVotes": "18,711",
+    "imdbID": "tt3508840",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$632,542",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "caught by the tides": {
+    "Title": "Caught by the Tides",
+    "Year": "2024",
+    "Rated": "N/A",
+    "Released": "22 Nov 2024",
+    "Runtime": "111 min",
+    "Genre": "Drama",
+    "Director": "Jia Zhang-ke",
+    "Writer": "Jiahuan Wan, Jia Zhang-ke",
+    "Actors": "Tao Zhao, Zhubin Li, You Zhou",
+    "Plot": "A Chinese woman lives for herself in silence, celebrating the prosperous Belle Epoque with songs and dance.",
+    "Language": "Mandarin, English",
+    "Country": "China, France, Japan",
+    "Awards": "7 wins & 15 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTA3Y2YyMTEtNzlhYy00ODRkLWE0ZGYtOTI5MDc1N2QyNmE3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.7/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "99%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "87/100"
+      }
+    ],
+    "Metascore": "87",
+    "imdbRating": "6.7",
+    "imdbVotes": "2,097",
+    "imdbID": "tt27958252",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$291,307",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "millennium mambo": {
+    "Title": "Millennium Mambo",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "31 Oct 2001",
+    "Runtime": "119 min",
+    "Genre": "Drama, Romance",
+    "Director": "Hsiao-Hsien Hou",
+    "Writer": "T'ien-wen Chu",
+    "Actors": "Shu Qi, Jack Kao, Chun-hao Tuan",
+    "Plot": "The ethereally beautiful Vicky recalls her romances with Hao Hao and Jack in the neon-lit clubs of Taipei.",
+    "Language": "Mandarin, Japanese, English",
+    "Country": "Taiwan, France",
+    "Awards": "6 wins & 9 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDVmZmRlZDctMDJhMi00M2Y3LWFhNDktMTQyYmFiODcxZmJlXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "84%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "72/100"
+      }
+    ],
+    "Metascore": "72",
+    "imdbRating": "7.0",
+    "imdbVotes": "8,297",
+    "imdbID": "tt0283283",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$14,904",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "jinpa": {
+    "Title": "Jinpa",
+    "Year": "2018",
+    "Rated": "N/A",
+    "Released": "21 Feb 2020",
+    "Runtime": "86 min",
+    "Genre": "Drama",
+    "Director": "Pema Tseden",
+    "Writer": "Tsering Norbu, Pema Tseden",
+    "Actors": "Jinpa, Genden Phuntsok, Sonam Wangmo",
+    "Plot": "On an isolated road passing through the vast barren plains of Tibet, a truck driver who has accidentally run over a sheep chances upon a young man who is hitching a ride. As they drive and chat, the truck driver notices that his n...",
+    "Language": "Tibetan",
+    "Country": "China",
+    "Awards": "13 wins & 27 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzZmNjNlMTctZWI1My00YzM4LThhYjEtNzFjZTJhOTQ4NGM4XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.6/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "65/100"
+      }
+    ],
+    "Metascore": "65",
+    "imdbRating": "6.6",
+    "imdbVotes": "925",
+    "imdbID": "tt8836292",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "city of jade": {
+    "Title": "City of Jade",
+    "Year": "2016",
+    "Rated": "N/A",
+    "Released": "04 Jun 2018",
+    "Runtime": "99 min",
+    "Genre": "Documentary",
+    "Director": "Midi Z",
+    "Writer": "Midi Z",
+    "Actors": "N/A",
+    "Plot": "In the war-torn Kachin State in Myanmar, waves of poor workers flock to dig for jade, dreaming of getting rich overnight. The director, Midi Z, is the protagonist's youngest brother. Midi tries to find out why his brother became a...",
+    "Language": "Burmese",
+    "Country": "Taiwan, Burma",
+    "Awards": "3 wins & 8 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzFkZmM3MDAtYWNhNC00ZWRiLWFjMmMtMWU3ZTM2NTkxMGQ2XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.8",
+    "imdbVotes": "102",
+    "imdbID": "tt5473902",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  "kaili blues": {
+    "Title": "Kaili Blues",
+    "Year": "2015",
+    "Rated": "Not Rated",
+    "Released": "15 Jul 2016",
+    "Runtime": "113 min",
+    "Genre": "Drama, Mystery",
+    "Director": "Bi Gan",
+    "Writer": "Bi Gan",
+    "Actors": "Yongzhong Chen, Feiyang Luo, Lixun Xie",
+    "Plot": "While travelling the countryside to locate his nephew, a small town doctor finds himself interacting with people from his past and future.",
+    "Language": "Mandarin, Hmong",
+    "Country": "China",
+    "Awards": "20 wins & 20 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGIxN2Q1NzgtNDU5YS00MzIwLWE1ZGEtOTRlZDdkNjU5Y2Q3XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "85/100"
+      }
+    ],
+    "Metascore": "85",
+    "imdbRating": "7.3",
+    "imdbVotes": "4,724",
+    "imdbID": "tt4613272",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$32,164",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+}
