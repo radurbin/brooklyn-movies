@@ -1,3 +1,56 @@
+## 2026-08-23 12:32 AM EDT
+
+**Movies added:**
+- Nightbreed
+
+**Showtime changes:**
+- Mutiny
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T13:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T16:15:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-08-22T18:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-22T21:15:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T14:45:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T14:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T17:00:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T16:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T17:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-22T18:50:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-22T21:20:00 (Standard)
+- Union County
+  - − BAM Rose Cinemas @ 2026-08-22T19:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-22T21:30:00 (Standard)
+- The Magic Faraway Tree
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T12:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T15:30:00 (Standard)
+- Paw Patrol: The Dino Movie
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T14:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T17:15:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T13:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T14:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-22T18:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-22T21:10:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T12:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T15:30:00 (Standard)
+- Stalker
+  - − BAM Rose Cinemas @ 2026-08-22T19:45:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T14:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-22T20:00:00 (Standard)
+- The Fast and the Furious: 25th Anniversary
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T16:00:00 (Standard)
+- Spa Weekend
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T12:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T15:15:00 (Standard)
+
 ## 2026-08-22 06:17 PM EDT
 
 **Movies removed:**
