@@ -908,5 +908,191 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-08-23 06:18 AM EDT",
+    "movies_added": [],
+    "movies_removed": [
+      "De Palma"
+    ],
+    "showtime_changes": [
+      {
+        "title": "One Night Only",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-22T22:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Odyssey",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-22T18:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-22T21:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Insidious: Out of the Further",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-22T18:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-22T22:00:00",
+            "format": "HDR by Barco"
+          }
+        ]
+      },
+      {
+        "title": "Mutiny",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-22T19:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-22T22:15:00",
+            "format": "Open Caption"
+          }
+        ]
+      },
+      {
+        "title": "Teenage Sex and Death at Camp Miasma",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-22T19:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-22T20:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-22T22:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Spider-Man: Brand New Day",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-22T18:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-22T21:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The End of Oak Street",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-22T19:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-22T22:45:00",
+            "format": "Open Caption"
+          }
+        ]
+      },
+      {
+        "title": "The Fast and the Furious: 25th Anniversary",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-22T19:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Paw Patrol: The Dino Movie",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-22T20:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Tony",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-22T19:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-22T22:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Magic Faraway Tree",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-22T18:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Spa Weekend",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-22T18:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-08-22T21:00:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
   }
 ]

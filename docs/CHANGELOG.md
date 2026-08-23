@@ -1,3 +1,43 @@
+## 2026-08-23 06:18 AM EDT
+
+**Movies removed:**
+- De Palma
+
+**Showtime changes:**
+- One Night Only
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T22:45:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T21:30:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T22:00:00 (HDR by Barco)
+- Mutiny
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T22:15:00 (Open Caption)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T19:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T20:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T22:30:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T21:45:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T22:45:00 (Open Caption)
+- The Fast and the Furious: 25th Anniversary
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T19:00:00 (Standard)
+- Paw Patrol: The Dino Movie
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T20:00:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T22:15:00 (Standard)
+- The Magic Faraway Tree
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T18:30:00 (Standard)
+- Spa Weekend
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-22T21:00:00 (Standard)
+
 ## 2026-08-23 12:32 AM EDT
 
 **Movies added:**
