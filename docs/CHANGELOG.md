@@ -1,3 +1,50 @@
+## 2026-08-23 06:17 PM EDT
+
+**Showtime changes:**
+- The Samurai and The Prisoner
+  - − BAM Rose Cinemas @ 2026-08-23T16:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T10:45:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T10:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-23T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-23T16:30:00 (Standard)
+- Mutiny
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T10:15:00 (Standard)
+- Union County
+  - − BAM Rose Cinemas @ 2026-08-23T13:50:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T10:00:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-08-23T13:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-23T16:20:00 (Standard)
+- eXistenZ
+  - − BAM Rose Cinemas @ 2026-08-23T15:40:00 (Standard)
+- The Magic Faraway Tree
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T09:30:00 (Standard)
+- Spa Weekend
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T09:15:00 (Standard)
+- On the Silver Globe
+  - − BAM Rose Cinemas @ 2026-08-23T17:50:00 (Standard)
+- Paw Patrol: The Dino Movie
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T09:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T11:45:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T11:00:00 (Open Caption)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-08-23T13:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-23T16:15:00 (Standard)
+- Sherman's March
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T09:15:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T10:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-23T13:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-23T16:10:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T09:30:00 (Standard)
+- 2046
+  - − BAM Rose Cinemas @ 2026-08-23T13:00:00 (Standard)
+
 ## 2026-08-23 12:19 PM EDT
 
 No changes.
