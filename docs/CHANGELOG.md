@@ -1,3 +1,41 @@
+## 2026-08-24 06:33 AM EDT
+
+**Showtime changes:**
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T21:45:00 (Open Caption)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T22:45:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T21:30:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T19:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T22:30:00 (Standard)
+- The Magic Faraway Tree
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T18:30:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T20:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T22:15:00 (Standard)
+- Paw Patrol: The Dino Movie
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T20:00:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T18:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T22:00:00 (HDR by Barco)
+- One Night Only
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T22:45:00 (Standard)
+- Mutiny
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T22:15:00 (Standard)
+- Spa Weekend
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T21:00:00 (Standard)
+- Remake
+  - − Alamo Drafthouse Brooklyn @ 2026-08-23T22:00:00 (Standard)
+
 ## 2026-08-24 12:40 AM EDT
 
 **Showtime changes:**
