@@ -1,3 +1,126 @@
+## 2026-08-24 06:23 PM EDT
+
+**Movies added:**
+- 25th Hour
+- Amreeka
+- Burn After Reading
+- Jesus Camp
+- My Country, My Country
+- Queen Budapest
+- Redacted
+- Talladega Nights: The Ballad of Ricky Bobby
+- The Dark Knight
+- War of the Worlds
+
+**Movies removed:**
+- On the Silver Globe
+
+**Showtime changes:**
+- Paw Patrol: The Dino Movie
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T11:15:00 (Standard)
+- Tony
+  - + BAM Rose Cinemas @ 2026-08-28T13:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-28T16:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-28T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-28T21:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-29T13:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-29T16:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-29T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-29T21:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-30T13:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-30T16:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-30T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-30T21:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-31T16:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-31T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-31T21:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-01T16:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-01T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-01T21:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-02T16:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-02T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-02T21:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-03T16:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-03T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-03T21:20:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T12:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-24T16:20:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - + BAM Rose Cinemas @ 2026-08-28T13:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-28T16:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-28T18:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-28T21:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-29T13:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-29T16:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-29T18:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-29T21:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-30T13:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-30T16:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-30T18:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-30T21:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-31T16:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-31T18:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-31T21:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-01T16:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-01T18:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-01T21:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-02T16:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-02T18:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-02T21:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-03T16:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-03T18:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-03T21:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-24T16:10:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T11:30:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-08-24T16:00:00 (Standard)
+- The Invite
+  - + BAM Rose Cinemas @ 2026-08-28T13:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-28T16:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-28T18:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-28T21:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-29T13:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-29T16:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-29T18:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-29T21:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-30T13:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-30T16:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-30T18:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-30T21:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-31T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-31T18:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-31T21:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-01T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-01T18:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-01T21:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-02T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-02T18:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-02T21:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-03T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-03T18:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-03T21:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-24T16:15:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T11:00:00 (Standard)
+- The Samurai and The Prisoner
+  - − BAM Rose Cinemas @ 2026-08-24T16:00:00 (Standard)
+- It Ends
+  - + BAM Rose Cinemas @ 2026-08-28T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-29T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-30T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-08-31T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-01T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-02T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-03T21:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-28T21:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-29T21:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-30T21:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-31T21:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-01T21:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-02T21:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-03T21:15:00 (Standard)
+
 ## 2026-08-24 12:30 PM EDT
 
 No changes.
