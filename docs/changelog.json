@@ -4254,5 +4254,16 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-08-25 12:31 PM EDT",
+    "movies_added": [
+      "Carmen, Baby",
+      "Four Times That Night",
+      "Onda Nova",
+      "The Ghost in the Invisible Bikini"
+    ],
+    "movies_removed": [],
+    "showtime_changes": []
   }
 ]

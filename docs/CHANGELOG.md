@@ -1,3 +1,11 @@
+## 2026-08-25 12:31 PM EDT
+
+**Movies added:**
+- Carmen, Baby
+- Four Times That Night
+- Onda Nova
+- The Ghost in the Invisible Bikini
+
 ## 2026-08-25 06:26 AM EDT
 
 **Movies removed:**
