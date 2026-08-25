@@ -1,3 +1,48 @@
+## 2026-08-25 06:22 PM EDT
+
+**Movies added:**
+- The Cat from Outer Space
+
+**Movies removed:**
+- Remake
+- The Cat from Outerspace
+
+**Showtime changes:**
+- Spa Weekend
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T12:15:00 (Open Caption)
+- Paw Patrol: The Dino Movie
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T12:30:00 (Open Caption)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T15:00:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-08-25T16:20:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T14:00:00 (Standard)
+- The Magic Faraway Tree
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T12:45:00 (Open Caption)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T14:45:00 (Standard)
+- The Samurai and The Prisoner
+  - − BAM Rose Cinemas @ 2026-08-25T16:00:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T11:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-25T16:00:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T10:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T13:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-25T16:10:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-08-25T16:15:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T12:45:00 (Standard)
+- Mutiny
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T10:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T13:30:00 (Standard)
+
 ## 2026-08-25 12:31 PM EDT
 
 **Movies added:**
