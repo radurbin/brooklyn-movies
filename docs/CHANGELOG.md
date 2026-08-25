@@ -1,3 +1,41 @@
+## 2026-08-25 06:26 AM EDT
+
+**Movies removed:**
+- Sherman's March
+
+**Showtime changes:**
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T18:45:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T21:30:00 (Standard)
+- The Fast and the Furious: 25th Anniversary
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T19:00:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T20:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T21:15:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T21:00:00 (Open Caption)
+- Mutiny
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T22:30:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T22:45:00 (Standard)
+- One Night Only
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T21:00:00 (Standard)
+- Spa Weekend
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T22:15:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T22:05:00 (Open Caption)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T22:00:00 (HDR by Barco)
+- The Magic Faraway Tree
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T18:15:00 (Open Caption)
+- Idiots
+  - − Alamo Drafthouse Brooklyn @ 2026-08-24T19:30:00 (Standard)
+
 ## 2026-08-25 12:34 AM EDT
 
 **Movies added:**
