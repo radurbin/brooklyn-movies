@@ -1,3 +1,40 @@
+## 2026-08-26 06:30 AM EDT
+
+**Movies removed:**
+- Don't Torture a Duckling
+- Friday Night Lights (TV)
+
+**Showtime changes:**
+- Spa Weekend
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T21:00:00 (Standard)
+- Mutiny
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T22:00:00 (Standard)
+- The Fast and the Furious: 25th Anniversary
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T18:30:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T19:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T22:30:00 (Open Caption)
+- The Magic Faraway Tree
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T19:00:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T21:45:00 (HDR by Barco)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T21:00:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T22:45:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T22:00:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T20:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T20:45:00 (Standard)
+- One Night Only
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T22:15:00 (Standard)
+
 ## 2026-08-26 12:35 AM EDT
 
 **Movies added:**
