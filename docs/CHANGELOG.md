@@ -1,3 +1,47 @@
+## 2026-08-26 12:35 AM EDT
+
+**Movies added:**
+- Pulp: What Do You Do for an Encore?
+
+**Movies removed:**
+- Pulp: What Do You Do for an Encore?
+- Solaris
+
+**Showtime changes:**
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T15:45:00 (Standard)
+- The Magic Faraway Tree
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T16:00:00 (Standard)
+- Spa Weekend
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T15:15:00 (Standard)
+- Mutiny
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T16:15:00 (Standard)
+- Tetsuo: The Iron Man
+  - − BAM Rose Cinemas @ 2026-08-25T18:45:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-08-25T18:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-25T21:15:00 (Standard)
+- Paw Patrol: The Dino Movie
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T18:00:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-25T18:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-25T21:10:00 (Standard)
+- Union County
+  - − BAM Rose Cinemas @ 2026-08-25T19:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-25T21:30:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T17:00:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T15:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-25T19:30:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-08-25T18:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-25T18:50:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-25T21:20:00 (Standard)
+
 ## 2026-08-25 06:22 PM EDT
 
 **Movies added:**
