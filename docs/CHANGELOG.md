@@ -1,3 +1,67 @@
+## 2026-08-27 10:56 AM EDT
+
+**Movies added:**
+- The Fog (1980)
+
+**Movies removed:**
+- CARRIE (1976)
+- Cherry 2000
+- One Night Only
+
+**Showtime changes:**
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T15:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T21:00:00 (Standard)
+- The Magic Faraway Tree
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T18:15:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T19:00:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T12:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T16:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T21:30:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T21:15:00 (Standard)
+- Spider-Man: Brand New Day
+  - + Alamo Drafthouse Brooklyn @ 2026-08-27T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T14:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T21:45:00 (Standard)
+- The Fast and the Furious: 25th Anniversary
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T18:30:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T15:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T18:45:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T22:00:00 (HDR by Barco)
+- Paw Patrol: The Dino Movie
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T18:00:00 (Standard)
+- Mutiny
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T16:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T19:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T22:15:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T13:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T16:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T19:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T22:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T22:45:00 (Standard)
+- Spa Weekend
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T13:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T16:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T22:15:00 (Open Caption)
+
 ## 2026-08-26 10:49 PM EDT
 
 **Movies added:**
