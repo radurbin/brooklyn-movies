@@ -1,3 +1,44 @@
+## 2026-08-26 10:49 PM EDT
+
+**Movies added:**
+- Cherry 2000
+
+**Movies removed:**
+- Born in Flames
+- Cherry 2000
+- Stalker
+- Tetsuo: The Iron Man
+- Toxic: A Fairy Tale for Grown-Ups
+
+**Showtime changes:**
+- Union County
+  - − BAM Rose Cinemas @ 2026-08-26T19:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-26T21:30:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-08-26T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-26T18:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-26T21:15:00 (Standard)
+- The Samurai and The Prisoner
+  - − BAM Rose Cinemas @ 2026-08-26T16:00:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − BAM Rose Cinemas @ 2026-08-26T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-26T18:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-26T21:10:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T11:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-26T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-26T19:30:00 (Standard)
+- Paw Patrol: The Dino Movie
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T12:00:00 (Standard)
+- The Magic Faraway Tree
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T12:15:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-08-26T11:00:00 (Standard)
+- Tony
+  - − BAM Rose Cinemas @ 2026-08-26T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-26T18:50:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-26T21:20:00 (Standard)
+
 ## 2026-08-26 12:45 PM EDT
 
 No changes.
