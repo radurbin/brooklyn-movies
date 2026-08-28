@@ -1,3 +1,30 @@
+## 2026-08-27 08:44 PM EDT
+
+**Movies added:**
+- Deja Vu
+
+**Movies removed:**
+- Memoria
+- The Samurai and The Prisoner
+- eXistenZ
+
+**Showtime changes:**
+- Teenage Sex and Death at Camp Miasma
+  - − BAM Rose Cinemas @ 2026-08-27T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-27T18:40:00 (Standard)
+- Union County
+  - − BAM Rose Cinemas @ 2026-08-27T19:00:00 (Standard)
+- The Odyssey
+  - − BAM Rose Cinemas @ 2026-08-27T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-27T19:30:00 (Standard)
+- It Ends
+  - − BAM Rose Cinemas @ 2026-08-27T19:00:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-08-27T16:15:00 (Standard)
+- Tony
+  - − BAM Rose Cinemas @ 2026-08-27T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-27T18:50:00 (Standard)
+
 ## 2026-08-27 10:56 AM EDT
 
 **Movies added:**
