@@ -1,3 +1,55 @@
+## 2026-08-28 08:21 PM EDT
+
+**Showtime changes:**
+- Coyote vs Acme
+  - − BAM Rose Cinemas @ 2026-08-28T13:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-28T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-28T18:20:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-08-27T21:45:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-08-27T22:30:00 (HDR by Barco)
+- Paw Patrol: The Dino Movie
+  - − Alamo Drafthouse Brooklyn @ 2026-08-28T11:15:00 (Standard)
+- Lassie +  Jean Rescues
+  - − BAM Rose Cinemas @ 2026-08-28T19:15:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-08-27T21:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-28T11:00:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-08-27T21:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-28T13:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-28T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-28T18:40:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-08-27T22:45:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-08-27T21:00:00 (Standard)
+- It Ends
+  - − Alamo Drafthouse Brooklyn @ 2026-08-27T22:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-28T11:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-28T14:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-28T16:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-28T19:00:00 (Standard)
+- Idiots
+  - − Alamo Drafthouse Brooklyn @ 2026-08-27T21:00:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-08-27T22:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-28T13:50:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-28T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-28T18:50:00 (Standard)
+- Mutiny
+  - − Alamo Drafthouse Brooklyn @ 2026-08-27T21:15:00 (Standard)
+- Finding Emily
+  - − Alamo Drafthouse Brooklyn @ 2026-08-27T22:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-28T11:30:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-08-28T13:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-28T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-28T18:45:00 (Standard)
+- The Thin Man
+  - − BAM Rose Cinemas @ 2026-08-28T17:00:00 (Standard)
+
 ## 2026-08-28 11:52 AM EDT
 
 **Movies removed:**
