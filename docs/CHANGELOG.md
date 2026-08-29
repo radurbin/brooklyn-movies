@@ -1,3 +1,63 @@
+## 2026-08-29 07:50 PM EDT
+
+**Movies removed:**
+- The Wrong Girls
+
+**Showtime changes:**
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T15:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-29T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-29T18:40:00 (Standard)
+- It Ends
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T14:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-29T16:40:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T17:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-29T19:00:00 (Standard)
+- Coyote vs Acme
+  - − BAM Rose Cinemas @ 2026-08-29T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-29T18:20:00 (Standard)
+- Best in Show + Every Dog Has His Day: Ilak’s Birthday
+  - − BAM Rose Cinemas @ 2026-08-29T16:00:00 (Standard)
+- Finding Emily
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T14:45:00 (Standard)
+- Butthole Surfers: The Hole Truth and Nothing Butt
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T16:00:00 (Standard)
+- Mutiny
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T12:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T15:15:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-08-29T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-29T18:45:00 (Standard)
+- Paw Patrol: The Dino Movie
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T11:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T13:45:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T14:30:00 (Standard)
+- Seeking Haven for Mr. Rambo
+  - − BAM Rose Cinemas @ 2026-08-29T18:00:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T13:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T16:30:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T15:00:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-08-29T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-29T18:50:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T15:45:00 (Open Caption)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T12:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T15:45:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T12:45:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T16:00:00 (HDR by Barco)
+
 ## 2026-08-29 03:06 PM EDT
 
 **Movies removed:**
