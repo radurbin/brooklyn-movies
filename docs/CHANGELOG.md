@@ -1,3 +1,20 @@
+## 2026-08-30 03:01 PM EDT
+
+**Movies removed:**
+- Lassie +  Jean Rescues
+
+**Showtime changes:**
+- It Ends
+  - − BAM Rose Cinemas @ 2026-08-30T14:00:00 (Standard)
+- Tony
+  - − BAM Rose Cinemas @ 2026-08-30T13:50:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-08-30T13:30:00 (Standard)
+- Coyote vs Acme
+  - − BAM Rose Cinemas @ 2026-08-30T13:30:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − BAM Rose Cinemas @ 2026-08-30T13:40:00 (Standard)
+
 ## 2026-08-30 10:38 AM EDT
 
 **Showtime changes:**
