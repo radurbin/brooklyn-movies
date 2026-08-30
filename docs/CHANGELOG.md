@@ -1,3 +1,31 @@
+## 2026-08-30 10:38 AM EDT
+
+**Showtime changes:**
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T21:30:00 (Standard)
+- Finding Emily
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T21:00:00 (Standard)
+- It Ends
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T22:15:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T21:30:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T22:45:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T20:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T21:00:00 (Standard)
+- Idiots
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T22:00:00 (Standard)
+- Mutiny
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T21:15:00 (Open Caption)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T21:45:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T22:30:00 (HDR by Barco)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T22:00:00 (Standard)
+
 ## 2026-08-30 05:40 AM EDT
 
 **Showtime changes:**
