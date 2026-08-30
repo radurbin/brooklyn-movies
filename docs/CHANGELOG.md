@@ -1,3 +1,36 @@
+## 2026-08-30 05:40 AM EDT
+
+**Showtime changes:**
+- The Invite
+  - − BAM Rose Cinemas @ 2026-08-29T21:15:00 (Standard)
+- Mutiny
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T18:30:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T18:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-29T21:10:00 (Standard)
+- Finding Emily
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T18:00:00 (Open Caption)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T18:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-29T21:20:00 (Standard)
+- Nostalghia
+  - − BAM Rose Cinemas @ 2026-08-29T20:15:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T18:15:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T19:15:00 (HDR by Barco)
+- Idiots
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T19:15:00 (Standard)
+- It Ends
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T19:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-29T21:30:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T18:45:00 (Standard)
+- Coyote vs Acme
+  - − BAM Rose Cinemas @ 2026-08-29T21:00:00 (Standard)
+- Mothra vs. Godzilla
+  - − Alamo Drafthouse Brooklyn @ 2026-08-29T19:00:00 (Standard)
+
 ## 2026-08-29 07:50 PM EDT
 
 **Movies removed:**
