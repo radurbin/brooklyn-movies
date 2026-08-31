@@ -1,3 +1,57 @@
+## 2026-08-30 08:09 PM EDT
+
+**Movies added:**
+- Deathgasm 2: Goremageddon
+
+**Movies removed:**
+- Deathgasm 2: Goremageddon
+
+**Showtime changes:**
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-08-30T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-30T14:30:00 (Open Caption)
+- Coyote vs Acme
+  - − BAM Rose Cinemas @ 2026-08-30T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-30T18:20:00 (Standard)
+- Finding Emily
+  - − Alamo Drafthouse Brooklyn @ 2026-08-30T11:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-30T14:45:00 (Standard)
+- Paw Patrol: The Dino Movie
+  - − Alamo Drafthouse Brooklyn @ 2026-08-30T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-30T13:30:00 (Standard)
+- Mutiny
+  - − Alamo Drafthouse Brooklyn @ 2026-08-30T12:15:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-08-30T13:15:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-08-30T11:45:00 (Standard)
+- It Ends
+  - − Alamo Drafthouse Brooklyn @ 2026-08-30T11:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-30T14:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-30T16:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-30T19:00:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-08-30T12:15:00 (HDR by Barco)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-08-30T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-30T18:45:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-08-30T12:45:00 (Standard)
+- Mothra vs. Godzilla
+  - − Alamo Drafthouse Brooklyn @ 2026-08-30T12:30:00 (Standard)
+- Wendy and Lucy
+  - − BAM Rose Cinemas @ 2026-08-30T19:45:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-08-30T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-30T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-30T18:50:00 (Standard)
+- The Wizard of Oz
+  - − BAM Rose Cinemas @ 2026-08-30T16:30:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-08-30T12:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-30T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-30T18:40:00 (Standard)
+
 ## 2026-08-30 03:01 PM EDT
 
 **Movies removed:**
