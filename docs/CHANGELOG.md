@@ -1,3 +1,60 @@
+## 2026-08-31 08:58 PM EDT
+
+**Movies added:**
+- LINKIN PARK: UNSHATTER
+
+**Movies removed:**
+- LINKIN PARK: UNSHATTER
+- Spa Weekend
+
+**Showtime changes:**
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T12:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T15:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-31T18:50:00 (Standard)
+- Silence of the Lambs + Dog Factory
+  - − BAM Rose Cinemas @ 2026-08-31T19:15:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T12:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T16:45:00 (Standard)
+- It Ends
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T14:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T17:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-31T19:00:00 (Standard)
+- Butthole Surfers: The Hole Truth and Nothing Butt
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T15:20:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-08-31T18:45:00 (Standard)
+- Mutiny
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T12:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T15:30:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T12:45:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T16:00:00 (HDR by Barco)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T15:45:00 (Standard)
+- Coyote vs Acme
+  - − BAM Rose Cinemas @ 2026-08-31T18:20:00 (Standard)
+- Paw Patrol: The Dino Movie
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T13:45:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T16:15:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T13:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T16:30:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T14:30:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T15:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-08-31T18:40:00 (Standard)
+- Finding Emily
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-08-31T14:45:00 (Standard)
+
 ## 2026-08-31 05:17 PM EDT
 
 **Movies added:**
