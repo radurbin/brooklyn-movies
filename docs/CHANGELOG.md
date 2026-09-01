@@ -1,3 +1,54 @@
+## 2026-09-01 07:45 PM EDT
+
+**Movies added:**
+- Dismember the Alamo 2026 - Brooklyn
+- The Weight
+
+**Movies removed:**
+- Best in Show + Every Dog Has His Day: Ilak’s Birthday
+- The Magic Faraway Tree
+- The Wizard of Oz
+
+**Showtime changes:**
+- Finding Emily
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T14:45:00 (Open Caption)
+- Mutiny
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T12:15:00 (Open Caption)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T12:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-01T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-01T18:40:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T12:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-01T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-01T18:50:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T13:15:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T12:45:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-09-01T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-01T18:45:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T12:45:00 (HDR by Barco)
+- Coyote Vs. ACME
+  - − BAM Rose Cinemas @ 2026-09-01T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-01T18:20:00 (Standard)
+- It Ends
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T14:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-01T16:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-01T19:00:00 (Standard)
+- Paw Patrol: The Dino Movie
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T13:45:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T13:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T11:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T14:30:00 (Standard)
+
 ## 2026-09-01 03:09 PM EDT
 
 No changes.
