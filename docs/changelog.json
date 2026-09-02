@@ -10358,5 +10358,148 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-09-02 10:02 AM EDT",
+    "movies_added": [
+      "Star Trek: The Motion Picture - The Director's Edition"
+    ],
+    "movies_removed": [
+      "Exorcist III",
+      "Star Trek: The Motion Picture - Director's Edition"
+    ],
+    "showtime_changes": [
+      {
+        "title": "The Dog Stars",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-01T22:30:00",
+            "format": "HDR by Barco"
+          }
+        ]
+      },
+      {
+        "title": "Insidious: Out of the Further",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-01T19:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-01T22:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Odyssey",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-01T21:00:00",
+            "format": "Open Caption"
+          }
+        ]
+      },
+      {
+        "title": "Finding Emily",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-01T21:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The End of Oak Street",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-01T22:15:00",
+            "format": "Open Caption"
+          }
+        ]
+      },
+      {
+        "title": "Mutiny",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-01T21:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Teenage Sex and Death at Camp Miasma",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-01T22:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Spider-Man: Brand New Day",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-01T21:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "It Ends",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-01T19:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-01T22:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Idiots",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-01T22:00:00",
+            "format": "Open Caption"
+          }
+        ]
+      },
+      {
+        "title": "Tony",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-01T21:15:00",
+            "format": "Open Caption"
+          }
+        ]
+      }
+    ]
   }
 ]

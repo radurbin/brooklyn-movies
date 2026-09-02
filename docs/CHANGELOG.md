@@ -1,3 +1,38 @@
+## 2026-09-02 10:02 AM EDT
+
+**Movies added:**
+- Star Trek: The Motion Picture - The Director's Edition
+
+**Movies removed:**
+- Exorcist III
+- Star Trek: The Motion Picture - Director's Edition
+
+**Showtime changes:**
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T22:30:00 (HDR by Barco)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T22:45:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T21:00:00 (Open Caption)
+- Finding Emily
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T21:30:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T22:15:00 (Open Caption)
+- Mutiny
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T21:15:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T22:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T21:45:00 (Standard)
+- It Ends
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T19:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T22:15:00 (Standard)
+- Idiots
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T22:00:00 (Open Caption)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T21:15:00 (Open Caption)
+
 ## 2026-09-02 04:19 AM EDT
 
 **Movies added:**
