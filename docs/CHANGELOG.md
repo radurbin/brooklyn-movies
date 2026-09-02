@@ -1,3 +1,51 @@
+## 2026-09-02 07:47 PM EDT
+
+**Movies removed:**
+- Umberto D.
+
+**Showtime changes:**
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T13:00:00 (Open Caption)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T12:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-02T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-02T18:50:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T12:45:00 (HDR by Barco)
+- Mutiny
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T12:15:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T12:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-02T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-02T18:40:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T13:15:00 (Standard)
+- It Ends
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T14:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-02T16:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-02T19:00:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-09-02T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-02T18:45:00 (Standard)
+- Finding Emily
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T14:45:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T14:30:00 (Standard)
+- Coyote vs. ACME
+  - − BAM Rose Cinemas @ 2026-09-02T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-02T18:20:00 (Standard)
+- Paw Patrol: The Dino Movie
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T13:45:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T11:45:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T12:45:00 (Standard)
+- Fallen Leaves + Jean the Matchmaker
+  - − BAM Rose Cinemas @ 2026-09-02T19:00:00 (Standard)
+
 ## 2026-09-02 03:10 PM EDT
 
 No changes.
