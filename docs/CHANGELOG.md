@@ -1,3 +1,51 @@
+## 2026-09-02 04:19 AM EDT
+
+**Movies added:**
+- Coyote vs. ACME
+
+**Movies removed:**
+- Coyote Vs. ACME
+- The Outsiders: The Complete Novel
+- Wendy and Lucy
+
+**Showtime changes:**
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T18:00:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-09-01T21:15:00 (Standard)
+- Finding Emily
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T18:30:00 (Standard)
+- Paw Patrol: The Dino Movie
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T16:15:00 (Open Caption)
+- Mutiny
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T18:30:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T15:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T18:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-01T21:10:00 (Standard)
+- Butthole Surfers: The Hole Truth and Nothing Butt
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T15:15:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T16:45:00 (Standard)
+- It Ends
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T17:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-01T21:30:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T16:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T19:15:00 (HDR by Barco)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T15:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T18:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-01T21:20:00 (Standard)
+- Idiots
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T19:00:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T16:30:00 (Open Caption)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T15:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-01T19:00:00 (Standard)
+
 ## 2026-09-01 07:45 PM EDT
 
 **Movies added:**
