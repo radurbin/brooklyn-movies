@@ -1,3 +1,50 @@
+## 2026-09-03 07:46 PM EDT
+
+**Movies added:**
+- GHOST IN THE SHELL (SUBTITLED)
+- Mystery Machine (9/14/2026)
+- THE TEXAS CHAIN SAW MASSACRE (1974)
+
+**Movies removed:**
+- Mutiny
+- Nostalghia
+- Space Dogs
+
+**Showtime changes:**
+- Idiots
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T13:15:00 (Standard)
+- It Ends
+  - − BAM Rose Cinemas @ 2026-09-03T16:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-03T19:00:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T12:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-03T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-03T18:40:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T12:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T14:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-03T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-03T18:20:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T14:45:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T13:00:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-09-03T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-03T18:45:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T13:00:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T12:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-03T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-03T18:50:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T11:45:00 (Standard)
+
 ## 2026-09-03 03:03 PM EDT
 
 **Movies added:**
