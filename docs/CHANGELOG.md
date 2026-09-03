@@ -1,3 +1,53 @@
+## 2026-09-03 04:29 AM EDT
+
+**Movies added:**
+- Four Times That Night
+
+**Movies removed:**
+- Four Times That Night
+- Mothra vs. Godzilla
+- Paw Patrol: The Dino Movie
+- Silence of the Lambs + Dog Factory
+
+**Showtime changes:**
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T16:45:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T16:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T19:15:00 (HDR by Barco)
+- Finding Emily
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T18:00:00 (Standard)
+- It Ends
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T17:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T19:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-02T21:30:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T16:30:00 (Standard)
+- Mutiny
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T18:30:00 (Open Caption)
+- Coyote vs. ACME
+  - − BAM Rose Cinemas @ 2026-09-02T21:00:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-09-02T21:15:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T15:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T19:00:00 (Standard)
+- Idiots
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T19:00:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T15:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T18:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-02T21:20:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T18:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-02T21:10:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T18:00:00 (Open Caption)
+- Butthole Surfers: The Hole Truth and Nothing Butt
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T15:45:00 (Standard)
+
 ## 2026-09-02 07:47 PM EDT
 
 **Movies removed:**
