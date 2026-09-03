@@ -1,3 +1,33 @@
+## 2026-09-03 10:04 AM EDT
+
+**Movies removed:**
+- Four Times That Night
+
+**Showtime changes:**
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T21:00:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T22:15:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T19:45:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T22:45:00 (Standard)
+- Finding Emily
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T21:00:00 (Open Caption)
+- It Ends
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T22:15:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T21:45:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T21:15:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T22:30:00 (HDR by Barco)
+- Mutiny
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T21:15:00 (Standard)
+- Idiots
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T22:00:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-02T22:00:00 (Standard)
+
 ## 2026-09-03 04:29 AM EDT
 
 **Movies added:**
