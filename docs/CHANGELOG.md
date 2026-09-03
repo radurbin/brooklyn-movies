@@ -1,3 +1,10 @@
+## 2026-09-03 03:03 PM EDT
+
+**Movies added:**
+- Garod Collective Presents: Posthumous Traces
+- Primetime
+- Terminator 2: Judgment Day
+
 ## 2026-09-03 10:04 AM EDT
 
 **Movies removed:**
