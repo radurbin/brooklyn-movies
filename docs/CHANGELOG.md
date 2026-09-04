@@ -1,3 +1,63 @@
+## 2026-09-04 04:25 AM EDT
+
+**Movies removed:**
+- Fallen Leaves + Jean the Matchmaker
+- THE TEXAS CHAIN SAW MASSACRE (1974)
+
+**Showtime changes:**
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T16:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T19:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T22:30:00 (Standard)
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T17:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T19:45:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T22:30:00 (HDR by Barco)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T22:45:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T18:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-03T21:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T21:30:00 (Standard)
+- Finding Emily
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T16:00:00 (Standard)
+- It Ends
+  - − BAM Rose Cinemas @ 2026-09-03T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T22:00:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T15:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T20:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T21:00:00 (Standard)
+- Butthole Surfers: The Hole Truth and Nothing Butt
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T17:45:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T15:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T21:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-03T21:20:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T22:00:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T18:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-03T21:10:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T21:45:00 (Standard)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T16:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T22:15:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-09-03T21:15:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-03T21:15:00 (Standard)
+
 ## 2026-09-03 07:46 PM EDT
 
 **Movies added:**
