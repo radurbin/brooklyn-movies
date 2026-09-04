@@ -1,3 +1,20 @@
+## 2026-09-04 02:46 PM EDT
+
+**Movies added:**
+- Verity
+
+**Showtime changes:**
+- The Odyssey
+  - − BAM Rose Cinemas @ 2026-09-04T13:30:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-09-04T13:45:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − BAM Rose Cinemas @ 2026-09-04T13:40:00 (Standard)
+- Tony
+  - − BAM Rose Cinemas @ 2026-09-04T13:50:00 (Standard)
+- Coyote vs. ACME
+  - − BAM Rose Cinemas @ 2026-09-04T13:30:00 (Standard)
+
 ## 2026-09-04 09:57 AM EDT
 
 No changes.
