@@ -1,3 +1,72 @@
+## 2026-09-04 07:39 PM EDT
+
+**Movies added:**
+- American Doctor
+- TERROR TUESDAY: THE BLOB (1988)
+
+**Movies removed:**
+- Mystery Machine (9/14/2026)
+- Star Trek: The Motion Picture - The Director's Edition
+
+**Showtime changes:**
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T13:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T16:15:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T19:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T19:00:00 (Open Caption)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T15:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-04T16:10:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T18:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-04T18:40:00 (Standard)
+- Atlantics
+  - − BAM Rose Cinemas @ 2026-09-04T16:30:00 (Standard)
+- Idiots
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T12:30:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T12:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T15:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-04T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-04T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T18:45:00 (Standard)
+- Finding Emily
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T16:00:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T14:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T18:15:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T14:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-04T16:20:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T18:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-04T18:50:00 (Standard)
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T12:20:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T18:15:00 (HDR by Barco)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T15:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T18:45:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T13:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-04T17:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T18:00:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-09-04T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-04T18:45:00 (Standard)
+- Body Double
+  - − BAM Rose Cinemas @ 2026-09-04T19:00:00 (Standard)
+
 ## 2026-09-04 02:46 PM EDT
 
 **Movies added:**
