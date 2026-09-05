@@ -12186,5 +12186,78 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-09-05 01:52 PM EDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Teenage Sex and Death at Camp Miasma",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-05T13:40:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Odyssey",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-05T13:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Coyote vs. ACME",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-05T13:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Bacurau",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-05T13:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Invite",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-05T13:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Tony",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-05T13:50:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
   }
 ]
