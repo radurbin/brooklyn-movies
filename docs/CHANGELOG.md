@@ -1,3 +1,25 @@
+## 2026-09-05 04:00 AM EDT
+
+**Showtime changes:**
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T19:15:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − BAM Rose Cinemas @ 2026-09-04T21:10:00 (Standard)
+- Tony
+  - − BAM Rose Cinemas @ 2026-09-04T21:20:00 (Standard)
+- It Ends
+  - − BAM Rose Cinemas @ 2026-09-04T21:00:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-09-04T21:15:00 (Standard)
+- The Odyssey
+  - − BAM Rose Cinemas @ 2026-09-04T20:30:00 (Standard)
+- Wild Things
+  - − BAM Rose Cinemas @ 2026-09-04T21:30:00 (Standard)
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T19:15:00 (Standard)
+- Butthole Surfers: The Hole Truth and Nothing Butt
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T19:30:00 (Standard)
+
 ## 2026-09-04 07:39 PM EDT
 
 **Movies added:**
