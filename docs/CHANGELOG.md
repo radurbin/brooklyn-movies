@@ -1,3 +1,42 @@
+## 2026-09-05 07:30 PM EDT
+
+**Showtime changes:**
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T12:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-05T17:00:00 (Standard)
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T12:20:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T11:45:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-09-05T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-05T18:50:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-09-05T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-05T18:45:00 (Standard)
+- Onibaba
+  - − BAM Rose Cinemas @ 2026-09-05T16:15:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T12:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T13:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-05T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-05T18:30:00 (Standard)
+- Mississippi Masala
+  - − BAM Rose Cinemas @ 2026-09-05T18:45:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T11:30:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T12:30:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-09-05T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-05T18:40:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T13:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T11:45:00 (Standard)
+- Idiots
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T12:30:00 (Standard)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T13:15:00 (Standard)
+
 ## 2026-09-05 01:52 PM EDT
 
 **Showtime changes:**
