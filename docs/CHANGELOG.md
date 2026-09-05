@@ -1,3 +1,32 @@
+## 2026-09-05 09:12 AM EDT
+
+**Movies removed:**
+- The Fog (1980)
+
+**Showtime changes:**
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T21:45:00 (Standard)
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T21:00:00 (HDR by Barco)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T22:00:00 (Open Caption)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T22:15:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T22:45:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T21:00:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T21:15:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T21:45:00 (Open Caption)
+- It Ends
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T22:15:00 (Open Caption)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T21:30:00 (Open Caption)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-04T22:00:00 (Standard)
+
 ## 2026-09-05 04:00 AM EDT
 
 **Showtime changes:**
