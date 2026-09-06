@@ -1,3 +1,34 @@
+## 2026-09-06 09:21 AM EDT
+
+**Showtime changes:**
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T21:00:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T22:00:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T21:15:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T20:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T21:30:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T21:45:00 (Standard)
+- Dire Duplicity
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T22:45:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T22:00:00 (Open Caption)
+- It Ends
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T22:30:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T22:45:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T21:45:00 (Standard)
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T19:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T21:00:00 (HDR by Barco)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-05T22:15:00 (Open Caption)
+
 ## 2026-09-06 04:18 AM EDT
 
 **Movies removed:**
