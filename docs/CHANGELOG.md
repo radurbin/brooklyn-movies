@@ -1,3 +1,17 @@
+## 2026-09-06 01:57 PM EDT
+
+**Showtime changes:**
+- Teenage Sex and Death at Camp Miasma
+  - − BAM Rose Cinemas @ 2026-09-06T13:40:00 (Standard)
+- Coyote vs. ACME
+  - − BAM Rose Cinemas @ 2026-09-06T13:30:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-09-06T13:45:00 (Standard)
+- Tony
+  - − BAM Rose Cinemas @ 2026-09-06T13:50:00 (Standard)
+- The Odyssey
+  - − BAM Rose Cinemas @ 2026-09-06T13:30:00 (Standard)
+
 ## 2026-09-06 09:21 AM EDT
 
 **Showtime changes:**
