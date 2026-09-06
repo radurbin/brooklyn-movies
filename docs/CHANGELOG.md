@@ -1,3 +1,61 @@
+## 2026-09-06 07:25 PM EDT
+
+**Movies removed:**
+- Atlantics
+- Star Trek III: The Search for Spock
+
+**Showtime changes:**
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T15:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-06T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-06T18:40:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T14:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-06T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-06T18:50:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T11:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-06T17:00:00 (Standard)
+- Amazing Grace
+  - − BAM Rose Cinemas @ 2026-09-06T14:00:00 (Standard)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T13:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T16:15:00 (Standard)
+- Idiots
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T12:30:00 (Open Caption)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T15:45:00 (Standard)
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T12:20:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T15:15:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T15:15:00 (Open Caption)
+- The Nutty Professor (1996)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T12:00:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-09-06T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-06T18:45:00 (Standard)
+- Finding Emily
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T16:15:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T14:45:00 (Open Caption)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T15:45:00 (Open Caption)
+- Tongues Untied
+  - − BAM Rose Cinemas @ 2026-09-06T16:00:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T12:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T13:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-06T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-06T18:30:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T13:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T16:00:00 (Standard)
+
 ## 2026-09-06 01:57 PM EDT
 
 **Showtime changes:**
