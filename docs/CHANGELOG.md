@@ -1,3 +1,38 @@
+## 2026-09-07 03:33 PM EDT
+
+**Showtime changes:**
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T12:15:00 (Open Caption)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T12:30:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T12:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T13:00:00 (Open Caption)
+- Idiots
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T12:30:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T13:15:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T11:45:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T11:30:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T12:00:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T11:00:00 (Standard)
+- Butthole Surfers: The Hole Truth and Nothing Butt
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T12:15:00 (Standard)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T12:45:00 (Standard)
+- Practical Magic 2
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T14:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-11T11:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-11T14:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-12T11:30:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-12T14:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-13T11:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-13T14:45:00 (Standard)
+
 ## 2026-09-07 11:28 AM EDT
 
 **Showtime changes:**
