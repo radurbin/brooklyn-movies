@@ -1,3 +1,34 @@
+## 2026-09-07 04:50 AM EDT
+
+**Showtime changes:**
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T18:15:00 (HDR by Barco)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T18:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-06T21:10:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T18:00:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-09-06T21:20:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T18:00:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-09-06T20:30:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T18:45:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-09-06T21:15:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T19:00:00 (Standard)
+- It Ends
+  - − BAM Rose Cinemas @ 2026-09-06T21:00:00 (Standard)
+- Butthole Surfers: The Hole Truth and Nothing Butt
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T18:45:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T18:15:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-06T19:00:00 (Standard)
+- Starstruck
+  - − BAM Rose Cinemas @ 2026-09-06T19:45:00 (Standard)
+
 ## 2026-09-06 07:25 PM EDT
 
 **Movies removed:**
