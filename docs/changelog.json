@@ -13645,5 +13645,234 @@
         "removed": []
       }
     ]
+  },
+  {
+    "date": "2026-09-07 07:55 PM EDT",
+    "movies_added": [],
+    "movies_removed": [
+      "Babylon",
+      "Breaking Bad Day",
+      "Star Trek IV: The Voyage Home"
+    ],
+    "showtime_changes": [
+      {
+        "title": "Hope (2026)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T18:00:00",
+            "format": "HDR by Barco"
+          }
+        ]
+      },
+      {
+        "title": "The Dog Stars",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T14:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T18:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Invite",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-07T16:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-07T18:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Onslaught",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T15:15:00",
+            "format": "HDR by Barco"
+          }
+        ]
+      },
+      {
+        "title": "Spider-Man: Brand New Day",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T15:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T19:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Finding Emily",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T16:00:00",
+            "format": "Open Caption"
+          }
+        ]
+      },
+      {
+        "title": "The End of Oak Street",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T15:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T18:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Coyote vs. ACME",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T16:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-07T16:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-07T18:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Tony",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T14:45:00",
+            "format": "Open Caption"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-07T16:20:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T18:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-07T18:50:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "By Any Means",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T15:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T18:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Teenage Sex and Death at Camp Miasma",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T15:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-07T16:10:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T18:30:00",
+            "format": "Open Caption"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-07T18:40:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Insidious: Out of the Further",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T16:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Odyssey",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T15:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-07T16:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-07T19:30:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
   }
 ]

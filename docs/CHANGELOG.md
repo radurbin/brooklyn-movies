@@ -1,3 +1,53 @@
+## 2026-09-07 07:55 PM EDT
+
+**Movies removed:**
+- Babylon
+- Breaking Bad Day
+- Star Trek IV: The Voyage Home
+
+**Showtime changes:**
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T18:00:00 (HDR by Barco)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T14:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T18:15:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-09-07T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-07T18:45:00 (Standard)
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T15:15:00 (HDR by Barco)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T19:00:00 (Standard)
+- Finding Emily
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T16:00:00 (Open Caption)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T15:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T18:45:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-07T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-07T18:30:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T14:45:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-09-07T16:20:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T18:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-07T18:50:00 (Standard)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T15:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T18:45:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T15:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-07T16:10:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T18:30:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-09-07T18:40:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T16:15:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T15:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-07T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-07T19:30:00 (Standard)
+
 ## 2026-09-07 03:33 PM EDT
 
 **Showtime changes:**
