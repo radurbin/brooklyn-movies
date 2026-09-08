@@ -1,3 +1,139 @@
+## 2026-09-08 07:48 PM EDT
+
+**Movies added:**
+- Cat People
+- Hausu
+- Kuroneko
+- The Black Cat
+- The Cassandra Cat
+
+**Movies removed:**
+- Bacurau
+- Cat People
+- Finding Emily
+- Hausu
+- Kuroneko
+- Starstruck
+- The Black Cat
+- The Cassandra Cat
+
+**Showtime changes:**
+- Insidious: Out of the Further
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T13:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T16:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T19:30:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T22:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T22:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-08T16:15:00 (Open Caption)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-09-08T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-08T18:45:00 (Standard)
+- Spider-Man: Brand New Day
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T11:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T15:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T19:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T22:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T11:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T15:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T19:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T22:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-08T14:45:00 (Standard)
+- Coyote vs. ACME
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T11:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T13:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T15:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T18:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T21:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T12:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T13:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T15:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T18:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-08T15:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-08T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-08T18:30:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T11:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T15:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T18:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T21:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T12:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T15:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T18:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T21:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-08T15:00:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-09-08T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-08T18:40:00 (Standard)
+- The Odyssey
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T12:00:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T14:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T16:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T21:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T11:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T15:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T18:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T22:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-08T15:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-08T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-08T19:30:00 (Standard)
+- Onslaught
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T12:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T15:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T19:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T22:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T12:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T15:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T19:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T22:30:00 (Standard)
+- Tony
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T12:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T15:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T19:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T22:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T12:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-08T15:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-08T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-08T18:50:00 (Standard)
+- By Any Means
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T13:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T16:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T19:15:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T22:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T13:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T16:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T19:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T22:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-08T16:15:00 (Open Caption)
+- Practical Magic 2
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T15:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T16:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T19:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T20:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T21:45:00 (Standard)
+- Butthole Surfers: The Hole Truth and Nothing Butt
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T18:45:00 (Standard)
+- The End of Oak Street
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T12:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T13:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T16:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T18:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T21:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T16:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T21:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-08T15:30:00 (Open Caption)
+- The Dog Stars
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T11:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T14:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-08T14:45:00 (Standard)
+- Hope (2026)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T18:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-09T22:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T11:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T12:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T15:30:00 (Standard)
+
 ## 2026-09-08 03:13 PM EDT
 
 **Movies added:**
