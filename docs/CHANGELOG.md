@@ -1,3 +1,38 @@
+## 2026-09-08 10:04 AM EDT
+
+**Showtime changes:**
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T22:00:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T22:30:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T21:30:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T21:30:00 (Open Caption)
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T21:45:00 (HDR by Barco)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T22:45:00 (Open Caption)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T21:45:00 (Standard)
+- Hope (2026)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T11:00:00 (HDR by Barco)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-10T14:45:00 (HDR by Barco)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-11T11:00:00 (HDR by Barco)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-11T15:00:00 (HDR by Barco)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-12T11:00:00 (HDR by Barco)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-12T15:00:00 (HDR by Barco)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-13T11:00:00 (HDR by Barco)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-13T15:00:00 (HDR by Barco)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T21:00:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T21:15:00 (Open Caption)
+- It Ends
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T22:15:00 (Open Caption)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T22:00:00 (Standard)
+
 ## 2026-09-08 04:31 AM EDT
 
 **Movies added:**

@@ -13974,5 +13974,179 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-09-08 10:04 AM EDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "The Odyssey",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T22:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Insidious: Out of the Further",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T22:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Coyote vs. ACME",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T21:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The End of Oak Street",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T21:30:00",
+            "format": "Open Caption"
+          }
+        ]
+      },
+      {
+        "title": "Onslaught",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T21:45:00",
+            "format": "HDR by Barco"
+          }
+        ]
+      },
+      {
+        "title": "Spider-Man: Brand New Day",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T22:45:00",
+            "format": "Open Caption"
+          }
+        ]
+      },
+      {
+        "title": "Teenage Sex and Death at Camp Miasma",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T21:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Hope (2026)",
+        "added": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-10T11:00:00",
+            "format": "HDR by Barco"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-10T14:45:00",
+            "format": "HDR by Barco"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-11T11:00:00",
+            "format": "HDR by Barco"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-11T15:00:00",
+            "format": "HDR by Barco"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-12T11:00:00",
+            "format": "HDR by Barco"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-12T15:00:00",
+            "format": "HDR by Barco"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-13T11:00:00",
+            "format": "HDR by Barco"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-13T15:00:00",
+            "format": "HDR by Barco"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Tony",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T21:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Dog Stars",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T21:15:00",
+            "format": "Open Caption"
+          }
+        ]
+      },
+      {
+        "title": "It Ends",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T22:15:00",
+            "format": "Open Caption"
+          }
+        ]
+      },
+      {
+        "title": "By Any Means",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-07T22:00:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
   }
 ]
