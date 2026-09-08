@@ -1,3 +1,30 @@
+## 2026-09-08 04:31 AM EDT
+
+**Movies added:**
+- Queen Budapest
+
+**Movies removed:**
+- Queen Budapest
+- Tongues Untied
+
+**Showtime changes:**
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T19:30:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − BAM Rose Cinemas @ 2026-09-07T21:10:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T19:15:00 (Standard)
+- It Ends
+  - − BAM Rose Cinemas @ 2026-09-07T21:00:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T19:45:00 (Standard)
+- Tony
+  - − BAM Rose Cinemas @ 2026-09-07T21:20:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-09-07T21:15:00 (Standard)
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-07T19:15:00 (Standard)
+
 ## 2026-09-07 07:55 PM EDT
 
 **Movies removed:**
