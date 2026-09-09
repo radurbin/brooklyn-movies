@@ -1,3 +1,34 @@
+## 2026-09-09 10:06 AM EDT
+
+**Movies added:**
+- Trick or Treat (1986)
+
+**Movies removed:**
+- It Ends
+- Saw VI
+
+**Showtime changes:**
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-08T21:45:00 (HDR by Barco)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-08T22:00:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-08T21:00:00 (Open Caption)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-08T22:15:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-08T21:00:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-09-08T21:15:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-08T22:30:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-08T22:00:00 (Open Caption)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-08T21:30:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-08T21:30:00 (Standard)
+
 ## 2026-09-09 04:33 AM EDT
 
 **Movies added:**
