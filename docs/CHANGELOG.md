@@ -1,3 +1,52 @@
+## 2026-09-10 07:38 PM EDT
+
+**Movies added:**
+- Ginger Snaps
+- TERROR TUESDAY: HOUSE OF 1000 CORPSES
+- TERROR TUESDAY: URBAN LEGEND
+
+**Movies removed:**
+- Onibaba
+- Wild Things
+
+**Showtime changes:**
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T13:15:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T14:15:00 (Standard)
+- City of Jade
+  - − BAM Rose Cinemas @ 2026-09-23T21:30:00 (Standard)
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T12:15:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T11:15:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T12:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-10T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-10T18:50:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T11:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T12:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-10T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-10T19:20:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T11:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-10T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-10T19:30:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T12:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-10T16:15:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T12:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-10T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-10T18:40:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T11:30:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-09-10T18:45:00 (Standard)
+
 ## 2026-09-10 02:54 PM EDT
 
 **Showtime changes:**
