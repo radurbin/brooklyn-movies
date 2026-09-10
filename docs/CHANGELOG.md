@@ -1,3 +1,46 @@
+## 2026-09-10 04:35 AM EDT
+
+**Movies added:**
+- Carmen, Baby
+
+**Movies removed:**
+- Butthole Surfers: The Hole Truth and Nothing Butt
+- Carmen, Baby
+- The Nutty Professor (1996)
+
+**Showtime changes:**
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T16:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T19:15:00 (Open Caption)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T15:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T18:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-09T21:00:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T18:15:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T16:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T19:30:00 (Open Caption)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T18:15:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T18:30:00 (Standard)
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T19:15:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T15:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T18:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-09T21:10:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T19:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T19:00:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T16:45:00 (Standard)
+
 ## 2026-09-09 07:47 PM EDT
 
 **Movies added:**
