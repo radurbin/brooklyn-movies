@@ -1,3 +1,26 @@
+## 2026-09-10 02:54 PM EDT
+
+**Showtime changes:**
+- Your Mother Your Mother Your Mother
+  - + Alamo Drafthouse Brooklyn @ 2026-09-24T18:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-24T21:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-24T21:45:00 (35mm)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-25T15:15:00 (35mm)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-25T18:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-25T18:30:00 (35mm)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-25T21:00:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-26T18:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-26T18:15:00 (35mm)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-26T21:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-26T21:15:00 (35mm)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-27T18:00:00 (35mm)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-28T18:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-28T21:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-29T18:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-29T21:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-30T18:00:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-30T21:00:00 (Standard)
+
 ## 2026-09-10 10:02 AM EDT
 
 **Movies added:**
