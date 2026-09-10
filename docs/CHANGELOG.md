@@ -1,3 +1,35 @@
+## 2026-09-10 10:02 AM EDT
+
+**Movies added:**
+- Ghost Dog: The Way of the Samurai
+- Your Mother Your Mother Your Mother
+
+**Movies removed:**
+- Carmen, Baby
+
+**Showtime changes:**
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T21:00:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T21:00:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T21:15:00 (Standard)
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T22:15:00 (Standard)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T22:15:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T22:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T22:30:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T21:30:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T22:45:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T22:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-09T22:45:00 (Standard)
+
 ## 2026-09-10 04:35 AM EDT
 
 **Movies added:**
