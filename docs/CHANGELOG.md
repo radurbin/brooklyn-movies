@@ -1,3 +1,42 @@
+## 2026-09-11 04:30 AM EDT
+
+**Movies removed:**
+- Body Double
+- Dire Duplicity
+
+**Showtime changes:**
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T19:00:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T15:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T18:15:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T14:45:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T18:30:00 (HDR by Barco)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T15:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T18:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-10T21:00:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T15:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T16:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T18:00:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T15:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T18:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-10T21:10:00 (Standard)
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T15:30:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T18:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-10T21:20:00 (Standard)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T16:15:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-10T16:00:00 (Standard)
+
 ## 2026-09-10 07:38 PM EDT
 
 **Movies added:**
