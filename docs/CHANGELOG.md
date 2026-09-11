@@ -1,3 +1,23 @@
+## 2026-09-11 02:57 PM EDT
+
+**Movies added:**
+- 25th Hour
+
+**Movies removed:**
+- 25th Hour
+
+**Showtime changes:**
+- Tony
+  - − BAM Rose Cinemas @ 2026-09-11T13:30:00 (Standard)
+- Coyote vs. ACME
+  - − BAM Rose Cinemas @ 2026-09-11T13:00:00 (Standard)
+- Powwow People
+  - − BAM Rose Cinemas @ 2026-09-11T14:10:00 (Standard)
+- Hope (2026)
+  - − BAM Rose Cinemas @ 2026-09-11T13:00:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − BAM Rose Cinemas @ 2026-09-11T13:15:00 (Standard)
+
 ## 2026-09-11 10:01 AM EDT
 
 **Showtime changes:**
