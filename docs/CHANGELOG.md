@@ -1,3 +1,55 @@
+## 2026-09-11 07:48 PM EDT
+
+**Movies added:**
+- Ghost in the Shell (Dubbed)
+- Ghost in the Shell (Subtitled)
+- Hellbound: Hellraiser II
+- Hellraiser (1987)
+
+**Movies removed:**
+- GHOST IN THE SHELL (SUBTITLED)
+
+**Showtime changes:**
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-11T11:45:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-11T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-11T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-11T13:00:00 (Standard)
+- The Cassandra Cat
+  - − BAM Rose Cinemas @ 2026-09-11T19:15:00 (Standard)
+- Kuroneko
+  - − BAM Rose Cinemas @ 2026-09-11T17:00:00 (Standard)
+- Tony
+  - − BAM Rose Cinemas @ 2026-09-11T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-11T18:45:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-11T12:30:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-11T11:00:00 (HDR by Barco)
+  - − BAM Rose Cinemas @ 2026-09-11T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-11T19:45:00 (Standard)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-11T13:15:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-11T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-11T14:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-11T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-11T18:50:00 (Standard)
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-11T12:00:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-11T11:15:00 (Standard)
+- Powwow People
+  - − BAM Rose Cinemas @ 2026-09-11T16:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-11T19:00:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-11T12:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-11T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-11T18:40:00 (Standard)
+- The Dog Stars
+  - − Alamo Drafthouse Brooklyn @ 2026-09-11T12:15:00 (Standard)
+
 ## 2026-09-11 02:57 PM EDT
 
 **Movies added:**
