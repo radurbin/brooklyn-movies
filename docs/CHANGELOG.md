@@ -1,3 +1,53 @@
+## 2026-09-12 07:41 PM EDT
+
+**Movies added:**
+- A Tale of Two Sisters
+
+**Showtime changes:**
+- First Blood
+  - − Alamo Drafthouse Brooklyn @ 2026-09-12T13:00:00 (Standard)
+- Powwow People
+  - − BAM Rose Cinemas @ 2026-09-12T14:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-12T16:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-12T19:00:00 (Standard)
+- The Cassandra Cat
+  - − BAM Rose Cinemas @ 2026-09-12T18:00:00 (Standard)
+- The Cat from Outer Space
+  - − BAM Rose Cinemas @ 2026-09-12T14:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-12T11:45:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-12T11:00:00 (HDR by Barco)
+  - − BAM Rose Cinemas @ 2026-09-12T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-12T16:20:00 (Standard)
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-12T12:00:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-12T12:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-12T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-12T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-12T18:40:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-12T12:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-12T13:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-12T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-12T18:45:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-12T11:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-12T13:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-12T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-12T18:50:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-12T11:15:00 (Standard)
+- Mystery Transmission
+  - + Alamo Drafthouse Brooklyn @ 2026-10-26T21:30:00 (Standard)
+- Cat People
+  - − BAM Rose Cinemas @ 2026-09-12T16:15:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-12T11:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-12T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-12T13:00:00 (Standard)
+
 ## 2026-09-12 09:19 AM EDT
 
 **Showtime changes:**
