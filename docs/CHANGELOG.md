@@ -1,3 +1,19 @@
+## 2026-09-13 02:30 PM EDT
+
+**Showtime changes:**
+- Tony
+  - − BAM Rose Cinemas @ 2026-09-13T13:30:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − BAM Rose Cinemas @ 2026-09-13T13:15:00 (Standard)
+- Kiki’s Delivery Service
+  - − BAM Rose Cinemas @ 2026-09-13T14:00:00 (Standard)
+- Hope (2026)
+  - − BAM Rose Cinemas @ 2026-09-13T13:00:00 (Standard)
+- Coyote vs. ACME
+  - − BAM Rose Cinemas @ 2026-09-13T13:00:00 (Standard)
+- Powwow People
+  - − BAM Rose Cinemas @ 2026-09-13T14:10:00 (Standard)
+
 ## 2026-09-13 10:02 AM EDT
 
 **Movies added:**
