@@ -1,3 +1,45 @@
+## 2026-09-13 07:52 PM EDT
+
+**Movies removed:**
+- American Doctor
+- The Cat Creeps
+
+**Showtime changes:**
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T12:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T11:45:00 (Standard)
+- Bell, Book and Candle
+  - − BAM Rose Cinemas @ 2026-09-13T17:45:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T13:00:00 (Standard)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T13:15:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T12:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-13T15:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-13T18:00:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T11:15:00 (Standard)
+- Powwow People
+  - − BAM Rose Cinemas @ 2026-09-13T16:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-13T19:00:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T12:15:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T11:15:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-09-13T15:50:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-13T18:30:00 (Standard)
+- Tony
+  - − BAM Rose Cinemas @ 2026-09-13T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-13T18:45:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T11:00:00 (HDR by Barco)
+  - − BAM Rose Cinemas @ 2026-09-13T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-13T19:45:00 (Standard)
+
 ## 2026-09-13 02:30 PM EDT
 
 **Showtime changes:**

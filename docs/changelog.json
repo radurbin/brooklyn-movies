@@ -1,87 +1,5 @@
 [
   {
-    "date": "2026-08-21 07:49 PM EDT",
-    "movies_added": [
-      "Avengers: Doomsday",
-      "Basic Instinct",
-      "Blow Out",
-      "Breaking Bad Day",
-      "Butthole Surfers: The Hole Truth and Nothing Butt",
-      "By Any Means",
-      "CARRIE (1976)",
-      "Castration Movie Anthology ii. the best of both worlds",
-      "Cherry 2000",
-      "Coyote vs Acme",
-      "Crunchyroll Anime Night Sneak Peek (9/21/2026)",
-      "De Palma",
-      "Deathgasm 2: Goremageddon",
-      "Destroy All Monsters",
-      "Dire Duplicity",
-      "Don't Torture a Duckling",
-      "Dune: Part Three",
-      "Ernie & Emma",
-      "Exorcist III",
-      "Faust (1926)",
-      "Finding Emily",
-      "First Blood",
-      "Friday Night Lights (TV)",
-      "Hope (2026)",
-      "Idiots",
-      "Insidious: Out of the Further",
-      "It Ends",
-      "Ju-On: The Curse",
-      "LINKIN PARK: UNSHATTER",
-      "Little Shop of Horrors (1986)",
-      "Moonrise Kingdom",
-      "Mothra vs. Godzilla",
-      "Mutiny",
-      "My Sassy Girl",
-      "Mystery Transmission",
-      "Mystery Voyage",
-      "Nacho Libre",
-      "One Night Only",
-      "Onslaught",
-      "Paw Patrol: The Dino Movie",
-      "Powwow People",
-      "Practical Magic 2",
-      "Pulp: What Do You Do for an Encore?",
-      "Red Card + Sunrise/Sunset",
-      "Remake",
-      "Saw VI",
-      "Sherman's March",
-      "Spa Weekend",
-      "Spider-Man: Brand New Day",
-      "Spy Kids",
-      "Star Trek II: The Wrath of Khan",
-      "Star Trek III: The Search for Spock",
-      "Star Trek IV: The Voyage Home",
-      "Star Trek: The Genesis Trilogy",
-      "Star Trek: The Motion Picture - Director's Edition",
-      "TERROR TUESDAY: THE DEVIL'S DOORWAY",
-      "Teenage Sex and Death at Camp Miasma",
-      "The Birdcage",
-      "The Cabinet of Dr. Caligari",
-      "The Dog Stars",
-      "The Doors",
-      "The End of Oak Street",
-      "The Fast and the Furious: 25th Anniversary",
-      "The Invite",
-      "The Magic Faraway Tree",
-      "The Nutty Professor (1996)",
-      "The Odyssey",
-      "The Outsiders: The Complete Novel",
-      "The Samurai and The Prisoner",
-      "The Twilight Saga: New Moon",
-      "The Wrong Girls",
-      "Tony",
-      "Toxic: A Fairy Tale for Grown-Ups",
-      "Twilight (2008)",
-      "Union County"
-    ],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-08-21 08:00 PM EDT",
     "movies_added": [
       "Butthole Surfers: The Hole Truth and Nothing Butt",
@@ -19340,6 +19258,198 @@
           {
             "theater": "BAM Rose Cinemas",
             "datetime": "2026-09-13T14:10:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-09-13 07:52 PM EDT",
+    "movies_added": [],
+    "movies_removed": [
+      "American Doctor",
+      "The Cat Creeps"
+    ],
+    "showtime_changes": [
+      {
+        "title": "Onslaught",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-13T12:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Spider-Man: Brand New Day",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-13T11:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Bell, Book and Candle",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-13T17:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Practical Magic 2",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-13T11:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-13T12:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-13T13:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "By Any Means",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-13T13:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Coyote vs. ACME",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-13T12:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-13T15:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-13T18:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Odyssey",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-13T11:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Powwow People",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-13T16:40:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-13T19:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The End of Oak Street",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-13T12:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Teenage Sex and Death at Camp Miasma",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-13T11:15:00",
+            "format": "Open Caption"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-13T15:50:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-13T18:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Tony",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-13T16:10:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-13T18:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Hope (2026)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-13T11:00:00",
+            "format": "HDR by Barco"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-13T16:20:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-13T19:45:00",
             "format": "Standard"
           }
         ]
