@@ -1,3 +1,35 @@
+## 2026-09-14 12:07 PM EDT
+
+**Movies removed:**
+- First Blood
+
+**Showtime changes:**
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T22:30:00 (HDR by Barco)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T21:30:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T21:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T11:15:00 (Standard)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T22:45:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T23:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T22:15:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T21:45:00 (Open Caption)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T20:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T21:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T11:00:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T22:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T11:15:00 (Standard)
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T23:00:00 (Standard)
+
 ## 2026-09-14 05:29 AM EDT
 
 **Movies removed:**
