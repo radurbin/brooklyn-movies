@@ -1,3 +1,52 @@
+## 2026-09-14 05:29 AM EDT
+
+**Movies removed:**
+- The Cassandra Cat
+
+**Showtime changes:**
+- Powwow People
+  - − BAM Rose Cinemas @ 2026-09-13T21:00:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T15:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T18:45:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T19:15:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T15:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T19:30:00 (Open Caption)
+- Cat People
+  - + BAM Rose Cinemas @ 2026-09-14T21:00:00 (Standard)
+- TWILIGHT (2008)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T18:45:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T14:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T16:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T18:00:00 (Open Caption)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T15:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T19:00:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T14:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T18:15:00 (Standard)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T16:15:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T14:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T18:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-13T21:00:00 (Standard)
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T15:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T19:00:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-09-13T20:30:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T18:30:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T15:15:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-09-13T21:10:00 (Standard)
+- Ernie & Emma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-13T16:00:00 (Standard)
+
 ## 2026-09-13 07:52 PM EDT
 
 **Movies removed:**
