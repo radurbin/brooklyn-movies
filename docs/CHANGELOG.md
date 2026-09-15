@@ -1,3 +1,71 @@
+## 2026-09-15 07:55 PM EDT
+
+**Movies added:**
+- Crunchyroll Anime Nights Sneak Peek (9/21/2026)
+
+**Movies removed:**
+- Crunchyroll Anime Night Sneak Peek (9/21/2026)
+- Kiki’s Delivery Service
+- TWILIGHT (2008)
+- The Cat from Outer Space
+
+**Showtime changes:**
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T15:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-15T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-15T19:10:00 (Standard)
+- Ernie & Emma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T16:00:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T11:30:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T15:15:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T15:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-15T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-15T19:20:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T11:45:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T15:45:00 (Standard)
+- If I Go Will They Miss Me
+  - + Alamo Drafthouse Brooklyn @ 2026-09-19T16:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-22T13:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-09-23T16:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T16:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T13:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T16:15:00 (Open Caption)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T12:15:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T14:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T16:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T18:00:00 (Standard)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T13:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T16:15:00 (Standard)
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T12:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T15:30:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T11:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T14:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T18:15:00 (Standard)
+- Powwow People
+  - − BAM Rose Cinemas @ 2026-09-15T16:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-15T19:00:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T14:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-15T16:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T18:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-15T18:50:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T12:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T15:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-15T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-15T18:40:00 (Standard)
+
 ## 2026-09-15 03:27 PM EDT
 
 **Movies added:**
