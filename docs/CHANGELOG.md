@@ -1,3 +1,19 @@
+## 2026-09-15 10:37 AM EDT
+
+**Showtime changes:**
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T22:15:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T22:45:00 (HDR by Barco)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T22:45:00 (Open Caption)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T22:15:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T23:00:00 (Standard)
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T22:30:00 (Standard)
+
 ## 2026-09-15 05:09 AM EDT
 
 **Movies added:**
