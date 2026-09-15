@@ -1,3 +1,123 @@
+## 2026-09-14 08:10 PM EDT
+
+**Movies removed:**
+- Hausu
+- The Dog Stars
+
+**Showtime changes:**
+- Hope (2026)
+  - + BAM Rose Cinemas @ 2026-09-18T13:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-18T16:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-18T20:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-19T13:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-19T16:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-19T20:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-20T13:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-20T16:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-20T20:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-21T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-21T19:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-22T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-22T19:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-23T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-23T19:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-24T18:10:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T11:30:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T15:15:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T15:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-14T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-14T19:20:00 (Standard)
+- The Black Cat
+  - − BAM Rose Cinemas @ 2026-09-14T17:00:00 (Standard)
+- Tony
+  - + BAM Rose Cinemas @ 2026-09-18T13:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-18T16:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-18T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-18T21:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-19T13:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-19T16:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-19T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-19T21:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-20T13:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-20T16:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-20T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-20T21:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-21T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-21T21:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-22T16:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-22T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-22T21:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-23T16:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-23T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-23T21:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-24T21:20:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T12:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-14T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-14T18:45:00 (Standard)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T13:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T16:15:00 (Standard)
+- Powwow People
+  - − BAM Rose Cinemas @ 2026-09-14T16:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-14T19:00:00 (Standard)
+- Coyote vs. ACME
+  - + BAM Rose Cinemas @ 2026-09-18T13:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-18T16:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-18T18:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-18T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-19T13:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-19T16:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-19T18:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-19T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-20T13:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-20T16:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-20T18:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-20T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-21T16:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-22T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-22T18:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-22T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-23T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-23T18:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-23T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-24T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T12:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T15:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-14T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-14T18:40:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T14:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T16:30:00 (Standard)
+- Ernie & Emma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T16:00:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T15:00:00 (Standard)
+- TWILIGHT (2008)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T12:30:00 (Standard)
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T15:30:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T15:30:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - + BAM Rose Cinemas @ 2026-09-18T13:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-18T21:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-19T13:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-19T21:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-20T13:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-20T21:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-21T21:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-22T21:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-23T21:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-24T21:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T14:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-14T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-14T18:50:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-14T14:45:00 (Standard)
+
 ## 2026-09-14 12:07 PM EDT
 
 **Movies removed:**
