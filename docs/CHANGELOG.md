@@ -1,3 +1,25 @@
+## 2026-09-15 03:27 PM EDT
+
+**Movies added:**
+- Bardi
+- Clarissa
+- Club Kid
+- Dao
+- Double Freedom
+- Everything Else is Noise
+- Everytime
+- Fatherland
+- Foreign Travel
+- In Which Annie Gives it Those Ones
+- Joy of Joys
+- Misty Green
+- My Wife Cries
+- Nitrate Kisses
+- Other Mommy
+- Possible Love
+- The Dreamed Adventure
+- What Can’t Be Mentioned + Sounds From Home
+
 ## 2026-09-15 10:37 AM EDT
 
 **Showtime changes:**
