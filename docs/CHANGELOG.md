@@ -1,3 +1,8 @@
+## 2026-09-16 03:19 PM EDT
+
+**Movies added:**
+- Yuri!!! on Ice (Subtitled)
+
 ## 2026-09-16 10:33 AM EDT
 
 No changes.
