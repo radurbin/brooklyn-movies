@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-08-22 12:17 PM EDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-08-22 06:17 PM EDT",
     "movies_added": [],
     "movies_removed": [
@@ -22425,5 +22419,11 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-09-16 10:33 AM EDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": []
   }
 ]
