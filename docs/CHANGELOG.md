@@ -1,3 +1,47 @@
+## 2026-09-16 05:01 AM EDT
+
+**Movies removed:**
+- Angel Heart
+- Nightbreed
+- The Black Cat
+
+**Showtime changes:**
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T20:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T21:30:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T21:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-15T21:30:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T19:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T22:45:00 (HDR by Barco)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T22:00:00 (Standard)
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T23:00:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T18:30:00 (Standard)
+- Powwow People
+  - − BAM Rose Cinemas @ 2026-09-15T21:00:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T21:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-15T21:20:00 (Standard)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T22:45:00 (Standard)
+- The Invite
+  - − BAM Rose Cinemas @ 2026-09-15T21:10:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T18:45:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T21:30:00 (Standard)
+- Insidious: Out of the Further
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T23:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T19:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-15T22:15:00 (Standard)
+
 ## 2026-09-15 07:55 PM EDT
 
 **Movies added:**
