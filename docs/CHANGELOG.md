@@ -1,3 +1,26 @@
+## 2026-09-17 03:30 PM EDT
+
+**Showtime changes:**
+- Cameron Winter at Carnegie Hall
+  - + BAM Rose Cinemas @ 2026-11-20T15:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-20T17:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-20T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-20T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-21T15:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-21T17:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-21T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-21T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-22T15:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-22T17:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-22T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-22T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-23T17:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-23T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-23T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-24T17:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-24T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-24T21:00:00 (Standard)
+
 ## 2026-09-17 10:37 AM EDT
 
 **Movies removed:**
