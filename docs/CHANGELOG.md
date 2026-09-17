@@ -1,3 +1,52 @@
+## 2026-09-16 08:02 PM EDT
+
+**Movies added:**
+- Cameron Winter at Carnegie Hall
+- Onda Nova
+
+**Movies removed:**
+- Garod Collective Presents: Posthumous Traces
+- Onda Nova
+
+**Showtime changes:**
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-16T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-16T14:30:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-09-16T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-16T18:50:00 (Standard)
+- Powwow People
+  - − BAM Rose Cinemas @ 2026-09-16T16:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-16T19:00:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-16T12:00:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-09-16T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-16T18:45:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-16T11:45:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-16T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-16T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-16T12:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-16T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-16T14:30:00 (Open Caption)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-16T11:30:00 (HDR by Barco)
+  - − BAM Rose Cinemas @ 2026-09-16T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-16T19:20:00 (Standard)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-16T13:15:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-16T12:45:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-09-16T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-16T18:40:00 (Standard)
+- The End of Oak Street
+  - − Alamo Drafthouse Brooklyn @ 2026-09-16T15:00:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-16T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-16T14:45:00 (Standard)
+- Onslaught
+  - − Alamo Drafthouse Brooklyn @ 2026-09-16T11:45:00 (Standard)
+
 ## 2026-09-16 03:19 PM EDT
 
 **Movies added:**
