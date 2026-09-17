@@ -1,3 +1,86 @@
+## 2026-09-17 07:52 PM EDT
+
+**Movies added:**
+- House of 1000 Corpses
+- The Blob (1988)
+- The Devil's Doorway
+- Urban Legend
+
+**Movies removed:**
+- Cat People
+- Kuroneko
+- Onslaught
+- Powwow People
+- TERROR TUESDAY: HOUSE OF 1000 CORPSES
+- TERROR TUESDAY: THE BLOB (1988)
+- TERROR TUESDAY: THE DEVIL'S DOORWAY
+- TERROR TUESDAY: URBAN LEGEND
+- The End of Oak Street
+- The Invite
+
+**Showtime changes:**
+- Primetime
+  - + BAM Rose Cinemas @ 2026-09-24T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-24T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-24T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-25T13:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-25T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-25T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-25T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-26T13:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-26T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-26T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-26T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-27T13:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-27T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-27T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-27T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-28T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-28T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-28T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-29T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-29T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-29T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-30T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-30T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-30T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-01T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-01T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-01T21:30:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-17T12:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-17T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-17T19:20:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-17T13:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-17T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-17T18:40:00 (Standard)
+- If I Go Will They Miss Me
+  - − Alamo Drafthouse Brooklyn @ 2026-09-17T13:15:00 (Standard)
+- The Weight
+  - − Alamo Drafthouse Brooklyn @ 2026-09-17T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-17T15:15:00 (Standard)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-17T13:00:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-17T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-17T14:30:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-17T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-17T14:35:00 (Standard)
+- Tony
+  - − Alamo Drafthouse Brooklyn @ 2026-09-17T11:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-17T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-17T18:45:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-17T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-17T14:45:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-17T14:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-17T15:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-17T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-17T19:10:00 (Standard)
+
 ## 2026-09-17 03:30 PM EDT
 
 **Showtime changes:**
