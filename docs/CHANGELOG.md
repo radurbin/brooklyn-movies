@@ -1,3 +1,18 @@
+## 2026-09-18 02:49 PM EDT
+
+**Showtime changes:**
+- Coyote vs. ACME
+  - − BAM Rose Cinemas @ 2026-09-18T13:30:00 (Standard)
+- Resident Evil (2026)
+  - − BAM Rose Cinemas @ 2026-09-18T14:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-24T16:30:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − BAM Rose Cinemas @ 2026-09-18T13:45:00 (Standard)
+- Hope (2026)
+  - − BAM Rose Cinemas @ 2026-09-18T13:30:00 (Standard)
+- Tony
+  - − BAM Rose Cinemas @ 2026-09-18T13:40:00 (Standard)
+
 ## 2026-09-18 10:03 AM EDT
 
 **Showtime changes:**
