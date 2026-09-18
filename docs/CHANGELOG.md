@@ -1,3 +1,21 @@
+## 2026-09-18 10:03 AM EDT
+
+**Showtime changes:**
+- The Weight
+  - − Alamo Drafthouse Brooklyn @ 2026-09-17T22:30:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-17T22:45:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-17T21:45:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-17T22:45:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-17T22:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-17T22:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-17T23:00:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-17T21:45:00 (Standard)
+
 ## 2026-09-18 04:42 AM EDT
 
 **Movies removed:**
