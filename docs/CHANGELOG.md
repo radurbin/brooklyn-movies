@@ -1,3 +1,53 @@
+## 2026-09-19 04:28 AM EDT
+
+**Movies added:**
+- Misty Green
+- Possible Love
+
+**Movies removed:**
+- Misty Green
+- Possible Love
+
+**Showtime changes:**
+- The Weight
+  - − Alamo Drafthouse Brooklyn @ 2026-09-18T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-18T18:45:00 (Standard)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-18T15:00:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-18T18:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-18T21:15:00 (Standard)
+- Tony
+  - − BAM Rose Cinemas @ 2026-09-18T21:10:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-18T14:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-18T18:15:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-18T14:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-18T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-18T18:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-18T20:15:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-18T18:30:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-18T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-18T16:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-18T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-18T19:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-18T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-18T19:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-18T21:30:00 (Standard)
+- If I Go Will They Miss Me
+  - − Alamo Drafthouse Brooklyn @ 2026-09-18T16:15:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-18T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-18T21:00:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-18T15:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-18T16:05:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-18T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-18T19:30:00 (Standard)
+
 ## 2026-09-18 07:50 PM EDT
 
 **Movies removed:**
