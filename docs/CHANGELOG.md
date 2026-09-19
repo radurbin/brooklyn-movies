@@ -1,3 +1,20 @@
+## 2026-09-19 02:22 PM EDT
+
+**Movies removed:**
+- Hometown Boy
+
+**Showtime changes:**
+- Teenage Sex and Death at Camp Miasma
+  - − BAM Rose Cinemas @ 2026-09-19T13:45:00 (Standard)
+- Coyote vs. ACME
+  - − BAM Rose Cinemas @ 2026-09-19T13:30:00 (Standard)
+- Hope (2026)
+  - − BAM Rose Cinemas @ 2026-09-19T13:30:00 (Standard)
+- Tony
+  - − BAM Rose Cinemas @ 2026-09-19T13:40:00 (Standard)
+- Resident Evil (2026)
+  - − BAM Rose Cinemas @ 2026-09-19T14:10:00 (Standard)
+
 ## 2026-09-19 09:39 AM EDT
 
 **Showtime changes:**
