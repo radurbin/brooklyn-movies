@@ -1,3 +1,43 @@
+## 2026-09-19 07:51 PM EDT
+
+**Showtime changes:**
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T12:15:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T13:15:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-09-19T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-19T18:40:00 (Standard)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T12:00:00 (Open Caption)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T11:00:00 (Standard)
+- Chronovisor
+  - − BAM Rose Cinemas @ 2026-09-19T16:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-19T19:00:00 (Standard)
+- If I Go Will They Miss Me
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T13:00:00 (Standard)
+- The Weight
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T11:30:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T11:15:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T11:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-19T16:50:00 (Standard)
+- Pink Floyd – The Wall
+  - − BAM Rose Cinemas @ 2026-09-19T15:30:00 (Standard)
+- Tony
+  - − BAM Rose Cinemas @ 2026-09-19T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-19T18:50:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T13:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T13:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-19T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-19T19:10:00 (Standard)
+- Millennium Mambo
+  - − BAM Rose Cinemas @ 2026-09-19T17:45:00 (Standard)
+
 ## 2026-09-19 02:22 PM EDT
 
 **Movies removed:**
