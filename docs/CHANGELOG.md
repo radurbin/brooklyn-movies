@@ -1,3 +1,27 @@
+## 2026-09-20 09:54 AM EDT
+
+**Showtime changes:**
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T21:30:00 (Standard)
+- The Weight
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T22:45:00 (Open Caption)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T22:15:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T21:30:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T21:45:00 (Open Caption)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T22:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T22:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T23:00:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T21:15:00 (Open Caption)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T22:45:00 (Standard)
+- Ghost in the Shell (Subtitled)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-19T22:15:00 (Standard)
+
 ## 2026-09-20 04:59 AM EDT
 
 **Showtime changes:**
