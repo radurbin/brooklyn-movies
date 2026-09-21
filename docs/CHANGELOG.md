@@ -1,3 +1,42 @@
+## 2026-09-21 05:31 AM EDT
+
+**Movies removed:**
+- The Twilight Saga: New Moon
+- Welcome Space Brothers
+
+**Showtime changes:**
+- Tony
+  - − BAM Rose Cinemas @ 2026-09-20T21:10:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-20T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-20T22:15:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-20T19:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-20T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-20T21:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-20T22:30:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-20T22:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-20T23:00:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-20T21:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-20T21:15:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-20T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-20T21:45:00 (Standard)
+- The Weight
+  - − Alamo Drafthouse Brooklyn @ 2026-09-20T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-20T22:45:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-20T21:30:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-20T18:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-20T20:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-20T21:30:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-20T19:45:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-09-20T21:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-20T22:45:00 (Standard)
+
 ## 2026-09-20 07:48 PM EDT
 
 **Movies removed:**
