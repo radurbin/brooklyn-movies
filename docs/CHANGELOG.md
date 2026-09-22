@@ -1,3 +1,41 @@
+## 2026-09-21 08:30 PM EDT
+
+**Movies added:**
+- 25th Hour
+- Deja Vu
+- Digger
+- Street Fighter (2026)
+- The Social Reckoning
+
+**Movies removed:**
+- 25th Hour
+- City of Jade
+- Deja Vu
+
+**Showtime changes:**
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-21T11:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-21T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-21T19:20:00 (Standard)
+- Chronovisor
+  - − BAM Rose Cinemas @ 2026-09-21T16:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-21T19:00:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-21T11:15:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-21T11:45:00 (Open Caption)
+- Tony
+  - − BAM Rose Cinemas @ 2026-09-21T18:50:00 (Standard)
+- Resident Evil (2026)
+  - − BAM Rose Cinemas @ 2026-09-21T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-21T19:10:00 (Standard)
+- The Weight
+  - − Alamo Drafthouse Brooklyn @ 2026-09-21T11:30:00 (Standard)
+- Coyote vs. ACME
+  - − BAM Rose Cinemas @ 2026-09-21T16:10:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-21T11:00:00 (Standard)
+
 ## 2026-09-21 12:10 PM EDT
 
 No changes.
