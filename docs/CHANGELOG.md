@@ -1,3 +1,129 @@
+## 2026-09-22 07:58 PM EDT
+
+**Movies added:**
+- Naza
+- You Can See Everything
+
+**Movies removed:**
+- Basic Instinct
+- Ghost in the Shell (Dubbed)
+- Jinpa
+- Kaili Blues
+- My Sassy Girl
+
+**Showtime changes:**
+- Chronovisor
+  - + BAM Rose Cinemas @ 2026-09-25T18:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-25T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-26T18:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-26T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-27T18:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-27T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-28T18:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-29T18:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-30T18:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-22T16:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-22T19:00:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T14:45:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T15:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-22T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T18:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-22T19:20:00 (Standard)
+- Digger
+  - + Alamo Drafthouse Brooklyn @ 2026-10-01T15:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-01T19:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-01T22:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-02T16:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-02T19:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-03T16:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-03T19:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-04T16:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-04T19:15:00 (Standard)
+- Forgotten Island
+  - + Alamo Drafthouse Brooklyn @ 2026-09-29T14:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T12:30:00 (Standard)
+- If I Go Will They Miss Me
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T16:15:00 (Standard)
+- Coyote vs. ACME
+  - + BAM Rose Cinemas @ 2026-09-25T13:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-26T13:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-27T13:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-28T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-29T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-30T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T13:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-22T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T16:30:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-09-22T18:40:00 (Standard)
+- The Weight
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T15:30:00 (Open Caption)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T15:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T18:15:00 (Open Caption)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T14:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T18:30:00 (Standard)
+- Terminator 2: Judgment Day
+  - + Alamo Drafthouse Brooklyn @ 2026-09-29T11:45:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T14:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T18:00:00 (Standard)
+- Resident Evil (2026)
+  - + BAM Rose Cinemas @ 2026-09-25T13:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-25T16:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-25T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-25T21:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-26T13:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-26T16:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-26T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-26T21:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-27T13:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-27T16:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-27T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-27T21:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-28T16:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-28T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-28T21:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-29T16:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-29T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-29T21:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-30T16:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-30T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-30T21:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-01T16:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-01T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-01T21:10:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T13:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T15:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T16:00:00 (HDR by Barco)
+  - − BAM Rose Cinemas @ 2026-09-22T16:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T17:45:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-09-22T19:10:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T14:15:00 (Standard)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T15:15:00 (Open Caption)
+- Tony
+  - + BAM Rose Cinemas @ 2026-09-25T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-26T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-27T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-28T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-29T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-09-30T21:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-22T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-22T18:50:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T18:15:00 (Standard)
+
 ## 2026-09-22 03:31 PM EDT
 
 **Movies added:**
