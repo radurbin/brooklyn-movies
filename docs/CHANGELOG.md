@@ -1,3 +1,9 @@
+## 2026-09-22 03:31 PM EDT
+
+**Movies added:**
+- Calle Cuba
+- Les Vagues dans les yeux (Waves in the Eyes)
+
 ## 2026-09-22 10:19 AM EDT
 
 No changes.
