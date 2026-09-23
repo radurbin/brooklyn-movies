@@ -1,3 +1,54 @@
+## 2026-09-23 05:01 AM EDT
+
+**Movies added:**
+- You Can See Everything
+
+**Movies removed:**
+- The Devil's Doorway
+- You Can See Everything
+
+**Showtime changes:**
+- Teenage Sex and Death at Camp Miasma
+  - − BAM Rose Cinemas @ 2026-09-22T21:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T21:15:00 (Open Caption)
+- Castration Movie Anthology ii. the best of both worlds
+  - − BAM Rose Cinemas @ 2026-09-22T21:15:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T21:45:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T21:30:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T19:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T19:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T20:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-22T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T22:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T22:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T23:00:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T19:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-22T21:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T22:45:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T22:15:00 (Standard)
+- The Weight
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T22:45:00 (Standard)
+- Tony
+  - − BAM Rose Cinemas @ 2026-09-22T21:10:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-22T21:30:00 (Standard)
+- Avengers: Doomsday
+  - + Alamo Drafthouse Brooklyn @ 2026-12-21T09:00:00 (HDR by Barco)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-21T13:00:00 (HDR by Barco)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-21T17:00:00 (HDR by Barco)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-21T21:00:00 (HDR by Barco)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-22T09:00:00 (HDR by Barco)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-22T13:00:00 (HDR by Barco)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-22T17:00:00 (HDR by Barco)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-22T21:00:00 (HDR by Barco)
+
 ## 2026-09-22 07:58 PM EDT
 
 **Movies added:**
