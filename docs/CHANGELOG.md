@@ -1,3 +1,32 @@
+## 2026-09-23 03:25 PM EDT
+
+**Showtime changes:**
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T14:30:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T11:45:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T14:45:00 (HDR by Barco)
+- The Weight
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T11:30:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T13:15:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T14:45:00 (Standard)
+- If I Go Will They Miss Me
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T13:15:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T12:15:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T11:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T14:30:00 (Standard)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T12:00:00 (Standard)
+
 ## 2026-09-23 10:37 AM EDT
 
 No changes.
