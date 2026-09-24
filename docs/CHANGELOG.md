@@ -1,3 +1,33 @@
+## 2026-09-24 03:44 PM EDT
+
+**Movies added:**
+- Ken Russell’s The Devils
+
+**Movies removed:**
+- By Any Means
+
+**Showtime changes:**
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T11:15:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T13:00:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T13:15:00 (Standard)
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T13:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T13:30:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T12:15:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T11:30:00 (Standard)
+- If I Go Will They Miss Me
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T12:30:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T11:00:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T12:00:00 (Standard)
+- The Weight
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T11:45:00 (Standard)
+
 ## 2026-09-24 10:36 AM EDT
 
 No changes.
