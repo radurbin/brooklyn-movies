@@ -1,3 +1,55 @@
+## 2026-09-24 04:56 AM EDT
+
+**Movies removed:**
+- Castration Movie Anthology ii. the best of both worlds
+
+**Showtime changes:**
+- If I Go Will They Miss Me
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T16:15:00 (Standard)
+- Teenage Sex and Death at Camp Miasma
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T18:15:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-09-23T21:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T21:15:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T22:15:00 (Standard)
+- By Any Means
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T15:15:00 (Standard)
+- The Odyssey
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T21:45:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T16:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T19:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-23T21:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T22:45:00 (Open Caption)
+- The Weight
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T22:45:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T17:45:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T19:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T20:45:00 (HDR by Barco)
+  - − BAM Rose Cinemas @ 2026-09-23T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T22:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T22:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T23:00:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T19:00:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T18:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T21:30:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T21:30:00 (Standard)
+- Tony
+  - − BAM Rose Cinemas @ 2026-09-23T21:10:00 (Standard)
+
 ## 2026-09-23 08:12 PM EDT
 
 **Movies removed:**
