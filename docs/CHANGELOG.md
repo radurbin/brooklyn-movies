@@ -1,3 +1,28 @@
+## 2026-09-23 08:12 PM EDT
+
+**Movies removed:**
+- Millennium Mambo
+- The Assassin
+
+**Showtime changes:**
+- Tony
+  - − BAM Rose Cinemas @ 2026-09-23T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-23T18:50:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-23T15:00:00 (Standard)
+- Hope (2026)
+  - − BAM Rose Cinemas @ 2026-09-23T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-23T19:20:00 (Standard)
+- Chronovisor
+  - − BAM Rose Cinemas @ 2026-09-23T16:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-23T19:00:00 (Standard)
+- Resident Evil (2026)
+  - − BAM Rose Cinemas @ 2026-09-23T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-23T19:10:00 (Standard)
+- Coyote vs. ACME
+  - − BAM Rose Cinemas @ 2026-09-23T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-23T18:40:00 (Standard)
+
 ## 2026-09-23 03:25 PM EDT
 
 **Showtime changes:**
