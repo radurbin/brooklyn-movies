@@ -1,3 +1,41 @@
+## 2026-09-25 05:17 AM EDT
+
+**Movies removed:**
+- Pulp: What Do You Do for an Encore?
+
+**Showtime changes:**
+- Ha-Chan, Shake Your Booty
+  - − BAM Rose Cinemas @ 2026-09-24T21:15:00 (Standard)
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T22:45:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T20:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-24T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T22:15:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T18:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-24T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T21:30:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T21:45:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T22:30:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T21:30:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T21:15:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T22:15:00 (Standard)
+- Tony
+  - − BAM Rose Cinemas @ 2026-09-24T21:20:00 (Standard)
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T22:00:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T21:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T21:45:00 (35mm)
+
 ## 2026-09-24 08:13 PM EDT
 
 **Movies added:**

@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-09-01 03:09 PM EDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-09-01 07:45 PM EDT",
     "movies_added": [
       "Dismember the Alamo 2026 - Brooklyn",
@@ -19434,6 +19428,181 @@
             "theater": "Alamo Drafthouse Brooklyn",
             "datetime": "2026-09-24T18:30:00",
             "format": "Standard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-09-25 05:17 AM EDT",
+    "movies_added": [],
+    "movies_removed": [
+      "Pulp: What Do You Do for an Encore?"
+    ],
+    "showtime_changes": [
+      {
+        "title": "Ha-Chan, Shake Your Booty",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-24T21:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Heart of the Beast",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-24T19:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-24T22:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Primetime",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-24T19:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-24T20:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-24T21:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-24T22:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Resident Evil (2026)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-24T18:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-24T21:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-24T21:30:00",
+            "format": "HDR by Barco"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-24T21:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Hope (2026)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-24T22:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Spider-Man: Brand New Day",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-24T21:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Forgotten Island",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-24T21:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Practical Magic 2",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-24T19:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-24T22:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Tony",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-24T21:20:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Avengers Endgame: Encore",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-24T22:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Your Mother Your Mother Your Mother",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-24T21:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-24T21:45:00",
+            "format": "35mm"
           }
         ]
       }
