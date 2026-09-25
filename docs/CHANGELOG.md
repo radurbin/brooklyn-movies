@@ -1,3 +1,29 @@
+## 2026-09-25 03:46 PM EDT
+
+**Showtime changes:**
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T12:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-25T13:45:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T11:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-25T13:30:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T11:00:00 (HDR by Barco)
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T11:30:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T11:00:00 (Standard)
+- Amreeka
+  - − BAM Rose Cinemas @ 2026-09-25T14:00:00 (Standard)
+- The Weight
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T11:45:00 (Standard)
+- Resident Evil (2026)
+  - − BAM Rose Cinemas @ 2026-09-25T13:50:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T12:15:00 (Standard)
+- Ha-Chan, Shake Your Booty
+  - − BAM Rose Cinemas @ 2026-09-25T13:30:00 (Standard)
+
 ## 2026-09-25 10:56 AM EDT
 
 No changes.
