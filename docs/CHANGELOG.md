@@ -1,3 +1,56 @@
+## 2026-09-24 08:13 PM EDT
+
+**Movies added:**
+- Pulp: What Do You Do for an Encore?
+- Tony
+
+**Movies removed:**
+- Caught by the Tides
+- Ghost Dog: The Way of the Samurai
+- Pink Floyd – The Wall
+- Pulp: What Do You Do for an Encore?
+- Teenage Sex and Death at Camp Miasma
+- Tony
+
+**Showtime changes:**
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T17:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T17:45:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-24T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-24T19:00:00 (Standard)
+- Resident Evil (2026)
+  - + BAM Rose Cinemas @ 2026-09-24T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T14:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T17:30:00 (Standard)
+- Chronovisor
+  - − BAM Rose Cinemas @ 2026-09-24T16:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-24T19:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T18:00:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T18:15:00 (Standard)
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T14:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T16:30:00 (Standard)
+- Ha-Chan, Shake Your Booty
+  - − BAM Rose Cinemas @ 2026-09-24T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-24T18:45:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T15:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-24T16:00:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T15:30:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T18:00:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T14:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-24T18:10:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-24T18:30:00 (Standard)
+
 ## 2026-09-24 03:44 PM EDT
 
 **Movies added:**
