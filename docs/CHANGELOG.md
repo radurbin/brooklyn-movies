@@ -1,3 +1,88 @@
+## 2026-09-25 08:21 PM EDT
+
+**Movies added:**
+- Dolly Double Feature: Steel Magnolias
+- Elephants in the Fog
+- Fireball 500
+- La Bola Negra
+- La Gradiva
+- Masc
+- Screamplay
+- Shorts: Black Queer Pride NY
+- Shorts: Sound & Scene Showcase (with Concord)
+- Shorts: Transmissions
+- The City of The Dead
+- The Hidden Face of the Earth
+- Union County
+- What Will I Become (Documentary Centerpiece)
+
+**Showtime changes:**
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T14:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T15:45:00 (Standard)
+- Tony
+  - − BAM Rose Cinemas @ 2026-09-25T16:00:00 (Standard)
+- If I Go Will They Miss Me
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T12:45:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T14:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T18:30:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T15:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-25T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-25T19:00:00 (Standard)
+- Ha-Chan, Shake Your Booty
+  - − BAM Rose Cinemas @ 2026-09-25T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-25T18:45:00 (Standard)
+- Destroy All Monsters
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T12:30:00 (Standard)
+- Jesus Camp
+  - − BAM Rose Cinemas @ 2026-09-25T16:30:00 (Standard)
+- Chronovisor
+  - − BAM Rose Cinemas @ 2026-09-25T18:30:00 (Standard)
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T13:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T17:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T17:45:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T15:30:00 (Standard)
+- Naza
+  - + Alamo Drafthouse Brooklyn @ 2026-10-09T17:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-09T19:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-10T17:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-10T19:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-11T17:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-11T19:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-12T17:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-12T19:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-13T19:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-14T17:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-14T19:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-15T17:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-15T19:30:00 (Standard)
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T14:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T18:00:00 (Standard)
+- The Dark Knight
+  - − BAM Rose Cinemas @ 2026-09-25T18:30:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T18:15:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T14:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T15:15:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T18:30:00 (35mm)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T13:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-25T16:10:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T16:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T17:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-25T18:50:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-25T15:00:00 (Standard)
+
 ## 2026-09-25 03:46 PM EDT
 
 **Showtime changes:**
