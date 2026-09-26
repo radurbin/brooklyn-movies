@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-09-02 03:10 PM EDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-09-02 07:47 PM EDT",
     "movies_added": [],
     "movies_removed": [
@@ -19533,6 +19527,187 @@
           {
             "theater": "Alamo Drafthouse Brooklyn",
             "datetime": "2026-09-25T15:00:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-09-26 05:00 AM EDT",
+    "movies_added": [],
+    "movies_removed": [
+      "Mystery Voyage"
+    ],
+    "showtime_changes": [
+      {
+        "title": "Heart of the Beast",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-25T21:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Practical Magic 2",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-25T19:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-25T22:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Forgotten Island",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-25T18:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-25T21:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Primetime",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-25T19:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-25T21:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-25T22:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Land of the Dead",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-25T21:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Resident Evil (2026)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-25T19:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-25T20:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-25T21:10:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-25T21:30:00",
+            "format": "HDR by Barco"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-25T22:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Chronovisor",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-25T21:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Your Mother Your Mother Your Mother",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-25T21:00:00",
+            "format": "Open Caption"
+          }
+        ]
+      },
+      {
+        "title": "Hope (2026)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-25T22:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Ha-Chan, Shake Your Booty",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-25T21:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Spider-Man: Brand New Day",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-25T22:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Avengers Endgame: Encore",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-25T22:00:00",
             "format": "Standard"
           }
         ]
