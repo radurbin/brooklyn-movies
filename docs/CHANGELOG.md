@@ -1,3 +1,35 @@
+## 2026-09-26 02:56 PM EDT
+
+**Showtime changes:**
+- The Weight
+  - − Alamo Drafthouse Brooklyn @ 2026-09-26T11:45:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-26T12:15:00 (Standard)
+- If I Go Will They Miss Me
+  - − Alamo Drafthouse Brooklyn @ 2026-09-26T12:45:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-09-26T11:00:00 (HDR by Barco)
+- Talladega Nights: The Ballad of Ricky Bobby
+  - − BAM Rose Cinemas @ 2026-09-26T13:45:00 (Standard)
+- Resident Evil (2026)
+  - − BAM Rose Cinemas @ 2026-09-26T13:50:00 (Standard)
+- Ha-Chan, Shake Your Booty
+  - − BAM Rose Cinemas @ 2026-09-26T13:30:00 (Standard)
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-09-26T11:30:00 (Open Caption)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-26T11:00:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-09-26T12:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-26T13:45:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-26T11:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-26T13:30:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-09-26T13:00:00 (Standard)
+- Destroy All Monsters
+  - − Alamo Drafthouse Brooklyn @ 2026-09-26T12:30:00 (Standard)
+
 ## 2026-09-26 10:01 AM EDT
 
 No changes.
