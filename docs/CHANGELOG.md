@@ -1,3 +1,39 @@
+## 2026-09-27 03:28 PM EDT
+
+**Movies removed:**
+- Destroy All Monsters
+
+**Showtime changes:**
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-27T12:15:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-27T11:15:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-09-27T13:30:00 (Standard)
+- Ha-Chan, Shake Your Booty
+  - − BAM Rose Cinemas @ 2026-09-27T13:30:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-09-27T11:00:00 (HDR by Barco)
+- If I Go Will They Miss Me
+  - − Alamo Drafthouse Brooklyn @ 2026-09-27T12:45:00 (Standard)
+- My Country, My Country
+  - − BAM Rose Cinemas @ 2026-09-27T14:00:00 (Standard)
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-09-27T11:30:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-27T11:00:00 (Standard)
+- The Weight
+  - − Alamo Drafthouse Brooklyn @ 2026-09-27T11:45:00 (Open Caption)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-09-27T12:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-27T13:45:00 (Standard)
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-09-27T13:15:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-27T13:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-27T13:50:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-09-27T12:00:00 (Standard)
+
 ## 2026-09-27 10:58 AM EDT
 
 No changes.
