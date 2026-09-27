@@ -1,3 +1,32 @@
+## 2026-09-26 08:08 PM EDT
+
+**Showtime changes:**
+- Redacted
+  - − BAM Rose Cinemas @ 2026-09-26T18:30:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-09-26T14:30:00 (Open Caption)
+- Chronovisor
+  - − BAM Rose Cinemas @ 2026-09-26T18:30:00 (Standard)
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-09-26T14:00:00 (HDR by Barco)
+- Burn After Reading
+  - − BAM Rose Cinemas @ 2026-09-26T16:15:00 (Standard)
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-09-26T13:15:00 (Standard)
+- Ha-Chan, Shake Your Booty
+  - − BAM Rose Cinemas @ 2026-09-26T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-26T18:45:00 (Standard)
+- Primetime
+  - − BAM Rose Cinemas @ 2026-09-26T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-26T19:00:00 (Standard)
+- Tony
+  - − BAM Rose Cinemas @ 2026-09-26T16:00:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-26T13:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-26T14:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-26T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-26T18:50:00 (Standard)
+
 ## 2026-09-26 02:56 PM EDT
 
 **Showtime changes:**
