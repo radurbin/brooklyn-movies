@@ -1,3 +1,37 @@
+## 2026-09-27 08:15 PM EDT
+
+**Movies added:**
+- Deja Vu
+
+**Movies removed:**
+- Deja Vu
+- Nacho Libre
+
+**Showtime changes:**
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-09-27T14:30:00 (Standard)
+- Chronovisor
+  - − BAM Rose Cinemas @ 2026-09-27T18:30:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-09-27T14:15:00 (Standard)
+- Primetime
+  - − BAM Rose Cinemas @ 2026-09-27T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-27T19:00:00 (Standard)
+- 25th Hour
+  - − BAM Rose Cinemas @ 2026-09-27T16:00:00 (Standard)
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-09-27T14:00:00 (HDR by Barco)
+- Resident Evil (2026)
+  - − BAM Rose Cinemas @ 2026-09-27T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-27T18:50:00 (Standard)
+- Tony
+  - − BAM Rose Cinemas @ 2026-09-27T16:00:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-27T14:45:00 (Standard)
+- Ha-Chan, Shake Your Booty
+  - − BAM Rose Cinemas @ 2026-09-27T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-27T18:45:00 (Standard)
+
 ## 2026-09-27 03:28 PM EDT
 
 **Movies removed:**
