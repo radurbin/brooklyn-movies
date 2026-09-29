@@ -1,3 +1,44 @@
+## 2026-09-29 04:25 PM EDT
+
+**Movies added:**
+- Bitterroot
+- Brigham City
+- Dolly Double Feature: 9 to 5
+- Eve’s Bayou
+- Eyes of Fire
+- Giant
+- Grey Gardens
+- Move Ya Body: the Birth of House
+- New Negress Film Society presents Black Women's Film Conference 2026
+- Paydirt
+- Playback Presents: Crooklyn
+- Playback: City of God (Cidade de Deus)
+- Playback: Divorce Italian Style
+- Playback: The Battle of Algiers
+- Ruby in Paradise
+- Run, Tecato Run
+- Sense and Sensibility (2026)
+- Shakedown
+- The Delta
+- When I Get Home + Corpus: A Home Movie About Selena
+- Wilmington 10 – U.S.A. 10,000
+
+**Showtime changes:**
+- The Texas Chain Saw Massacre (1974)
+  - + BAM Rose Cinemas @ 2026-10-24T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-29T21:30:00 (Standard)
+- Resident Evil (2026)
+  - − BAM Rose Cinemas @ 2026-09-29T16:10:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T11:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-29T16:00:00 (Standard)
+- Ha-Chan, Shake Your Booty
+  - − BAM Rose Cinemas @ 2026-09-29T16:15:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T11:00:00 (HDR by Barco)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T11:00:00 (Open Caption)
+
 ## 2026-09-29 06:20 AM EDT
 
 **Showtime changes:**

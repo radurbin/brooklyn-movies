@@ -1,78 +1,5 @@
 [
   {
-    "date": "2026-09-05 01:52 PM EDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": [
-      {
-        "title": "Teenage Sex and Death at Camp Miasma",
-        "added": [],
-        "removed": [
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-09-05T13:40:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "The Odyssey",
-        "added": [],
-        "removed": [
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-09-05T13:30:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Coyote vs. ACME",
-        "added": [],
-        "removed": [
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-09-05T13:30:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Bacurau",
-        "added": [],
-        "removed": [
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-09-05T13:30:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "The Invite",
-        "added": [],
-        "removed": [
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-09-05T13:45:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Tony",
-        "added": [],
-        "removed": [
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-09-05T13:50:00",
-            "format": "Standard"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "date": "2026-09-05 07:30 PM EDT",
     "movies_added": [],
     "movies_removed": [],
@@ -21557,6 +21484,111 @@
             "theater": "Alamo Drafthouse Brooklyn",
             "datetime": "2026-09-28T21:45:00",
             "format": "Standard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-09-29 04:25 PM EDT",
+    "movies_added": [
+      "Bitterroot",
+      "Brigham City",
+      "Dolly Double Feature: 9 to 5",
+      "Eve’s Bayou",
+      "Eyes of Fire",
+      "Giant",
+      "Grey Gardens",
+      "Move Ya Body: the Birth of House",
+      "New Negress Film Society presents Black Women's Film Conference 2026",
+      "Paydirt",
+      "Playback Presents: Crooklyn",
+      "Playback: City of God (Cidade de Deus)",
+      "Playback: Divorce Italian Style",
+      "Playback: The Battle of Algiers",
+      "Ruby in Paradise",
+      "Run, Tecato Run",
+      "Sense and Sensibility (2026)",
+      "Shakedown",
+      "The Delta",
+      "When I Get Home + Corpus: A Home Movie About Selena",
+      "Wilmington 10 – U.S.A. 10,000"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "The Texas Chain Saw Massacre (1974)",
+        "added": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-10-24T19:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-10-29T21:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Resident Evil (2026)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-29T16:10:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Coyote vs. ACME",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-29T11:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-29T16:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Ha-Chan, Shake Your Booty",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-09-29T16:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Forgotten Island",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-29T11:00:00",
+            "format": "HDR by Barco"
+          }
+        ]
+      },
+      {
+        "title": "Hope (2026)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-09-29T11:00:00",
+            "format": "Open Caption"
           }
         ]
       }
