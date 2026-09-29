@@ -1,3 +1,28 @@
+## 2026-09-29 06:20 AM EDT
+
+**Showtime changes:**
+- Mystery Transmission
+  - − Alamo Drafthouse Brooklyn @ 2026-09-28T21:30:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-28T22:15:00 (Open Caption)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-28T21:30:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-28T22:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-28T22:45:00 (Standard)
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-09-28T21:15:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-28T22:30:00 (Standard)
+- Primetime
+  - − BAM Rose Cinemas @ 2026-09-28T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-28T22:30:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-09-28T21:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-28T22:00:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-09-28T21:45:00 (Standard)
+
 ## 2026-09-28 09:25 PM EDT
 
 **Movies added:**
