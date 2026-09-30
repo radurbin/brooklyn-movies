@@ -1,3 +1,51 @@
+## 2026-09-30 04:29 PM EDT
+
+**Movies added:**
+- Whalefall
+
+**Movies removed:**
+- If I Go Will They Miss Me
+- The Odyssey
+
+**Showtime changes:**
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T11:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-30T16:00:00 (Standard)
+- Ha-Chan, Shake Your Booty
+  - − BAM Rose Cinemas @ 2026-09-30T16:15:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T15:00:00 (Standard)
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T12:15:00 (Standard)
+- Sense and Sensibility (2026)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-15T15:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-15T18:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-15T22:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-16T22:00:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-17T18:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-17T21:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-18T18:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-18T21:45:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T13:00:00 (HDR by Barco)
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T14:15:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T14:45:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T12:15:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T13:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-30T16:10:00 (Standard)
+- The Weight
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T11:45:00 (Open Caption)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T12:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T14:30:00 (Standard)
+
 ## 2026-09-30 06:14 AM EDT
 
 **Movies added:**
