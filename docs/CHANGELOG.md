@@ -1,3 +1,70 @@
+## 2026-09-29 08:59 PM EDT
+
+**Movies added:**
+- Clarissa
+- Fatherland
+- My Wife Cries
+- Naza
+
+**Movies removed:**
+- Amreeka
+- Clarissa
+- Deathgasm 2: Goremageddon
+- Fatherland
+- My Wife Cries
+- Naza
+
+**Showtime changes:**
+- Ha-Chan, Shake Your Booty
+  - − BAM Rose Cinemas @ 2026-09-29T18:45:00 (Standard)
+- Chronovisor
+  - − BAM Rose Cinemas @ 2026-09-29T18:30:00 (Standard)
+- Terminator 2: Judgment Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T11:45:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T12:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T19:00:00 (Standard)
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T14:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T18:00:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T14:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T18:30:00 (Standard)
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T12:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T16:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T17:00:00 (HDR by Barco)
+- If I Go Will They Miss Me
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T12:45:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T15:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T16:15:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-09-29T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-29T19:00:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T14:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T15:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T18:45:00 (Open Caption)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T15:15:00 (Open Caption)
+- The Weight
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T11:45:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T13:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T16:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T17:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-29T18:50:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T14:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T15:30:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T18:00:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-29T18:15:00 (Standard)
+
 ## 2026-09-29 04:25 PM EDT
 
 **Movies added:**
