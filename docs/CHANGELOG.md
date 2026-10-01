@@ -1,3 +1,25 @@
+## 2026-10-01 04:46 PM EDT
+
+**Movies added:**
+- Playback: Salaam Bombay!
+
+**Movies removed:**
+- Redacted
+
+**Showtime changes:**
+- Ha-Chan, Shake Your Booty
+  - − BAM Rose Cinemas @ 2026-10-01T16:15:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T11:00:00 (Standard)
+- Resident Evil (2026)
+  - − BAM Rose Cinemas @ 2026-10-01T16:10:00 (Standard)
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T10:45:00 (HDR by Barco)
+- Primetime
+  - − BAM Rose Cinemas @ 2026-10-01T16:30:00 (Standard)
+- Digger
+  - − BAM Rose Cinemas @ 2026-10-01T16:00:00 (Standard)
+
 ## 2026-10-01 06:40 AM EDT
 
 **Movies removed:**
