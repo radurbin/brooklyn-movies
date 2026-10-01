@@ -1,3 +1,34 @@
+## 2026-09-30 09:03 PM EDT
+
+**Movies removed:**
+- Jesus Camp
+- Talladega Nights: The Ballad of Ricky Bobby
+
+**Showtime changes:**
+- Chronovisor
+  - − BAM Rose Cinemas @ 2026-09-30T18:30:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T15:45:00 (Standard)
+- Ha-Chan, Shake Your Booty
+  - − BAM Rose Cinemas @ 2026-09-30T18:45:00 (Standard)
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T16:45:00 (Standard)
+- Coyote vs. ACME
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T15:15:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-30T18:50:00 (Standard)
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T16:00:00 (HDR by Barco)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-30T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-30T19:00:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T15:30:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T15:30:00 (35mm)
+
 ## 2026-09-30 04:29 PM EDT
 
 **Movies added:**
