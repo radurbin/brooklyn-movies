@@ -1,3 +1,48 @@
+## 2026-10-01 06:40 AM EDT
+
+**Movies removed:**
+- Burn After Reading
+- LINKIN PARK: UNSHATTER
+- The Ghost in the Invisible Bikini
+- Tony
+
+**Showtime changes:**
+- Ha-Chan, Shake Your Booty
+  - − BAM Rose Cinemas @ 2026-09-30T21:15:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T18:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T21:00:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T22:15:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T17:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T20:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-09-30T21:10:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T22:15:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T22:45:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T19:15:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-09-30T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T22:30:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T22:15:00 (Open Caption)
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T21:15:00 (Standard)
+- Spider-Man: Brand New Day
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T22:00:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T19:00:00 (HDR by Barco)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T21:45:00 (Standard)
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-09-30T21:00:00 (Standard)
+
 ## 2026-09-30 09:03 PM EDT
 
 **Movies removed:**
