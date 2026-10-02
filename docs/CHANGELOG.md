@@ -1,3 +1,36 @@
+## 2026-10-02 06:15 AM EDT
+
+**Movies removed:**
+- Deja Vu
+
+**Showtime changes:**
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T22:30:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T21:30:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T22:45:00 (Standard)
+- Digger
+  - − BAM Rose Cinemas @ 2026-10-01T21:20:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T22:30:00 (Standard)
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T21:15:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T22:15:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T22:00:00 (Standard)
+- Ha-Chan, Shake Your Booty
+  - − BAM Rose Cinemas @ 2026-10-01T21:15:00 (Standard)
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T22:15:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T21:45:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T21:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-01T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T22:45:00 (Standard)
+- Buddy (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T21:30:00 (Standard)
+
 ## 2026-10-01 09:16 PM EDT
 
 **Movies added:**
