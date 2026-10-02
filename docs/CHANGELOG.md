@@ -1,3 +1,44 @@
+## 2026-10-02 04:18 PM EDT
+
+**Movies added:**
+- Pearl
+- Wild at Heart
+
+**Movies removed:**
+- My Wife Cries
+
+**Showtime changes:**
+- Ha-Chan, Shake Your Booty
+  - − BAM Rose Cinemas @ 2026-10-02T13:15:00 (Standard)
+- You Can See Everything
+  - + BAM Rose Cinemas @ 2026-10-15T16:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-15T20:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-16T16:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-16T20:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-17T17:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-17T20:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-18T16:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-18T20:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-19T16:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-19T20:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-20T16:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-20T20:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-21T16:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-21T20:30:00 (Standard)
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T10:45:00 (HDR by Barco)
+- Digger
+  - − BAM Rose Cinemas @ 2026-10-02T13:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-02T16:00:00 (Standard)
+- Primetime
+  - − BAM Rose Cinemas @ 2026-10-02T13:45:00 (Standard)
+- Resident Evil (2026)
+  - − BAM Rose Cinemas @ 2026-10-02T13:50:00 (Standard)
+- Chronovisor
+  - − BAM Rose Cinemas @ 2026-10-02T16:15:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T11:00:00 (Standard)
+
 ## 2026-10-02 06:15 AM EDT
 
 **Movies removed:**
