@@ -1,3 +1,68 @@
+## 2026-10-01 09:16 PM EDT
+
+**Movies added:**
+- Dive in Wonderland
+- Godzilla vs. Megalon
+- Littermates
+
+**Movies removed:**
+- 25th Hour
+- Coyote vs. ACME
+- Spider-Man: Brand New Day
+- Terminator 2: Judgment Day
+- The Weight
+
+**Showtime changes:**
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T19:00:00 (Standard)
+- Moonlight
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T14:30:00 (Standard)
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T14:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T18:15:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T18:45:00 (Standard)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T15:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-01T18:40:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T19:15:00 (Standard)
+- Ha-Chan, Shake Your Booty
+  - − BAM Rose Cinemas @ 2026-10-01T18:45:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T15:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T18:15:00 (HDR by Barco)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T11:30:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T14:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T17:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-01T18:50:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T19:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-01T21:10:00 (Standard)
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T12:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T19:00:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T16:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T19:30:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T14:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T17:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-01T18:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-01T19:00:00 (Standard)
+- Cameron Winter at Carnegie Hall
+  - + Alamo Drafthouse Brooklyn @ 2027-01-29T19:00:00 (35mm)
+
 ## 2026-10-01 04:46 PM EDT
 
 **Movies added:**
