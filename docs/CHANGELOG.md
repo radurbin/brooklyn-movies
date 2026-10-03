@@ -1,3 +1,46 @@
+## 2026-10-03 05:36 AM EDT
+
+**Showtime changes:**
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T22:00:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T18:15:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T19:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T22:15:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T19:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T22:30:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T19:45:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-10-02T21:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T21:30:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T22:45:00 (Standard)
+- Ha-Chan, Shake Your Booty
+  - − BAM Rose Cinemas @ 2026-10-02T21:00:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T21:45:00 (Standard)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T19:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-02T21:20:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T22:30:00 (Standard)
+- Buddy (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T21:15:00 (Standard)
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T21:00:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T21:45:00 (Open Caption)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T21:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-02T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T22:45:00 (Standard)
+
 ## 2026-10-02 08:54 PM EDT
 
 **Movies added:**
