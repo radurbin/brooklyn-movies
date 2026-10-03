@@ -1,3 +1,38 @@
+## 2026-10-03 02:58 PM EDT
+
+**Movies removed:**
+- In Which Annie Gives it Those Ones
+
+**Showtime changes:**
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T12:30:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T10:45:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T11:45:00 (Standard)
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T10:30:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T13:45:00 (Standard)
+- Ha-Chan, Shake Your Booty
+  - − BAM Rose Cinemas @ 2026-10-03T13:15:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T11:30:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T11:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T14:00:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T12:00:00 (Standard)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T12:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-03T13:15:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T13:00:00 (Open Caption)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T11:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-03T13:30:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T12:45:00 (Standard)
+
 ## 2026-10-03 10:31 AM EDT
 
 No changes.
