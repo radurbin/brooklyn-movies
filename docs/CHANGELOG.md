@@ -1,3 +1,57 @@
+## 2026-10-02 08:54 PM EDT
+
+**Movies added:**
+- Ken Russell's The Devils
+- LINKIN PARK: UNSHATTER
+
+**Movies removed:**
+- Foreign Travel
+- Joy of Joys
+- Ken Russell’s The Devils
+
+**Showtime changes:**
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T12:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T15:45:00 (Standard)
+- Chronovisor
+  - − BAM Rose Cinemas @ 2026-10-02T18:45:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T12:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T16:15:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T15:00:00 (HDR by Barco)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T14:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-02T16:40:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T17:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-02T19:00:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T11:30:00 (Standard)
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T14:00:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T15:15:00 (Standard)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T12:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-02T18:40:00 (Standard)
+- Moonlight
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T14:30:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T14:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T15:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-02T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-02T19:00:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-02T15:30:00 (Standard)
+
 ## 2026-10-02 04:18 PM EDT
 
 **Movies added:**
