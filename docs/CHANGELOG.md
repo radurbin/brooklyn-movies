@@ -1,3 +1,49 @@
+## 2026-10-03 08:19 PM EDT
+
+**Movies removed:**
+- Everytime
+- LINKIN PARK: UNSHATTER
+- Possible Love
+
+**Showtime changes:**
+- Digger
+  - − BAM Rose Cinemas @ 2026-10-03T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-03T18:40:00 (Standard)
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T18:15:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T14:45:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T18:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T19:00:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T17:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-03T19:10:00 (Standard)
+- Chronovisor
+  - − BAM Rose Cinemas @ 2026-10-03T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-03T18:45:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T14:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T15:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-03T16:40:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T17:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T18:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-03T19:00:00 (Standard)
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T15:45:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T19:00:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T16:15:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T18:45:00 (Standard)
+- Moonlight
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T14:45:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-03T18:30:00 (Standard)
+
 ## 2026-10-03 02:58 PM EDT
 
 **Movies removed:**
