@@ -1,3 +1,41 @@
+## 2026-10-04 02:57 PM EDT
+
+**Movies added:**
+- Ginger Snaps
+
+**Movies removed:**
+- Bardi
+- Ginger Snaps
+
+**Showtime changes:**
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T12:00:00 (Standard)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T12:30:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-10-04T13:15:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T12:15:00 (Standard)
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T10:45:00 (HDR by Barco)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T11:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-04T13:45:00 (Standard)
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T12:45:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T11:30:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T11:30:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T11:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-04T13:50:00 (Standard)
+- Ha-Chan, Shake Your Booty
+  - − BAM Rose Cinemas @ 2026-10-04T13:15:00 (Standard)
+- Misty Green
+  - + Alamo Drafthouse Brooklyn @ 2026-10-09T18:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-10T18:00:00 (Standard)
+
 ## 2026-10-04 06:22 AM EDT
 
 **Showtime changes:**
