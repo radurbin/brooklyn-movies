@@ -1,3 +1,59 @@
+## 2026-10-04 08:24 PM EDT
+
+**Movies added:**
+- Restoration at Grayson Manor
+
+**Movies removed:**
+- Everything Else is Noise
+
+**Showtime changes:**
+- Moonlight
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T14:30:00 (Standard)
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T15:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T19:00:00 (Open Caption)
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T14:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T18:30:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T16:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T19:15:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T14:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-04T16:40:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T17:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-04T19:00:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T15:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T16:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T18:15:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T19:30:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T15:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T18:45:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T18:45:00 (Open Caption)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T14:45:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T15:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-04T16:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T17:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T18:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-04T19:00:00 (Standard)
+- Chronovisor
+  - − BAM Rose Cinemas @ 2026-10-04T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-04T18:45:00 (Standard)
+- Digger
+  - − BAM Rose Cinemas @ 2026-10-04T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-04T18:40:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-04T19:15:00 (Standard)
+- Misty Green
+  - − BAM Rose Cinemas @ 2026-10-04T17:00:00 (Standard)
+
 ## 2026-10-04 02:57 PM EDT
 
 **Movies added:**
