@@ -1,3 +1,103 @@
+## 2026-10-06 04:45 PM EDT
+
+**Movies added:**
+- Capturing Bigfoot
+- Godzilla Minus Zero
+- Godzilla vs. Mechagodzilla
+- Making Marie Antoinette
+- Playback: Soul to Soul
+- Playback: The King of Comedy
+
+**Showtime changes:**
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-10-06T10:45:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-06T14:15:00 (Standard)
+- Primetime
+  - + Alamo Drafthouse Brooklyn @ 2026-10-10T22:00:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-12T22:30:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-14T11:45:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-06T11:45:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-06T14:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-06T15:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-06T16:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-10T22:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-12T22:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T11:45:00 (Standard)
+- Digger
+  - + Alamo Drafthouse Brooklyn @ 2026-10-10T11:45:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-11T21:15:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-12T21:15:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-13T14:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-05T22:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-06T12:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-06T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-10T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T21:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-12T21:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T14:30:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - + Alamo Drafthouse Brooklyn @ 2026-10-10T19:15:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-11T21:30:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-13T12:30:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-14T19:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-06T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-06T12:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-06T15:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-10T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T19:00:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-10-06T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-06T15:15:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-10-05T22:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-06T13:00:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-06T13:00:00 (Standard)
+- Misty Green
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T21:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T14:45:00 (Standard)
+- Moonlight
+  - − Alamo Drafthouse Brooklyn @ 2026-10-06T14:30:00 (Standard)
+- The Social Reckoning
+  - + Alamo Drafthouse Brooklyn @ 2026-10-11T21:30:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-13T18:15:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-14T12:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T12:00:00 (Standard)
+- Verity
+  - + Alamo Drafthouse Brooklyn @ 2026-10-11T22:15:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-13T15:30:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-14T22:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-06T12:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-06T15:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T22:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T22:15:00 (Standard)
+- Resident Evil (2026)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-11T21:45:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-12T13:00:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-13T21:45:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-14T15:45:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-05T22:45:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-05T23:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-06T12:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-06T16:40:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T21:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-12T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T21:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T15:45:00 (Standard)
+- New Negress Film Society presents Black Women's Film Conference 2026
+  - + BAM Rose Cinemas @ 2026-10-10T12:01:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-10T12:00:00 (Standard)
+- Chronovisor
+  - − BAM Rose Cinemas @ 2026-10-06T16:00:00 (Standard)
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-10-05T22:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-06T12:45:00 (Standard)
+
 ## 2026-10-06 06:59 AM EDT
 
 **Movies added:**
