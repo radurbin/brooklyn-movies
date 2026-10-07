@@ -1,3 +1,35 @@
+## 2026-10-07 04:58 PM EDT
+
+**Movies added:**
+- Clayface
+- Fjord
+- Psycho (1960)
+- Sense and Sensibility (2026)
+
+**Movies removed:**
+- Sense and Sensibility (2026)
+
+**Showtime changes:**
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T11:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-07T16:30:00 (Standard)
+- Hope (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T11:15:00 (Standard)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T12:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-07T16:00:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T11:30:00 (Standard)
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T10:45:00 (HDR by Barco)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T12:00:00 (Standard)
+- Resident Evil (2026)
+  - − BAM Rose Cinemas @ 2026-10-07T16:40:00 (Standard)
+- Chronovisor
+  - − BAM Rose Cinemas @ 2026-10-07T16:00:00 (Standard)
+
 ## 2026-10-07 06:47 AM EDT
 
 **Movies removed:**
