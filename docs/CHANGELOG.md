@@ -1,3 +1,33 @@
+## 2026-10-06 09:12 PM EDT
+
+**Movies added:**
+- Marie Antoinette (2006)
+- TERROR TUESDAY: PEEPING TOM (1960) - 4K RESTORATION
+- The Rocky Horror Picture Show
+
+**Movies removed:**
+- Dao
+- Fatherland
+
+**Showtime changes:**
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-06T16:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-06T19:00:00 (Standard)
+- Chronovisor
+  - − BAM Rose Cinemas @ 2026-10-06T18:45:00 (Standard)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-06T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-06T18:40:00 (Standard)
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-10-06T15:45:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-10-06T16:15:00 (Open Caption)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-06T15:45:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-10-06T19:00:00 (Standard)
+- Ha-Chan, Shake Your Booty
+  - − BAM Rose Cinemas @ 2026-10-06T21:00:00 (Standard)
+
 ## 2026-10-06 04:45 PM EDT
 
 **Movies added:**
