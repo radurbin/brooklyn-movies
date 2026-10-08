@@ -1,3 +1,56 @@
+## 2026-10-07 09:31 PM EDT
+
+**Movies added:**
+- Torture Dungeon
+
+**Movies removed:**
+- Chronovisor
+- Clarissa
+- Ha-Chan, Shake Your Booty
+- Nitrate Kisses
+- Torture Dungeon
+
+**Showtime changes:**
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T15:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T18:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T18:15:00 (HDR by Barco)
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T14:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T18:30:00 (Standard)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-07T18:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-07T21:20:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T15:45:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T15:15:00 (Open Caption)
+- Heart of the Beast
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T12:45:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T15:45:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T16:15:00 (Standard)
+- Queen Budapest
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T18:30:00 (Standard)
+- Moonlight
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T14:30:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T14:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T17:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T18:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-07T19:00:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-07T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-07T19:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-07T21:15:00 (Standard)
+
 ## 2026-10-07 04:58 PM EDT
 
 **Movies added:**
