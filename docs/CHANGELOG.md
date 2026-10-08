@@ -1,3 +1,42 @@
+## 2026-10-08 05:00 PM EDT
+
+**Movies added:**
+- Pan's Labyrinth 20th Anniversary
+
+**Movies removed:**
+- Heart of the Beast
+- Hope (2026)
+- Moonlight
+- Pan Labyrinth 20th Anniversary
+
+**Showtime changes:**
+- Avengers Endgame: Encore
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T12:00:00 (HDR by Barco)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T11:00:00 (Standard)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T14:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-08T16:00:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T13:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T14:15:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-08T16:40:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T14:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T15:30:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T15:15:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T15:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-08T16:30:00 (Standard)
+
 ## 2026-10-08 07:07 AM EDT
 
 **Movies removed:**
