@@ -1,3 +1,21 @@
+## 2026-10-09 04:28 PM EDT
+
+**Movies added:**
+- Klara and the Sun
+
+**Showtime changes:**
+- Primetime
+  - − BAM Rose Cinemas @ 2026-10-09T13:45:00 (Standard)
+- Naza
+  - − BAM Rose Cinemas @ 2026-10-09T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-09T15:00:00 (Standard)
+- Digger
+  - − BAM Rose Cinemas @ 2026-10-09T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-09T15:40:00 (Standard)
+- Resident Evil (2026)
+  - − BAM Rose Cinemas @ 2026-10-09T13:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-09T16:10:00 (Standard)
+
 ## 2026-10-09 07:06 AM EDT
 
 **Showtime changes:**
