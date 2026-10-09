@@ -1,3 +1,43 @@
+## 2026-10-09 07:06 AM EDT
+
+**Showtime changes:**
+- Pan's Labyrinth 20th Anniversary
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T20:45:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T21:30:00 (Standard)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T17:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T22:00:00 (Standard)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T21:15:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T21:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T22:30:00 (Standard)
+- Misty Green
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T21:00:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T16:45:00 (Standard)
+- Naza
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T22:45:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T21:45:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T19:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T19:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T22:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T22:15:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T22:15:00 (Standard)
+
 ## 2026-10-08 09:39 PM EDT
 
 **Movies removed:**
