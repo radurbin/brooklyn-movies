@@ -1,3 +1,32 @@
+## 2026-10-08 09:39 PM EDT
+
+**Movies removed:**
+- Double Freedom
+- The Dreamed Adventure
+
+**Showtime changes:**
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T15:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-08T19:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-08T21:15:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T16:15:00 (HDR by Barco)
+- Misty Green
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T15:45:00 (Standard)
+- Primetime
+  - − BAM Rose Cinemas @ 2026-10-08T19:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-08T21:30:00 (Standard)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-08T16:30:00 (Standard)
+- Digger
+  - − BAM Rose Cinemas @ 2026-10-08T18:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-08T21:20:00 (Standard)
+- Naza
+  - − BAM Rose Cinemas @ 2026-10-08T17:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-08T19:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-08T21:00:00 (Standard)
+
 ## 2026-10-08 05:00 PM EDT
 
 **Movies added:**
