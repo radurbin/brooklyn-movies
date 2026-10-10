@@ -1,3 +1,33 @@
+## 2026-10-10 06:23 AM EDT
+
+**Showtime changes:**
+- Naza
+  - − Alamo Drafthouse Brooklyn @ 2026-10-09T19:30:00 (Standard)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-09T19:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-09T21:15:00 (Standard)
+- Misty Green
+  - − Alamo Drafthouse Brooklyn @ 2026-10-09T21:00:00 (Standard)
+- Pan's Labyrinth 20th Anniversary
+  - − Alamo Drafthouse Brooklyn @ 2026-10-09T20:45:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-09T22:15:00 (Standard)
+- The Texas Chain Saw Massacre (1974)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-09T22:00:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-09T21:30:00 (Standard)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-09T21:15:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-09T21:30:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-09T19:15:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-09T22:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-09T22:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-09T22:30:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-09T21:45:00 (Standard)
+
 ## 2026-10-09 09:27 PM EDT
 
 **Movies added:**
