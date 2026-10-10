@@ -1,3 +1,38 @@
+## 2026-10-10 03:42 PM EDT
+
+**Movies removed:**
+- New Negress Film Society presents Black Women's Film Conference 2026
+- Queen Budapest
+
+**Showtime changes:**
+- 9 to 5
+  - − Alamo Drafthouse Brooklyn @ 2026-10-10T11:00:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-10T12:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-10T13:45:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-10T13:30:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-10T13:15:00 (HDR by Barco)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-10T11:45:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-10-10T11:00:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-10T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-10T13:40:00 (Standard)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-10T11:45:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-10-10T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-10T15:40:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-10T12:45:00 (Standard)
+- Naza
+  - − BAM Rose Cinemas @ 2026-10-10T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-10T15:00:00 (Standard)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-10T12:00:00 (Standard)
+
 ## 2026-10-10 06:23 AM EDT
 
 **Showtime changes:**
