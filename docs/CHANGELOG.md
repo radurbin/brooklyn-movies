@@ -1,3 +1,30 @@
+## 2026-10-10 08:39 PM EDT
+
+**Showtime changes:**
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-10T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-10T18:40:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-10-10T14:15:00 (Standard)
+- Primetime
+  - − BAM Rose Cinemas @ 2026-10-10T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-10T18:50:00 (Standard)
+- Naza
+  - − BAM Rose Cinemas @ 2026-10-10T17:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-10T19:00:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-10T14:45:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-10-10T14:00:00 (Standard)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-10T15:00:00 (Standard)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-10T15:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-10T18:20:00 (Standard)
+- Resident Evil (2026)
+  - − BAM Rose Cinemas @ 2026-10-10T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-10T18:45:00 (Standard)
+
 ## 2026-10-10 03:42 PM EDT
 
 **Movies removed:**
