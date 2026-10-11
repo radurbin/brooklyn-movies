@@ -1,3 +1,42 @@
+## 2026-10-11 03:52 PM EDT
+
+**Movies added:**
+- Dolly Double Feature: 9 to 5
+
+**Movies removed:**
+- 9 to 5
+
+**Showtime changes:**
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T11:00:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T13:15:00 (HDR by Barco)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T11:00:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T12:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-11T13:45:00 (Standard)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T12:00:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-11T13:30:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T11:45:00 (Standard)
+- Misty Green
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T12:30:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-11T13:40:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T12:45:00 (Standard)
+- Naza
+  - − BAM Rose Cinemas @ 2026-10-11T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-11T15:00:00 (Standard)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T11:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-11T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-11T15:40:00 (Standard)
+
 ## 2026-10-11 06:31 AM EDT
 
 **Movies removed:**
