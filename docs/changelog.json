@@ -1,204 +1,5 @@
 [
   {
-    "date": "2026-09-16 05:01 AM EDT",
-    "movies_added": [],
-    "movies_removed": [
-      "Angel Heart",
-      "Nightbreed",
-      "The Black Cat"
-    ],
-    "showtime_changes": [
-      {
-        "title": "Practical Magic 2",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-15T20:00:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-15T21:30:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Tony",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-15T21:15:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-09-15T21:30:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Hope (2026)",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-15T19:00:00",
-            "format": "HDR by Barco"
-          },
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-15T19:15:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-15T22:45:00",
-            "format": "HDR by Barco"
-          }
-        ]
-      },
-      {
-        "title": "The Odyssey",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-15T22:00:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Onslaught",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-15T19:00:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-15T23:00:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "The End of Oak Street",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-15T18:30:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Powwow People",
-        "added": [],
-        "removed": [
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-09-15T21:00:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Teenage Sex and Death at Camp Miasma",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-15T21:00:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-09-15T21:20:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "By Any Means",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-15T19:45:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-15T22:45:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "The Invite",
-        "added": [],
-        "removed": [
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-09-15T21:10:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Coyote vs. ACME",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-15T18:45:00",
-            "format": "Open Caption"
-          },
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-15T21:30:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Insidious: Out of the Further",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-15T23:00:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Spider-Man: Brand New Day",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-15T19:30:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-15T22:15:00",
-            "format": "Standard"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "date": "2026-09-16 10:33 AM EDT",
     "movies_added": [],
     "movies_removed": [],
@@ -19971,6 +19772,259 @@
             "theater": "BAM Rose Cinemas",
             "datetime": "2026-10-11T21:00:00",
             "format": "Standard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-10-12 06:42 PM EDT",
+    "movies_added": [
+      "Wild Horse Nine"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Forgotten Island",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-12T11:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-12T14:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-12T14:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Pan's Labyrinth 20th Anniversary",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-11T20:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Texas Chain Saw Massacre (1974)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-11T22:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Practical Magic 2",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-12T11:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Misty Green",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-11T21:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-12T12:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The History of Concrete",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-10-12T16:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-10-12T18:40:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Verity",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-11T22:15:00",
+            "format": "Open Caption"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-12T11:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-12T11:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Digger",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-11T21:15:00",
+            "format": "Open Caption"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-12T11:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-10-12T16:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-10-12T18:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Naza",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-10-12T17:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Your Mother Your Mother Your Mother",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-11T21:30:00",
+            "format": "Open Caption"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-12T12:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Resident Evil (2026)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-11T21:45:00",
+            "format": "Open Caption"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-12T13:00:00",
+            "format": "Open Caption"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-10-12T16:10:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Primetime",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-11T21:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-12T13:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-10-12T16:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Social Reckoning",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-11T21:30:00",
+            "format": "Open Caption"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-12T12:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Other Mommy",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-11T22:00:00",
+            "format": "HDR by Barco"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-11T22:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-11T22:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-12T13:15:00",
+            "format": "HDR by Barco"
           }
         ]
       }

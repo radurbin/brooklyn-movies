@@ -1,3 +1,56 @@
+## 2026-10-12 06:42 PM EDT
+
+**Movies added:**
+- Wild Horse Nine
+
+**Showtime changes:**
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-10-12T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-12T14:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-12T14:15:00 (Standard)
+- Pan's Labyrinth 20th Anniversary
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T20:45:00 (Standard)
+- The Texas Chain Saw Massacre (1974)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T22:30:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-10-12T11:00:00 (Standard)
+- Misty Green
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T21:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-12T12:45:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-12T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-12T18:40:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T22:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-12T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-12T11:45:00 (Standard)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T21:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-12T11:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-12T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-12T18:30:00 (Standard)
+- Naza
+  - − BAM Rose Cinemas @ 2026-10-12T17:00:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T21:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-12T12:30:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T21:45:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-12T13:00:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-10-12T16:10:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T21:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-12T13:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-12T16:30:00 (Standard)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T21:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-12T12:00:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T22:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T22:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T22:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-12T13:15:00 (HDR by Barco)
+
 ## 2026-10-12 07:34 AM EDT
 
 **Movies removed:**
