@@ -1,3 +1,34 @@
+## 2026-10-11 08:55 PM EDT
+
+**Showtime changes:**
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T15:00:00 (Standard)
+- Resident Evil (2026)
+  - − BAM Rose Cinemas @ 2026-10-11T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-11T18:45:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T15:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-11T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-11T18:50:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T15:30:00 (Standard)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T14:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-11T18:20:00 (Standard)
+- Naza
+  - − BAM Rose Cinemas @ 2026-10-11T17:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-11T19:00:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T15:30:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T14:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T14:15:00 (Standard)
+- Misty Green
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T14:45:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-11T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-11T18:40:00 (Standard)
+
 ## 2026-10-11 03:52 PM EDT
 
 **Movies added:**
