@@ -1,3 +1,39 @@
+## 2026-10-12 07:34 AM EDT
+
+**Movies removed:**
+- Repo! The Genetic Opera
+
+**Showtime changes:**
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T15:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T19:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-11T21:15:00 (Standard)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T17:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T19:45:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T18:30:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-11T21:10:00 (Standard)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T18:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-11T21:00:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T18:45:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T18:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-11T21:20:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T16:15:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T16:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T19:15:00 (HDR by Barco)
+- Naza
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T17:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-11T19:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-11T21:00:00 (Standard)
+
 ## 2026-10-11 08:55 PM EDT
 
 **Showtime changes:**
