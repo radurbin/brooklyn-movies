@@ -1,3 +1,114 @@
+## 2026-10-13 04:58 PM EDT
+
+**Movies added:**
+- The Only Living Pickpocket in New York
+
+**Showtime changes:**
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T12:30:00 (Open Caption)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T13:15:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T13:15:00 (HDR by Barco)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-13T16:10:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T12:15:00 (Standard)
+- Misty Green
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T12:45:00 (Standard)
+- Naza
+  - + BAM Rose Cinemas @ 2026-10-16T13:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-16T16:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-16T18:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-17T16:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-17T18:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-18T13:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-18T16:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-18T18:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-19T16:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-19T18:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-20T16:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-20T18:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-21T16:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-21T18:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-22T16:40:00 (Standard)
+- Primetime
+  - + BAM Rose Cinemas @ 2026-10-16T13:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-16T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-17T13:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-17T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-18T13:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-18T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-19T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-20T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-21T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-22T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T11:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-13T16:30:00 (Standard)
+- The History of Concrete
+  - + BAM Rose Cinemas @ 2026-10-16T13:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-16T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-16T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-16T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-17T13:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-17T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-17T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-17T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-18T13:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-18T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-18T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-18T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-19T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-19T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-19T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-20T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-20T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-20T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-21T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-21T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-21T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-22T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-22T19:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-13T16:15:00 (Standard)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T11:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-13T16:00:00 (Standard)
+- Practical Magic 2
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T11:00:00 (Standard)
+- You Can See Everything
+  - + BAM Rose Cinemas @ 2026-10-22T18:50:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T14:00:00 (Standard)
+- Wild Horse Nine
+  - + BAM Rose Cinemas @ 2026-11-05T16:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-05T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-05T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-06T13:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-06T16:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-06T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-06T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-07T13:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-07T16:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-07T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-07T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-08T13:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-08T16:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-08T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-08T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-09T16:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-09T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-09T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-10T16:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-10T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-10T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-11T16:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-11T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-11T21:30:00 (Standard)
+
 ## 2026-10-13 07:21 AM EDT
 
 **Movies added:**
