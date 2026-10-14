@@ -1,3 +1,37 @@
+## 2026-10-14 05:14 AM EDT
+
+**Movies removed:**
+- Ginger Snaps
+
+**Showtime changes:**
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T17:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T18:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T19:45:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T19:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-13T21:15:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T18:45:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-13T21:10:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T19:00:00 (Standard)
+- Misty Green
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T18:00:00 (Standard)
+- Naza
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T17:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T19:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-13T21:00:00 (Standard)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T18:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-13T21:10:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T19:15:00 (HDR by Barco)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T18:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-13T21:20:00 (Standard)
+
 ## 2026-10-13 08:50 PM EDT
 
 **Movies added:**
