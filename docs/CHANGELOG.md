@@ -1,3 +1,56 @@
+## 2026-10-13 08:50 PM EDT
+
+**Movies added:**
+- Alucarda
+- I Am Not a Witch
+- Il demonio
+- Jennifer’s Body
+- Noroi: The Curse
+- Requiem
+- The Exorcist
+- The Rites of May (aka Itim)
+- The Sealed Soil
+- Tiger Stripes
+
+**Showtime changes:**
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T16:00:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T15:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-13T18:45:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-13T18:40:00 (Standard)
+- Misty Green
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T14:45:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T14:15:00 (Standard)
+- The Only Living Pickpocket in New York
+  - + Alamo Drafthouse Brooklyn @ 2026-10-29T15:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-29T18:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-30T15:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-30T18:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-31T15:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-31T18:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-01T15:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-01T18:15:00 (Standard)
+- Naza
+  - − BAM Rose Cinemas @ 2026-10-13T17:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-13T19:00:00 (Standard)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T14:30:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-10-13T18:30:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T15:30:00 (Open Caption)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T15:00:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T16:15:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T16:30:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T15:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-13T18:50:00 (Standard)
+
 ## 2026-10-13 04:58 PM EDT
 
 **Movies added:**
