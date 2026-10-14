@@ -1,3 +1,35 @@
+## 2026-10-14 03:57 PM EDT
+
+**Movies removed:**
+- Practical Magic 2
+
+**Showtime changes:**
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T12:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T13:15:00 (Standard)
+- Misty Green
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T12:45:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T11:45:00 (Open Caption)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T11:15:00 (Standard)
+- Forgotten Island
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T14:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T14:15:00 (Standard)
+- Alucarda
+  - + BAM Rose Cinemas @ 2026-11-02T21:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-02T21:00:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T13:00:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T13:15:00 (HDR by Barco)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T12:15:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T12:30:00 (Standard)
+
 ## 2026-10-14 10:51 AM EDT
 
 **Movies removed:**
