@@ -1,3 +1,28 @@
+## 2026-10-14 10:51 AM EDT
+
+**Movies removed:**
+- Urban Legend
+
+**Showtime changes:**
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T22:15:00 (Standard)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T21:15:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T22:00:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T21:30:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T22:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T22:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T22:45:00 (Standard)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T21:15:00 (Standard)
+- Resident Evil (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T21:45:00 (Open Caption)
+- Pan's Labyrinth 20th Anniversary
+  - − Alamo Drafthouse Brooklyn @ 2026-10-13T20:45:00 (Standard)
+
 ## 2026-10-14 05:14 AM EDT
 
 **Movies removed:**
