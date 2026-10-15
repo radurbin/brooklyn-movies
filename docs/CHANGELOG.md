@@ -1,3 +1,50 @@
+## 2026-10-15 04:46 AM EDT
+
+**Movies removed:**
+- Pan's Labyrinth 20th Anniversary
+- Resident Evil (2026)
+- Screamplay
+
+**Showtime changes:**
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T18:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-14T21:10:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T21:15:00 (Standard)
+- Naza
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T17:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T19:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-14T21:00:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T22:15:00 (Open Caption)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T19:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T22:00:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-14T21:10:00 (Standard)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T17:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T21:15:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T18:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-14T21:20:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T21:30:00 (Standard)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T18:30:00 (Standard)
+- Misty Green
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T21:00:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T16:15:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T16:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T19:15:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T22:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T22:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T22:45:00 (Standard)
+
 ## 2026-10-14 08:16 PM EDT
 
 **Movies added:**
