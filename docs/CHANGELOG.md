@@ -1,3 +1,26 @@
+## 2026-10-15 03:38 PM EDT
+
+**Movies removed:**
+- Forgotten Island
+
+**Showtime changes:**
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T13:30:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T13:00:00 (Standard)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T12:30:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T11:30:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T12:15:00 (Standard)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T13:15:00 (Standard)
+- Misty Green
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T12:30:00 (Standard)
+
 ## 2026-10-15 10:38 AM EDT
 
 No changes.
