@@ -1,3 +1,37 @@
+## 2026-10-14 08:16 PM EDT
+
+**Movies added:**
+- Screamplay
+
+**Movies removed:**
+- Calle Cuba
+- Screamplay
+
+**Showtime changes:**
+- Naza
+  - − BAM Rose Cinemas @ 2026-10-14T17:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-14T19:00:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T15:30:00 (Standard)
+- Resident Evil (2026)
+  - − BAM Rose Cinemas @ 2026-10-14T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-14T18:45:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-14T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-14T18:40:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T15:30:00 (Standard)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T15:00:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T15:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-14T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-14T18:50:00 (Standard)
+- Digger
+  - − Alamo Drafthouse Brooklyn @ 2026-10-14T14:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-14T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-14T18:30:00 (Standard)
+
 ## 2026-10-14 03:57 PM EDT
 
 **Movies removed:**
