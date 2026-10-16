@@ -1,3 +1,29 @@
+## 2026-10-15 08:02 PM EDT
+
+**Movies removed:**
+- Les Vagues dans les yeux (Waves in the Eyes)
+
+**Showtime changes:**
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T14:45:00 (HDR by Barco)
+- You Can See Everything
+  - − BAM Rose Cinemas @ 2026-10-15T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-15T16:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-15T19:45:00 (Standard)
+- Naza
+  - − BAM Rose Cinemas @ 2026-10-15T17:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-15T19:00:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T15:00:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T14:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-15T18:30:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-15T16:00:00 (Standard)
+- Ken Russell's The Devils
+  - − BAM Rose Cinemas @ 2026-10-15T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-15T18:45:00 (Standard)
+
 ## 2026-10-15 03:38 PM EDT
 
 **Movies removed:**
