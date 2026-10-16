@@ -1,3 +1,52 @@
+## 2026-10-16 03:13 PM EDT
+
+**Movies added:**
+- Ali G: Who Iz I?
+- Cameron Winter at Carnegie Hall
+- Christmas at the Kringles
+- Club Kid
+- I Play Rocky
+- Making Marie Antoinette
+
+**Movies removed:**
+- Cameron Winter at Carnegie Hall
+- Making Marie Antoinette
+
+**Showtime changes:**
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T12:15:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T12:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-16T13:10:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T19:00:00 (Standard)
+- Naza
+  - − BAM Rose Cinemas @ 2026-10-16T13:30:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T10:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T13:30:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T12:30:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-16T13:45:00 (Standard)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T12:00:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T14:30:00 (Standard)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T11:45:00 (Standard)
+- Ken Russell's The Devils
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T10:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-16T13:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T13:15:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T10:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T12:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-16T13:00:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T11:15:00 (Standard)
+
 ## 2026-10-16 10:28 AM EDT
 
 **Showtime changes:**
