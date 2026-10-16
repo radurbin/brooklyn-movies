@@ -1,3 +1,29 @@
+## 2026-10-16 10:28 AM EDT
+
+**Showtime changes:**
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T21:45:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T21:00:00 (Standard)
+- Ken Russell's The Devils
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T22:30:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T21:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T21:45:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T22:30:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T21:15:00 (HDR by Barco)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T22:00:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T21:30:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T22:00:00 (Standard)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-15T22:15:00 (Standard)
+
 ## 2026-10-16 04:42 AM EDT
 
 **Showtime changes:**
