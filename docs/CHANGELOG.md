@@ -1,3 +1,57 @@
+## 2026-10-17 04:12 AM EDT
+
+**Movies removed:**
+- Hellbound: Hellraiser II
+
+**Showtime changes:**
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T15:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T21:30:00 (Standard)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T21:15:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T18:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T21:15:00 (HDR by Barco)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T15:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-16T21:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T22:00:00 (Standard)
+- Misty Green
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T21:45:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T22:30:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T16:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T22:45:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-16T21:30:00 (Standard)
+- Ken Russell's The Devils
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T16:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T19:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-16T21:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T22:15:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T16:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T19:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-16T20:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T21:00:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T22:00:00 (Open Caption)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T15:45:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T15:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T22:30:00 (Standard)
+
 ## 2026-10-16 08:07 PM EDT
 
 **Movies removed:**
