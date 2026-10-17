@@ -1,3 +1,28 @@
+## 2026-10-17 02:07 PM EDT
+
+**Movies removed:**
+- Dolly Double Feature: 9 to 5
+
+**Showtime changes:**
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-17T13:45:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-17T10:30:00 (Standard)
+- Ken Russell's The Devils
+  - − Alamo Drafthouse Brooklyn @ 2026-10-17T10:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-17T13:15:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-17T11:00:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-17T11:15:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-17T11:00:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-10-17T13:10:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-17T10:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-17T11:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-17T13:00:00 (Standard)
+
 ## 2026-10-17 09:26 AM EDT
 
 No changes.
