@@ -1,3 +1,25 @@
+## 2026-10-16 08:07 PM EDT
+
+**Movies removed:**
+- La Gradiva
+
+**Showtime changes:**
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-16T14:45:00 (HDR by Barco)
+- Ken Russell's The Devils
+  - − BAM Rose Cinemas @ 2026-10-16T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-16T18:45:00 (Standard)
+- You Can See Everything
+  - − BAM Rose Cinemas @ 2026-10-16T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-16T16:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-16T19:45:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-16T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-16T19:00:00 (Standard)
+- Naza
+  - − BAM Rose Cinemas @ 2026-10-16T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-16T18:40:00 (Standard)
+
 ## 2026-10-16 03:13 PM EDT
 
 **Movies added:**
