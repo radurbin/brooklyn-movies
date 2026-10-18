@@ -1,3 +1,27 @@
+## 2026-10-18 02:25 PM EDT
+
+**Showtime changes:**
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T10:30:00 (Standard)
+- Naza
+  - − BAM Rose Cinemas @ 2026-10-18T13:30:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T11:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-18T13:10:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-18T13:45:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T11:15:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T11:00:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T10:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T11:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-18T13:00:00 (Standard)
+- Ken Russell's The Devils
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T10:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-18T13:15:00 (Standard)
+
 ## 2026-10-18 09:44 AM EDT
 
 No changes.
