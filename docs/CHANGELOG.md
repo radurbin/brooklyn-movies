@@ -1,3 +1,46 @@
+## 2026-10-18 04:30 AM EDT
+
+**Movies added:**
+- Dive in Wonderland
+
+**Movies removed:**
+- Dive in Wonderland
+- What Will I Become (Documentary Centerpiece)
+
+**Showtime changes:**
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-17T21:45:00 (Standard)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-17T21:15:00 (Standard)
+- Misty Green
+  - − Alamo Drafthouse Brooklyn @ 2026-10-17T22:15:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-17T22:30:00 (Open Caption)
+- Ken Russell's The Devils
+  - − Alamo Drafthouse Brooklyn @ 2026-10-17T19:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-17T21:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-17T22:15:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-17T21:30:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-17T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-17T22:45:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-17T19:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-17T19:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-17T20:50:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-17T21:00:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-17T21:15:00 (HDR by Barco)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-17T21:30:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-17T22:30:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-17T20:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-17T21:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-17T23:00:00 (Standard)
+
 ## 2026-10-17 07:44 PM EDT
 
 **Movies removed:**
