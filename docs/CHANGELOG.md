@@ -1,3 +1,44 @@
+## 2026-10-18 07:53 PM EDT
+
+**Movies removed:**
+- Shorts: Sound & Scene Showcase (with Concord)
+- The Hidden Face of the Earth
+
+**Showtime changes:**
+- Ken Russell's The Devils
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T13:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-18T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-18T18:45:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T13:30:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T14:30:00 (Open Caption)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T14:00:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T12:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-18T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-18T16:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-18T19:45:00 (Standard)
+- Naza
+  - − BAM Rose Cinemas @ 2026-10-18T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-18T18:40:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-18T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-18T19:00:00 (Standard)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T15:00:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T12:15:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T14:45:00 (HDR by Barco)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T15:00:00 (Open Caption)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T11:45:00 (Standard)
+
 ## 2026-10-18 02:25 PM EDT
 
 **Showtime changes:**
