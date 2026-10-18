@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-09-21 12:10 PM EDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-09-21 08:30 PM EDT",
     "movies_added": [
       "25th Hour",
@@ -21647,5 +21641,11 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-10-18 09:44 AM EDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": []
   }
 ]
