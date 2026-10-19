@@ -1,3 +1,56 @@
+## 2026-10-19 05:31 AM EDT
+
+**Movies removed:**
+- Digger
+
+**Showtime changes:**
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-18T21:30:00 (Standard)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T21:15:00 (Open Caption)
+- Misty Green
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T22:15:00 (Standard)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T18:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T21:30:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T22:30:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T21:45:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T17:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T20:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-18T21:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T23:00:00 (Open Caption)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T16:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T19:45:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T22:45:00 (Standard)
+- Ken Russell's The Devils
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T16:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T19:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-18T21:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T22:15:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T15:45:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T22:30:00 (Standard)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T16:00:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T16:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T19:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-18T20:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T21:00:00 (Open Caption)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T18:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-18T21:15:00 (HDR by Barco)
+
 ## 2026-10-18 07:53 PM EDT
 
 **Movies removed:**
