@@ -1,3 +1,8 @@
+## 2026-10-20 10:39 AM EDT
+
+**Movies added:**
+- Hexed
+
 ## 2026-10-20 05:04 AM EDT
 
 **Showtime changes:**
