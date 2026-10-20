@@ -1,3 +1,73 @@
+## 2026-10-20 03:49 PM EDT
+
+**Movies added:**
+- Once Upon a Time in Harlem
+
+**Movies removed:**
+- Playback Presents: Crooklyn
+
+**Showtime changes:**
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T10:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T13:30:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T10:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T14:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T14:30:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T13:45:00 (Open Caption)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T12:15:00 (Open Caption)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T11:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T15:30:00 (HDR by Barco)
+- Your Mother Your Mother Your Mother
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T10:45:00 (Standard)
+- Dune: Part Three
+  - + Alamo Drafthouse Brooklyn @ 2026-12-17T16:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-17T19:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-18T09:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-18T13:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-18T17:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-18T21:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-19T09:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-19T13:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-19T17:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-19T21:30:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-20T09:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-20T13:30:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-20T17:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-20T21:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-21T10:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-21T14:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-21T18:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-21T21:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-22T10:00:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-22T14:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-22T18:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-22T21:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-23T10:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-23T14:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-23T18:00:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-23T21:45:00 (Standard)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T12:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T15:15:00 (Open Caption)
+- Ken Russell's The Devils
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T10:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T13:15:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T14:45:00 (Standard)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T15:30:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T15:00:00 (Standard)
+
 ## 2026-10-20 10:39 AM EDT
 
 **Movies added:**
