@@ -1,3 +1,33 @@
+## 2026-10-20 05:04 AM EDT
+
+**Showtime changes:**
+- Ken Russell's The Devils
+  - − BAM Rose Cinemas @ 2026-10-19T21:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-19T21:45:00 (Standard)
+- Misty Green
+  - − Alamo Drafthouse Brooklyn @ 2026-10-19T22:15:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-19T22:45:00 (HDR by Barco)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-19T22:30:00 (Standard)
+- Primetime
+  - − BAM Rose Cinemas @ 2026-10-19T21:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-19T23:00:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-19T21:45:00 (Standard)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-19T21:00:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-19T22:30:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-19T22:45:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-19T22:00:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-19T21:30:00 (Standard)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-19T21:30:00 (Standard)
+
 ## 2026-10-19 08:53 PM EDT
 
 **Movies added:**
