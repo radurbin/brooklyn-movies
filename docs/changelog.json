@@ -1,11 +1,5 @@
 [
   {
-    "date": "2026-09-24 10:36 AM EDT",
-    "movies_added": [],
-    "movies_removed": [],
-    "showtime_changes": []
-  },
-  {
     "date": "2026-09-24 03:44 PM EDT",
     "movies_added": [
       "Ken Russell’s The Devils"
@@ -21886,5 +21880,11 @@
         ]
       }
     ]
+  },
+  {
+    "date": "2026-10-21 10:49 AM EDT",
+    "movies_added": [],
+    "movies_removed": [],
+    "showtime_changes": []
   }
 ]
