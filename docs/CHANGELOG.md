@@ -1,3 +1,43 @@
+## 2026-10-21 05:04 AM EDT
+
+**Movies added:**
+- Wilmington 10 – U.S.A. 10,000
+
+**Movies removed:**
+- The City of The Dead
+- Wilmington 10 – U.S.A. 10,000
+
+**Showtime changes:**
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-20T21:30:00 (Standard)
+- Misty Green
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T23:00:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T22:30:00 (Open Caption)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T22:30:00 (Standard)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T21:30:00 (Standard)
+- Ken Russell's The Devils
+  - − BAM Rose Cinemas @ 2026-10-20T21:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T22:15:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T22:45:00 (Open Caption)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T21:45:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T20:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-20T21:00:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T22:45:00 (HDR by Barco)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T20:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-20T20:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T22:00:00 (Standard)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T21:15:00 (Standard)
+
 ## 2026-10-20 08:20 PM EDT
 
 **Movies added:**
