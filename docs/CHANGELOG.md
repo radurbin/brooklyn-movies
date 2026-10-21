@@ -1,3 +1,55 @@
+## 2026-10-21 03:53 PM EDT
+
+**Movies added:**
+- Batman Returns
+- Billy Lynn's Long Halftime Walk
+- Crocodile Dose
+- Henry: Portrait of a Serial Killer
+- Indonesian Mystery Movie
+- Megalopolis
+- Planes, Trains & Automobiles
+- Point Blank (1967)
+- Southland Tales
+- The Cook, The Thief, His Wife, & Her Lover
+- The Room Returns
+- Thunder Alley
+- Tokyo Godfathers (Subtitled)
+
+**Movies removed:**
+- Your Mother Your Mother Your Mother
+
+**Showtime changes:**
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T14:00:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T11:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T14:45:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T10:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T14:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T14:30:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T12:15:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T15:00:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T11:30:00 (Standard)
+- Cameron Winter at Carnegie Hall
+  - + Alamo Drafthouse Brooklyn @ 2027-01-30T19:00:00 (35mm)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T12:15:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T10:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T13:30:00 (Standard)
+- Ken Russell's The Devils
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T10:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T13:15:00 (Standard)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T12:00:00 (Standard)
+
 ## 2026-10-21 10:49 AM EDT
 
 No changes.
