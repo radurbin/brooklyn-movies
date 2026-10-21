@@ -1,3 +1,53 @@
+## 2026-10-20 08:20 PM EDT
+
+**Movies added:**
+- Grey Gardens
+- Paydirt
+- Shakedown
+
+**Movies removed:**
+- Capturing Bigfoot
+- Grey Gardens
+- Paydirt
+- Shakedown
+- Shorts: Transmissions
+
+**Showtime changes:**
+- Ken Russell's The Devils
+  - − BAM Rose Cinemas @ 2026-10-20T16:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-20T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T19:15:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-20T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-20T19:00:00 (Standard)
+- Naza
+  - − BAM Rose Cinemas @ 2026-10-20T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-20T18:40:00 (Standard)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T18:30:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T18:15:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T19:00:00 (HDR by Barco)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T15:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-20T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-20T16:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T18:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-20T19:45:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T16:30:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T15:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T19:00:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T18:45:00 (Standard)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T18:15:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-20T17:00:00 (Standard)
+
 ## 2026-10-20 03:49 PM EDT
 
 **Movies added:**
