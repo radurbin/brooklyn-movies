@@ -1,3 +1,58 @@
+## 2026-10-22 05:07 AM EDT
+
+**Movies added:**
+- King Kong vs. Godzilla
+
+**Movies removed:**
+- Christmas at the Kringles
+- Manos: The Hands of Fate
+- Misty Green
+
+**Showtime changes:**
+- Ken Russell's The Devils
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T16:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T19:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-21T21:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T23:00:00 (Standard)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T21:15:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T17:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T20:00:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-10-21T21:00:00 (Standard)
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T18:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T22:15:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T22:30:00 (Standard)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T21:30:00 (Open Caption)
+- Mystery Voyage
+  - + Alamo Drafthouse Brooklyn @ 2026-11-13T22:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T22:15:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T21:45:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T18:00:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-10-21T20:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T22:00:00 (Standard)
+- Tokyo Godfathers (Subtitled)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-29T16:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-29T16:00:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T19:15:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T22:45:00 (HDR by Barco)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-21T21:30:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T16:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T22:45:00 (Standard)
+
 ## 2026-10-21 08:23 PM EDT
 
 **Movies removed:**
