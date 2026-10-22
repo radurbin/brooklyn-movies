@@ -1,3 +1,51 @@
+## 2026-10-22 03:43 PM EDT
+
+**Movies added:**
+- Air Force One
+- BAM x Alfreda’s Cinema, ARTNoir co-present Alice Coltrane’s Eternity’s Pillar
+- Backtrack (Director’s Cut of “Catchfire”)
+- Blue Velvet
+- Boy with the Green Hair
+- Compulsion
+- Married to the Mob
+- Paris, Texas
+- The Player
+- The Texas Chainsaw Massacre Part 2
+- To Live and Die in L.A.
+
+**Movies removed:**
+- The Social Reckoning
+- Verity
+
+**Showtime changes:**
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T12:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T15:00:00 (Standard)
+- Primetime
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T11:00:00 (Standard)
+- La Bola Negra
+  - + Alamo Drafthouse Brooklyn @ 2026-10-23T22:00:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-25T11:00:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-26T14:45:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-10-27T18:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T14:00:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T14:30:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T12:30:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T15:15:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T13:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T13:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T14:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T15:00:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T14:45:00 (Standard)
+
 ## 2026-10-22 10:50 AM EDT
 
 No changes.
