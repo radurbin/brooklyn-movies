@@ -1,3 +1,36 @@
+## 2026-10-21 08:23 PM EDT
+
+**Movies removed:**
+- Masc
+
+**Showtime changes:**
+- Verity
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T15:30:00 (Standard)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T15:15:00 (Standard)
+- Naza
+  - − BAM Rose Cinemas @ 2026-10-21T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-21T18:40:00 (Standard)
+- Ken Russell's The Devils
+  - − BAM Rose Cinemas @ 2026-10-21T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-21T18:45:00 (Standard)
+- The Social Reckoning
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T15:30:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-21T15:30:00 (HDR by Barco)
+- The Only Living Pickpocket in New York
+  - + BAM Rose Cinemas @ 2026-10-25T19:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-10-25T21:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-25T18:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-25T21:00:00 (Standard)
+- You Can See Everything
+  - − BAM Rose Cinemas @ 2026-10-21T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-21T16:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-21T19:45:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-21T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-21T19:00:00 (Standard)
+
 ## 2026-10-21 03:53 PM EDT
 
 **Movies added:**
