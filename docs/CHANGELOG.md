@@ -1,3 +1,57 @@
+## 2026-10-22 08:22 PM EDT
+
+**Movies added:**
+- Primetime
+- Southland Tales
+- The Boy with Green Hair
+- Women on the Verge of a Nervous Breakdown
+
+**Movies removed:**
+- Boy with the Green Hair
+- Elephants in the Fog
+- Primetime
+- Southland Tales
+
+**Showtime changes:**
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T15:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-22T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T17:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T18:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-22T18:50:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-22T19:45:00 (Standard)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T19:00:00 (Standard)
+- Compulsion
+  - + BAM Rose Cinemas @ 2026-11-10T21:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-06T21:30:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T15:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T19:00:00 (Standard)
+- Klara and the Sun
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T19:15:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T18:30:00 (Standard)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T18:00:00 (Standard)
+- Naza
+  - − BAM Rose Cinemas @ 2026-10-22T16:40:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T18:15:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-22T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-22T19:00:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T17:45:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-22T18:15:00 (Standard)
+- Ken Russell's The Devils
+  - − BAM Rose Cinemas @ 2026-10-22T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-22T18:45:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-10-22T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-22T18:40:00 (Standard)
+
 ## 2026-10-22 03:43 PM EDT
 
 **Movies added:**
