@@ -1,3 +1,41 @@
+## 2026-10-24 02:33 PM EDT
+
+**Showtime changes:**
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T12:15:00 (Standard)
+- Naza
+  - − BAM Rose Cinemas @ 2026-10-24T13:20:00 (Standard)
+- Grey Gardens
+  - − BAM Rose Cinemas @ 2026-10-24T13:30:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T12:15:00 (Standard)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T12:00:00 (Open Caption)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T11:15:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-10-24T13:10:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T14:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T21:15:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T11:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T12:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-24T13:00:00 (Standard)
+- Ken Russell's The Devils
+  - − BAM Rose Cinemas @ 2026-10-24T13:00:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T11:15:00 (35mm)
+- Clayface
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T12:45:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-24T13:30:00 (Standard)
+- Klara and the Sun
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T12:00:00 (Standard)
+
 ## 2026-10-24 09:49 AM EDT
 
 No changes.
