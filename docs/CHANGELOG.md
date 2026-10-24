@@ -1,3 +1,45 @@
+## 2026-10-24 07:57 PM EDT
+
+**Showtime changes:**
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T15:30:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-24T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-24T19:00:00 (Standard)
+- The Texas Chain Saw Massacre
+  - − BAM Rose Cinemas @ 2026-10-24T19:00:00 (Standard)
+- Eve’s Bayou
+  - − BAM Rose Cinemas @ 2026-10-24T15:30:00 (Standard)
+- Klara and the Sun
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T15:15:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T14:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T15:00:00 (35mm)
+- Ken Russell's The Devils
+  - − BAM Rose Cinemas @ 2026-10-24T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-24T18:40:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T15:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T15:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-24T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T16:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-24T16:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-24T19:15:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-10-24T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-24T18:40:00 (Standard)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T15:15:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T14:30:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T15:45:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T16:15:00 (Standard)
+- Clayface
+  - − Alamo Drafthouse Brooklyn @ 2026-10-24T16:00:00 (Open Caption)
+
 ## 2026-10-24 02:33 PM EDT
 
 **Showtime changes:**
