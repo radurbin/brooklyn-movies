@@ -1,3 +1,46 @@
+## 2026-10-23 08:12 PM EDT
+
+**Movies added:**
+- All About My Mother
+
+**Movies removed:**
+- Shakedown
+
+**Showtime changes:**
+- Ken Russell's The Devils
+  - − BAM Rose Cinemas @ 2026-10-23T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-23T18:40:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-23T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-23T19:00:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-10-23T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-23T18:40:00 (Standard)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T18:15:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T18:45:00 (35mm)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T18:45:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T18:00:00 (Standard)
+- Ali G: Who Iz I?
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T19:00:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T16:15:00 (Standard)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T18:15:00 (Standard)
+- Klara and the Sun
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T19:15:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T15:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-23T16:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T16:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T18:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-23T19:15:00 (Standard)
+
 ## 2026-10-23 03:45 PM EDT
 
 **Showtime changes:**
