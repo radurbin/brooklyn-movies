@@ -1,3 +1,64 @@
+## 2026-10-24 04:35 AM EDT
+
+**Movies added:**
+- All About My Mother
+- Back to the Beach
+- Elf
+- Eyes Wide Shut
+- Hallucinations
+- Little Mother
+- Little Women (2019)
+- Mars Attacks!
+- Misery
+- National Lampoon's Christmas Vacation
+- Thank God It's Friday
+- The Apartment
+- The Shining
+- Volver
+- When Harry Met Sally...
+- Zodiac (2007)
+
+**Movies removed:**
+- All About My Mother
+
+**Showtime changes:**
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T21:30:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T21:15:00 (Standard)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T21:00:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-23T21:20:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T19:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T22:45:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T22:15:00 (Open Caption)
+- You Can See Everything
+  - − BAM Rose Cinemas @ 2026-10-23T20:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T21:00:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T21:45:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-10-23T21:00:00 (Standard)
+- Clayface
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T19:30:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T22:45:00 (HDR by Barco)
+- Ken Russell's The Devils
+  - − BAM Rose Cinemas @ 2026-10-23T21:10:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T22:30:00 (Standard)
+- Mystery Transmission
+  - + Alamo Drafthouse Brooklyn @ 2026-11-30T21:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-12-14T21:30:00 (Standard)
+- Eyes of Fire
+  - − BAM Rose Cinemas @ 2026-10-23T21:15:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T22:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T22:30:00 (35mm)
+- Klara and the Sun
+  - − Alamo Drafthouse Brooklyn @ 2026-10-23T22:15:00 (Standard)
+
 ## 2026-10-23 08:12 PM EDT
 
 **Movies added:**
