@@ -1,3 +1,29 @@
+## 2026-10-25 02:42 PM EDT
+
+**Movies removed:**
+- Wilmington 10 – U.S.A. 10,000
+
+**Showtime changes:**
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T10:45:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T11:00:00 (Open Caption)
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-10-25T13:10:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-25T13:30:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T10:45:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T11:15:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T11:15:00 (Standard)
+- Ken Russell's The Devils
+  - − BAM Rose Cinemas @ 2026-10-25T13:00:00 (Standard)
+- You Can See Everything
+  - − BAM Rose Cinemas @ 2026-10-25T13:00:00 (Standard)
+- Naza
+  - − BAM Rose Cinemas @ 2026-10-25T13:20:00 (Standard)
+
 ## 2026-10-25 10:05 AM EDT
 
 No changes.
