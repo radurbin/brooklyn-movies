@@ -1,3 +1,53 @@
+## 2026-10-25 07:44 PM EDT
+
+**Movies removed:**
+- Giant
+
+**Showtime changes:**
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T12:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-25T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-25T16:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-25T19:15:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T17:00:00 (Standard)
+- Clayface
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T12:45:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T16:00:00 (Standard)
+- Klara and the Sun
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T12:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T16:00:00 (Open Caption)
+- Ken Russell's The Devils
+  - − BAM Rose Cinemas @ 2026-10-25T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-25T18:40:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T13:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T16:15:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T14:45:00 (Open Caption)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T14:30:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T14:45:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T13:45:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-25T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-25T19:00:00 (Standard)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T15:45:00 (Open Caption)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T15:00:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-25T14:30:00 (Open Caption)
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-10-25T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-25T19:10:00 (Standard)
+
 ## 2026-10-25 02:42 PM EDT
 
 **Movies removed:**
