@@ -1,3 +1,17 @@
+## 2026-10-26 12:26 PM EDT
+
+**Movies added:**
+- Werwulf
+
+**Showtime changes:**
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-26T11:00:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-10-26T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-26T11:15:00 (35mm)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-26T11:15:00 (Standard)
+
 ## 2026-10-26 05:36 AM EDT
 
 **Movies added:**
