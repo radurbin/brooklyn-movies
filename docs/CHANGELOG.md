@@ -1,3 +1,27 @@
+## 2026-10-27 04:24 PM EDT
+
+**Showtime changes:**
+- You Can See Everything
+  - − BAM Rose Cinemas @ 2026-10-27T16:00:00 (Standard)
+- Ken Russell's The Devils
+  - − BAM Rose Cinemas @ 2026-10-27T16:00:00 (Standard)
+- The Only Living Pickpocket in New York
+  - + BAM Rose Cinemas @ 2026-10-29T21:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-27T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-29T21:00:00 (Standard)
+- Fatherland
+  - − BAM Rose Cinemas @ 2026-11-12T16:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-12T19:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-12T21:15:00 (Standard)
+- Naza
+  - − BAM Rose Cinemas @ 2026-10-27T16:10:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T11:00:00 (Open Caption)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T11:00:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-27T16:15:00 (Standard)
+
 ## 2026-10-27 11:42 AM EDT
 
 **Movies added:**
