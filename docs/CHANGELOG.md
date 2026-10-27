@@ -1,3 +1,25 @@
+## 2026-10-27 11:42 AM EDT
+
+**Movies added:**
+- Burden of Dreams
+- Eadweard Muybridge, Zoopraxographer
+- Ebenezer
+- It May Be That Beauty Has Strengthened Our Resolve - Masao Adachi
+- Jacques Rivette, The Night Watchman
+- Jacquot de Nantes
+- Littermates
+- Making Do the Right Thing + Parlons grand-mère
+- On Straub-Huillet
+- The Last Bolshevik
+
+**Showtime changes:**
+- Elf
+  - + BAM Rose Cinemas @ 2026-11-14T18:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-18T18:45:00 (Standard)
+- Making Marie Antoinette
+  - + BAM Rose Cinemas @ 2026-11-13T17:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-14T21:20:00 (Standard)
+
 ## 2026-10-27 05:32 AM EDT
 
 **Movies added:**

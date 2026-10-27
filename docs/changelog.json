@@ -1,140 +1,5 @@
 [
   {
-    "date": "2026-09-30 09:03 PM EDT",
-    "movies_added": [],
-    "movies_removed": [
-      "Jesus Camp",
-      "Talladega Nights: The Ballad of Ricky Bobby"
-    ],
-    "showtime_changes": [
-      {
-        "title": "Chronovisor",
-        "added": [],
-        "removed": [
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-09-30T18:30:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Forgotten Island",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-30T15:45:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Ha-Chan, Shake Your Booty",
-        "added": [],
-        "removed": [
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-09-30T18:45:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Avengers Endgame: Encore",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-30T16:45:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Coyote vs. ACME",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-30T15:15:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Resident Evil (2026)",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-30T16:30:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-09-30T18:50:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Heart of the Beast",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-30T16:00:00",
-            "format": "HDR by Barco"
-          }
-        ]
-      },
-      {
-        "title": "Primetime",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-30T16:15:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-09-30T16:30:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-09-30T19:00:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Practical Magic 2",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-30T15:30:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Your Mother Your Mother Your Mother",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-09-30T15:30:00",
-            "format": "35mm"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "date": "2026-10-01 06:40 AM EDT",
     "movies_added": [],
     "movies_removed": [
@@ -21584,6 +21449,56 @@
             "format": "Standard"
           }
         ]
+      }
+    ]
+  },
+  {
+    "date": "2026-10-27 11:42 AM EDT",
+    "movies_added": [
+      "Burden of Dreams",
+      "Eadweard Muybridge, Zoopraxographer",
+      "Ebenezer",
+      "It May Be That Beauty Has Strengthened Our Resolve - Masao Adachi",
+      "Jacques Rivette, The Night Watchman",
+      "Jacquot de Nantes",
+      "Littermates",
+      "Making Do the Right Thing + Parlons grand-mère",
+      "On Straub-Huillet",
+      "The Last Bolshevik"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "Elf",
+        "added": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-11-14T18:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-11-18T18:45:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
+      },
+      {
+        "title": "Making Marie Antoinette",
+        "added": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-11-13T17:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-11-14T21:20:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": []
       }
     ]
   }
