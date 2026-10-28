@@ -1,3 +1,53 @@
+## 2026-10-28 06:17 AM EDT
+
+**Movies removed:**
+- House of 1000 Corpses
+- Paydirt
+
+**Showtime changes:**
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T22:00:00 (Standard)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T21:15:00 (Open Caption)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T22:00:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T17:30:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T18:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T22:15:00 (Standard)
+- Ken Russell's The Devils
+  - − BAM Rose Cinemas @ 2026-10-27T21:10:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T22:45:00 (Standard)
+- Other Mommy
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T21:00:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-10-27T21:00:00 (Standard)
+- Clayface
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T19:30:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T22:45:00 (HDR by Barco)
+- I Play Rocky
+  - + Alamo Drafthouse Brooklyn @ 2026-11-07T16:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-07T19:45:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-27T21:20:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T17:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T22:15:00 (Standard)
+- Klara and the Sun
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T22:30:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T21:30:00 (Open Caption)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T16:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T19:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T21:45:00 (Standard)
+
 ## 2026-10-27 08:54 PM EDT
 
 **Movies added:**
