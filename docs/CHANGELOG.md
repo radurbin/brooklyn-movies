@@ -1,3 +1,63 @@
+## 2026-10-27 08:54 PM EDT
+
+**Movies added:**
+- Alucarda
+- ArteEast Presents Sunshine Express
+- Fatherland
+- Noroi: The Curse
+- Paydirt
+- The Sealed Soil
+- Tiger Stripes
+
+**Movies removed:**
+- Alucarda
+- Fatherland
+- Grey Gardens
+- Move Ya Body: the Birth of House
+- Noroi: The Curse
+- Paydirt
+- The Sealed Soil
+- Tiger Stripes
+
+**Showtime changes:**
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T16:00:00 (Open Caption)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-27T19:00:00 (Standard)
+- Clayface
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T15:45:00 (Open Caption)
+- Making Marie Antoinette
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T15:15:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-10-27T18:40:00 (Standard)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T15:00:00 (Standard)
+- Klara and the Sun
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T12:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T16:00:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T14:30:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T14:45:00 (Standard)
+- Ken Russell's The Devils
+  - − BAM Rose Cinemas @ 2026-10-27T18:40:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T15:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-27T18:50:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-27T19:45:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T13:30:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T14:45:00 (Standard)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-10-27T13:15:00 (Standard)
+
 ## 2026-10-27 04:24 PM EDT
 
 **Showtime changes:**
