@@ -1,3 +1,47 @@
+## 2026-10-29 06:41 AM EDT
+
+**Movies added:**
+- Ken Russell’s The Devils
+
+**Movies removed:**
+- Fireball 500
+- Ken Russell's The Devils
+- Tales From the Crypt Marathon
+- When I Get Home + Corpus: A Home Movie About Selena
+
+**Showtime changes:**
+- Clayface
+  - − Alamo Drafthouse Brooklyn @ 2026-10-28T19:30:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-28T22:45:00 (HDR by Barco)
+- The Only Living Pickpocket in New York
+  - + Alamo Drafthouse Brooklyn @ 2026-10-30T15:15:00 (Standard)
+- Klara and the Sun
+  - − Alamo Drafthouse Brooklyn @ 2026-10-28T19:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-28T22:15:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-28T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-28T22:30:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-28T18:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-28T21:45:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-28T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-28T23:00:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-28T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-28T22:15:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-10-28T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-28T19:00:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-28T22:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-28T22:45:00 (35mm)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-28T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-28T21:15:00 (Standard)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-10-28T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-28T21:00:00 (Standard)
+
 ## 2026-10-28 09:31 PM EDT
 
 **Movies added:**
