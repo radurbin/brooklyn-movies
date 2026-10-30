@@ -1,3 +1,42 @@
+## 2026-10-30 06:42 AM EDT
+
+**Movies removed:**
+- Godzilla vs. Megalon
+- Restoration at Grayson Manor
+- The Texas Chain Saw Massacre
+
+**Showtime changes:**
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-10-29T18:00:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-29T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-29T21:45:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-29T22:30:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-29T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-29T22:45:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-29T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-29T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-29T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-29T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-29T22:15:00 (Standard)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-29T22:30:00 (Standard)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-10-29T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-29T21:45:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-29T18:45:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-29T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-29T22:15:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − Alamo Drafthouse Brooklyn @ 2026-10-29T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-29T22:45:00 (Standard)
+- Clayface
+  - − Alamo Drafthouse Brooklyn @ 2026-10-29T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-29T21:00:00 (Standard)
+
 ## 2026-10-29 09:31 PM EDT
 
 **Movies removed:**
