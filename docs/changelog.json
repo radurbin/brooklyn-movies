@@ -1,212 +1,5 @@
 [
   {
-    "date": "2026-10-03 08:19 PM EDT",
-    "movies_added": [],
-    "movies_removed": [
-      "Everytime",
-      "LINKIN PARK: UNSHATTER",
-      "Possible Love"
-    ],
-    "showtime_changes": [
-      {
-        "title": "Digger",
-        "added": [],
-        "removed": [
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-10-03T16:00:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-03T16:00:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-10-03T18:40:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Avengers Endgame: Encore",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-03T18:15:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Verity",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-03T14:45:00",
-            "format": "HDR by Barco"
-          },
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-03T18:00:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-03T18:00:00",
-            "format": "HDR by Barco"
-          },
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-03T19:00:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Resident Evil (2026)",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-03T17:00:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-10-03T19:10:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Chronovisor",
-        "added": [],
-        "removed": [
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-10-03T16:15:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-10-03T18:45:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Primetime",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-03T14:30:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-03T15:15:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-10-03T16:40:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-03T17:45:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-03T18:15:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-10-03T19:00:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Heart of the Beast",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-03T15:45:00",
-            "format": "Open Caption"
-          },
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-03T19:00:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Forgotten Island",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-03T16:15:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Practical Magic 2",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-03T15:15:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-03T18:45:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Moonlight",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-03T14:45:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Your Mother Your Mother Your Mother",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-03T15:30:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-03T18:30:00",
-            "format": "Standard"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "date": "2026-10-04 06:22 AM EDT",
     "movies_added": [],
     "movies_removed": [],
@@ -21728,6 +21521,182 @@
           {
             "theater": "Alamo Drafthouse Brooklyn",
             "datetime": "2026-10-29T21:00:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-10-30 04:20 PM EDT",
+    "movies_added": [
+      "Playback: Love & Basketball"
+    ],
+    "movies_removed": [],
+    "showtime_changes": [
+      {
+        "title": "La Bola Negra",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-30T10:00:00",
+            "format": "35mm"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-30T11:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Klara and the Sun",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-30T11:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "You Can See Everything",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-30T10:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-30T11:15:00",
+            "format": "Open Caption"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-30T12:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-10-30T13:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-10-30T15:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Once Upon a Time in Harlem",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-10-30T13:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Only Living Pickpocket in New York",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-30T10:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-10-30T13:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-10-30T16:10:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Wicker",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-30T11:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Ken Russell’s The Devils",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-10-30T13:10:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Clayface",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-30T12:00:00",
+            "format": "Open Caption"
+          }
+        ]
+      },
+      {
+        "title": "The History of Concrete",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-10-30T16:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Street Fighter (2026)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-30T12:15:00",
+            "format": "Open Caption"
+          }
+        ]
+      },
+      {
+        "title": "Sense and Sensibility (2026)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-10-30T12:00:00",
+            "format": "Open Caption"
+          }
+        ]
+      },
+      {
+        "title": "Naza",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-10-30T13:20:00",
             "format": "Standard"
           }
         ]

@@ -1,3 +1,41 @@
+## 2026-10-30 04:20 PM EDT
+
+**Movies added:**
+- Playback: Love & Basketball
+
+**Showtime changes:**
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T10:00:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T11:00:00 (Standard)
+- Klara and the Sun
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T11:45:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T10:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T11:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T12:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-30T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-30T15:30:00 (Standard)
+- Once Upon a Time in Harlem
+  - − BAM Rose Cinemas @ 2026-10-30T13:45:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T10:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-30T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-30T16:10:00 (Standard)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T11:45:00 (Standard)
+- Ken Russell’s The Devils
+  - − BAM Rose Cinemas @ 2026-10-30T13:10:00 (Standard)
+- Clayface
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T12:00:00 (Open Caption)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-30T16:00:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T12:15:00 (Open Caption)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T12:00:00 (Open Caption)
+- Naza
+  - − BAM Rose Cinemas @ 2026-10-30T13:20:00 (Standard)
+
 ## 2026-10-30 06:42 AM EDT
 
 **Movies removed:**
