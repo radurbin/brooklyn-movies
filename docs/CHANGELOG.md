@@ -1,3 +1,61 @@
+## 2026-10-31 06:08 AM EDT
+
+**Movies added:**
+- Volver
+
+**Movies removed:**
+- Trick or Treat (1986)
+- Volver
+
+**Showtime changes:**
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T22:30:00 (Standard)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T19:00:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T18:00:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T21:45:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T22:15:00 (Standard)
+- Requiem
+  - − BAM Rose Cinemas @ 2026-10-30T21:30:00 (Standard)
+- Clayface
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T21:30:00 (Standard)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T22:30:00 (Standard)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T21:30:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T16:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T17:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T20:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T21:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T22:15:00 (Standard)
+- Godzilla Minus Zero
+  - + Alamo Drafthouse Brooklyn @ 2026-11-08T11:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-08T14:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-08T18:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-08T21:45:00 (Standard)
+- I Play Rocky
+  - + Alamo Drafthouse Brooklyn @ 2026-11-08T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-09T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-09T15:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-09T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-09T21:45:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T18:45:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T18:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-30T21:20:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T22:00:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-30T22:00:00 (Standard)
+
 ## 2026-10-30 09:22 PM EDT
 
 **Showtime changes:**
