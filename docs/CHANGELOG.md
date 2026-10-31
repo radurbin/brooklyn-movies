@@ -1,3 +1,35 @@
+## 2026-10-31 03:42 PM EDT
+
+**Showtime changes:**
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T11:30:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T12:00:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T11:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-31T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-31T15:30:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T10:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-31T13:00:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T10:15:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T22:45:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T11:45:00 (Standard)
+- Clayface
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T12:00:00 (Standard)
+- Once Upon a Time in Harlem
+  - − BAM Rose Cinemas @ 2026-10-31T13:45:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-31T13:15:00 (Standard)
+- Klara and the Sun
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T11:30:00 (Standard)
+- Naza
+  - − BAM Rose Cinemas @ 2026-10-31T13:20:00 (Standard)
+
 ## 2026-10-31 06:08 AM EDT
 
 **Movies added:**
