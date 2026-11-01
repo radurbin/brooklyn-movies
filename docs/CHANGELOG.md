@@ -1,3 +1,36 @@
+## 2026-11-01 04:38 PM EST
+
+**Showtime changes:**
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T13:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T14:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-01T15:30:00 (Standard)
+- Once Upon a Time in Harlem
+  - − BAM Rose Cinemas @ 2026-11-01T16:30:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-11-01T16:10:00 (Standard)
+- I Am Not a Witch
+  - − BAM Rose Cinemas @ 2026-11-01T16:00:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-11-01T16:00:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T15:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T22:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T10:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T14:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T21:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-08T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-08T14:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-08T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-09T14:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-09T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-09T22:35:00 (Standard)
+
 ## 2026-11-01 03:04 PM EST
 
 **Movies removed:**
