@@ -157,3 +157,15 @@ def get_omdb_key() -> str:
 
 def get_tms_key() -> str:
     return require_api_key("TMS_API_KEY")
+
+# ============================================================
+# Poster size
+# ============================================================
+
+# Every poster is resized to this width and re-saved as JPEG before it
+# goes into docs/posters/. The page shows posters at most 220px wide
+# (the details popup), so 440px is sharp on high-DPI screens. AMC's
+# originals can be thousands of pixels wide and 100+ MB, which is over
+# GitHub's file size limit and fails the workflow's push.
+POSTER_WIDTH = 440
+POSTER_JPEG_QUALITY = 82

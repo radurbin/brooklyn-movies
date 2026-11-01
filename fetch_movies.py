@@ -24,6 +24,7 @@ Write docs/movies.json
 from __future__ import annotations
 
 import argparse
+import io
 import json
 import re
 import shutil
@@ -32,10 +33,13 @@ from datetime import datetime
 from pathlib import Path
 
 import requests
+from PIL import Image
 
 from config import (
     DOCS_DIR,
     MOVIES_JSON,
+    POSTER_JPEG_QUALITY,
+    POSTER_WIDTH,
 )
 
 from fetchers.alamo import AlamoFetcher
@@ -50,6 +54,13 @@ from zoneinfo import ZoneInfo
 
 
 POSTERS_DIR = DOCS_DIR / "posters"
+
+# Some AMC originals are far bigger than Pillow's default decompression
+# bomb limit. shrink_poster decodes JPEGs at reduced scale, so lift it.
+Image.MAX_IMAGE_PIXELS = None
+
+# A file Pillow can't decode is saved as-is only if it is this small.
+UNDECODABLE_POSTER_MAX_BYTES = 2 * 1024 * 1024
 
 
 class MoviePipeline:
@@ -344,6 +355,92 @@ class MoviePipeline:
 
     # ---------------------------------------------------------
 
+    @staticmethod
+    def shrink_poster(content: bytes) -> bytes | None:
+        """
+        The poster resized to POSTER_WIDTH wide and re-encoded as JPEG,
+        or None if it isn't an image Pillow can read.
+        """
+
+        try:
+            image = Image.open(io.BytesIO(content))
+
+            # JPEGs can be decoded straight at a reduced scale, which is
+            # much faster and lighter on memory for huge originals.
+            image.draft("RGB", (POSTER_WIDTH, POSTER_WIDTH * 3))
+
+            image = image.convert("RGB")
+
+            if image.width > POSTER_WIDTH:
+                height = round(image.height * POSTER_WIDTH / image.width)
+                image = image.resize((POSTER_WIDTH, height), Image.LANCZOS)
+
+            out = io.BytesIO()
+
+            image.save(
+                out,
+                "JPEG",
+                quality=POSTER_JPEG_QUALITY,
+                optimize=True,
+                progressive=True,
+            )
+
+            return out.getvalue()
+
+        except Exception:
+            return None
+
+    # ---------------------------------------------------------
+
+    def shrink_existing_poster(self, path: Path):
+        """
+        Resizes a poster saved before resizing was added. Posters that
+        are already small JPEGs are left alone.
+        """
+
+        try:
+            with Image.open(path) as image:
+                if image.width <= POSTER_WIDTH and image.format == "JPEG":
+                    return
+        except Exception:
+            return
+
+        small = self.shrink_poster(path.read_bytes())
+
+        if small:
+            path.write_bytes(small)
+
+    # ---------------------------------------------------------
+
+    @staticmethod
+    def fetch_poster_bytes(url: str) -> bytes:
+        """
+        Downloads a poster. AMC's Cloudinary host resizes on request, so
+        its posters are asked for at POSTER_WIDTH (some originals are
+        200+ MB); if that fails, the original URL is tried.
+        """
+
+        prefix = "https://amc-theatres-res.cloudinary.com/"
+
+        urls = [url]
+
+        if url.startswith(prefix + "v"):
+            urls.insert(
+                0,
+                f"{prefix}w_{POSTER_WIDTH},c_limit/{url[len(prefix):]}",
+            )
+
+        for attempt, candidate in enumerate(urls):
+            try:
+                response = requests.get(candidate, timeout=60)
+                response.raise_for_status()
+                return response.content
+            except Exception:
+                if attempt == len(urls) - 1:
+                    raise
+
+    # ---------------------------------------------------------
+
     def download_poster(
         self,
         movie: Movie,
@@ -367,12 +464,19 @@ class MoviePipeline:
 
         try:
 
-            response = requests.get(
-                movie.poster,
-                timeout=30,
-            )
+            original = self.fetch_poster_bytes(movie.poster)
 
-            response.raise_for_status()
+            content = self.shrink_poster(original)
+
+            if content is None:
+
+                # Not an image Pillow can read. Keep it only if it's
+                # small, so it can never push the repo over GitHub's
+                # file size limit.
+                if len(original) > UNDECODABLE_POSTER_MAX_BYTES:
+                    raise ValueError("unreadable image, too large to keep")
+
+                content = original
 
             with open(
                 destination,
@@ -380,7 +484,7 @@ class MoviePipeline:
             ) as f:
 
                 f.write(
-                    response.content
+                    content
                 )
 
             #
@@ -420,6 +524,7 @@ class MoviePipeline:
             # If we've already downloaded this poster, skip re-downloading.
             if destination.exists():
                 print(f"[{index}/{total}] {movie.title} - poster exists, skipping")
+                self.shrink_existing_poster(destination)
                 # Ensure movie.poster points to the local path
                 movie.poster = "posters/" + filename
                 continue
