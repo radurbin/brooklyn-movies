@@ -1,3 +1,37 @@
+## 2026-11-01 03:04 PM EST
+
+**Movies removed:**
+- Godzilla vs. Mechagodzilla
+
+**Showtime changes:**
+- Clayface
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T11:30:00 (Standard)
+- Naza
+  - − BAM Rose Cinemas @ 2026-11-01T13:20:00 (Standard)
+- Once Upon a Time in Harlem
+  - − BAM Rose Cinemas @ 2026-11-01T13:45:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T12:15:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T10:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-01T13:00:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T12:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-01T13:00:00 (Standard)
+- Ken Russell’s The Devils
+  - − BAM Rose Cinemas @ 2026-11-01T13:10:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T10:45:00 (Standard)
+- Klara and the Sun
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T11:45:00 (Standard)
+- Tiger Stripes
+  - − BAM Rose Cinemas @ 2026-11-01T14:00:00 (Standard)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T12:30:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T12:00:00 (Open Caption)
+
 ## 2026-11-01 05:59 AM EST
 
 **Movies removed:**
