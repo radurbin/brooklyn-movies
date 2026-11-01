@@ -1,3 +1,56 @@
+## 2026-10-31 08:38 PM EDT
+
+**Movies removed:**
+- Halloween (1978)
+- The Exorcist
+
+**Showtime changes:**
+- Once Upon a Time in Harlem
+  - − BAM Rose Cinemas @ 2026-10-31T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-31T18:50:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T13:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T15:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-31T16:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T17:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T17:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T18:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-31T19:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-31T20:30:00 (Standard)
+- Ken Russell’s The Devils
+  - − BAM Rose Cinemas @ 2026-10-31T18:30:00 (Standard)
+- Clayface
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T18:30:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T18:45:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T14:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T18:45:00 (Standard)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T14:45:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T18:00:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-10-31T16:00:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T15:30:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-10-31T16:10:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T18:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-10-31T18:40:00 (Standard)
+- Naza
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T15:45:00 (Standard)
+- Il demonio
+  - − BAM Rose Cinemas @ 2026-10-31T18:00:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T19:00:00 (Standard)
+- La Bola Negra
+  - + Alamo Drafthouse Brooklyn @ 2026-10-31T22:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T14:15:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T18:00:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-10-31T19:00:00 (Standard)
+
 ## 2026-10-31 03:42 PM EDT
 
 **Showtime changes:**
