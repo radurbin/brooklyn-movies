@@ -1,3 +1,44 @@
+## 2026-11-01 08:12 PM EST
+
+**Showtime changes:**
+- Jennifer’s Body
+  - − BAM Rose Cinemas @ 2026-11-01T18:00:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T15:30:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T17:00:00 (Standard)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T15:45:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T15:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T18:45:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T18:45:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T14:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T18:00:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T18:30:00 (Standard)
+- Ken Russell’s The Devils
+  - − BAM Rose Cinemas @ 2026-11-01T18:30:00 (Standard)
+- You Can See Everything
+  - − BAM Rose Cinemas @ 2026-11-01T16:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T17:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T18:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-01T19:15:00 (Standard)
+- Clayface
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T14:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T18:00:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T18:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-01T18:40:00 (Standard)
+- Once Upon a Time in Harlem
+  - − BAM Rose Cinemas @ 2026-11-01T18:50:00 (Standard)
+- Naza
+  - − Alamo Drafthouse Brooklyn @ 2026-11-01T15:45:00 (Standard)
+
 ## 2026-11-01 04:38 PM EST
 
 **Showtime changes:**
