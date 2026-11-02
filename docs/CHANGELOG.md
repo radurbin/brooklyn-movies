@@ -1,3 +1,121 @@
+## 2026-11-02 06:18 PM EST
+
+**Movies added:**
+- Fatherland
+
+**Movies removed:**
+- Fatherland
+- Tiger Stripes
+
+**Showtime changes:**
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-02T12:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-02T15:15:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-11-02T10:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-02T10:45:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-02T14:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-02T14:45:00 (35mm)
+- Clayface
+  - − Alamo Drafthouse Brooklyn @ 2026-11-02T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-02T14:30:00 (Standard)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-11-02T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-02T15:45:00 (Standard)
+- I Play Rocky
+  - + Alamo Drafthouse Brooklyn @ 2026-11-05T15:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-05T18:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-05T18:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-05T22:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-06T10:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-06T11:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-06T14:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-06T18:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-06T21:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-07T19:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-08T11:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-08T14:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-08T18:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-09T14:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-09T18:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-09T22:35:00 (Standard)
+- Naza
+  - − Alamo Drafthouse Brooklyn @ 2026-11-02T15:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-02T16:15:00 (Standard)
+- You Can See Everything
+  - + BAM Rose Cinemas @ 2026-11-06T13:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-06T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-06T19:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-07T12:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-07T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-07T19:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-08T13:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-08T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-08T19:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-09T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-09T19:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-10T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-10T19:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-11T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-11T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-02T10:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-02T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-02T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-02T13:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-02T15:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-02T16:00:00 (Standard)
+- Klara and the Sun
+  - − Alamo Drafthouse Brooklyn @ 2026-11-02T11:45:00 (Standard)
+- The Only Living Pickpocket in New York
+  - + BAM Rose Cinemas @ 2026-11-06T13:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-06T16:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-06T18:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-06T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-07T16:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-07T18:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-08T13:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-08T16:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-08T18:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-08T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-09T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-09T18:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-09T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-10T04:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-10T21:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-11T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-11T18:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-11T21:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-02T10:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-02T14:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-02T16:10:00 (Standard)
+- Ken Russell’s The Devils
+  - + BAM Rose Cinemas @ 2026-11-06T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-06T21:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-08T18:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-08T21:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-09T21:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-10T16:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-10T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-11T21:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-02T16:00:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-02T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-02T15:30:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-11-02T15:15:00 (Standard)
+- Once Upon a Time in Harlem
+  - + BAM Rose Cinemas @ 2026-11-06T13:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-06T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-07T13:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-08T13:10:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-08T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-09T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-09T18:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-10T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-11T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-11T18:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-02T16:30:00 (Standard)
+
 ## 2026-11-02 06:57 AM EST
 
 **Showtime changes:**
