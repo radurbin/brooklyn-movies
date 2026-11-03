@@ -1,3 +1,37 @@
+## 2026-11-03 04:27 PM EST
+
+**Showtime changes:**
+- The Only Living Pickpocket in New York
+  - + BAM Rose Cinemas @ 2026-11-10T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-03T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-10T04:00:00 (Standard)
+- Naza
+  - − BAM Rose Cinemas @ 2026-11-03T16:15:00 (Standard)
+- You Can See Everything
+  - − BAM Rose Cinemas @ 2026-11-03T16:00:00 (Standard)
+- Ken Russell’s The Devils
+  - − BAM Rose Cinemas @ 2026-11-03T16:00:00 (Standard)
+- Dune: Part Three
+  - + BAM Rose Cinemas @ 2026-12-17T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-17T19:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-18T13:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-18T16:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-18T19:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-19T13:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-19T16:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-19T19:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-20T13:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-20T16:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-20T19:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-21T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-21T19:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-22T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-22T19:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-23T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-23T19:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-24T16:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-24T19:15:00 (Standard)
+
 ## 2026-11-03 06:33 AM EST
 
 **Movies added:**
