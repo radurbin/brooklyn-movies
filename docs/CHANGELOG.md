@@ -1,3 +1,48 @@
+## 2026-11-04 06:49 AM EST
+
+**Movies removed:**
+- Jennifer’s Body
+- Peeping Tom (1960)
+- Wild at Heart
+
+**Showtime changes:**
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T22:00:00 (Open Caption)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T22:15:00 (Standard)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T21:30:00 (Standard)
+- Once Upon a Time in Harlem
+  - − BAM Rose Cinemas @ 2026-11-03T21:10:00 (Standard)
+- Whalefall
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T23:00:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T19:15:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T16:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T22:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T22:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T22:30:00 (Standard)
+- The History of Concrete
+  - − BAM Rose Cinemas @ 2026-11-03T21:00:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T19:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-03T21:20:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T22:15:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T18:30:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T21:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T22:45:00 (35mm)
+- Clayface
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T21:00:00 (Standard)
+
 ## 2026-11-03 08:50 PM EST
 
 **Movies removed:**
