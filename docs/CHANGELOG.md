@@ -1,3 +1,51 @@
+## 2026-11-03 08:50 PM EST
+
+**Movies removed:**
+- I Am Not a Witch
+- Klara and the Sun
+- Requiem
+
+**Showtime changes:**
+- Once Upon a Time in Harlem
+  - − BAM Rose Cinemas @ 2026-11-03T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-03T18:50:00 (Standard)
+- Street Fighter (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T12:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T15:15:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T10:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T10:45:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T14:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T14:45:00 (35mm)
+- Sense and Sensibility (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T14:30:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-03T18:40:00 (Standard)
+- Naza
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T15:45:00 (Standard)
+- Paper Tiger
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T20:30:00 (Standard)
+- Clayface
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T11:45:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T14:45:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T12:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T14:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-03T18:50:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-03T19:45:00 (Standard)
+- Fjord
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T15:30:00 (Standard)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T12:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-03T15:45:00 (Standard)
+- Ken Russell’s The Devils
+  - − BAM Rose Cinemas @ 2026-11-03T18:30:00 (Standard)
+
 ## 2026-11-03 04:27 PM EST
 
 **Showtime changes:**
