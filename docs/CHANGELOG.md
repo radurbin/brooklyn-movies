@@ -1,3 +1,21 @@
+## 2026-11-04 04:41 PM EST
+
+**Movies added:**
+- Nirvanna The Band The Show The Movie
+
+**Movies removed:**
+- Naza
+
+**Showtime changes:**
+- You Can See Everything
+  - − BAM Rose Cinemas @ 2026-11-04T16:00:00 (Standard)
+- Once Upon a Time in Harlem
+  - − BAM Rose Cinemas @ 2026-11-04T16:30:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-11-04T16:10:00 (Standard)
+- Ken Russell’s The Devils
+  - − BAM Rose Cinemas @ 2026-11-04T16:00:00 (Standard)
+
 ## 2026-11-04 06:49 AM EST
 
 **Movies removed:**
