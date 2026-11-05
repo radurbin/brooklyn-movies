@@ -1,3 +1,19 @@
+## 2026-11-04 08:58 PM EST
+
+**Movies removed:**
+- Alucarda
+
+**Showtime changes:**
+- Once Upon a Time in Harlem
+  - − BAM Rose Cinemas @ 2026-11-04T18:50:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-11-04T18:40:00 (Standard)
+- You Can See Everything
+  - − BAM Rose Cinemas @ 2026-11-04T18:50:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-04T19:45:00 (Standard)
+- Ken Russell’s The Devils
+  - − BAM Rose Cinemas @ 2026-11-04T18:30:00 (Standard)
+
 ## 2026-11-04 04:41 PM EST
 
 **Movies added:**
