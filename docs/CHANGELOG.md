@@ -1,3 +1,15 @@
+## 2026-11-05 04:46 PM EST
+
+**Showtime changes:**
+- You Can See Everything
+  - − BAM Rose Cinemas @ 2026-11-05T16:00:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-11-05T16:10:00 (Standard)
+- Wild Horse Nine
+  - − BAM Rose Cinemas @ 2026-11-05T16:15:00 (Standard)
+- Once Upon a Time in Harlem
+  - − BAM Rose Cinemas @ 2026-11-05T16:30:00 (Standard)
+
 ## 2026-11-05 06:47 AM EST
 
 **Movies removed:**
