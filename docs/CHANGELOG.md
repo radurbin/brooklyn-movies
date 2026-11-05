@@ -1,3 +1,15 @@
+## 2026-11-05 06:47 AM EST
+
+**Movies removed:**
+- The History of Concrete
+- The Rites of May (aka Itim)
+
+**Showtime changes:**
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-11-04T21:20:00 (Standard)
+- Once Upon a Time in Harlem
+  - − BAM Rose Cinemas @ 2026-11-04T21:10:00 (Standard)
+
 ## 2026-11-04 08:58 PM EST
 
 **Movies removed:**
