@@ -1,3 +1,51 @@
+## 2026-11-06 06:45 AM EST
+
+**Movies added:**
+- Red Rocket
+
+**Movies removed:**
+- Noroi: The Curse
+
+**Showtime changes:**
+- The Only Living Pickpocket in New York
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T19:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-05T21:20:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T23:00:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T22:00:00 (Standard)
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T19:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T21:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T22:45:00 (Standard)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T18:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-05T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T21:45:00 (Standard)
+- The Cat in the Hat (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T21:30:00 (Standard)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T16:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T22:45:00 (Standard)
+- Godzilla Minus Zero
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T22:30:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T22:15:00 (Standard)
+- Fatherland
+  - − BAM Rose Cinemas @ 2026-11-05T21:15:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T19:15:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-05T22:00:00 (Standard)
+- Once Upon a Time in Harlem
+  - − BAM Rose Cinemas @ 2026-11-05T21:10:00 (Standard)
+
 ## 2026-11-05 08:59 PM EST
 
 **Movies added:**
