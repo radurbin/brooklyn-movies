@@ -1,3 +1,40 @@
+## 2026-11-06 04:13 PM EST
+
+**Showtime changes:**
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T11:30:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T10:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T11:00:00 (Standard)
+- Godzilla Minus Zero
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T11:15:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T10:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-06T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-06T16:00:00 (Standard)
+- Fatherland
+  - − BAM Rose Cinemas @ 2026-11-06T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-06T15:00:00 (Standard)
+- The Cat in the Hat (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T11:30:00 (Standard)
+- Once Upon a Time in Harlem
+  - − BAM Rose Cinemas @ 2026-11-06T13:10:00 (Standard)
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T09:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T12:00:00 (Standard)
+- Compulsion
+  - − BAM Rose Cinemas @ 2026-11-06T16:00:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T09:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-06T13:30:00 (Standard)
+- The Boy with Green Hair
+  - − BAM Rose Cinemas @ 2026-11-06T14:00:00 (Standard)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T11:45:00 (Standard)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T09:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-06T13:20:00 (Standard)
+
 ## 2026-11-06 06:45 AM EST
 
 **Movies added:**
