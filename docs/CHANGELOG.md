@@ -1,3 +1,59 @@
+## 2026-11-06 08:31 PM EST
+
+**Movies added:**
+- Fatherland
+- Focker In-Law
+
+**Movies removed:**
+- Fatherland
+- Focker-In-Law
+
+**Showtime changes:**
+- The Cat in the Hat (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T15:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T18:00:00 (Standard)
+- I Play Rocky
+  - + Alamo Drafthouse Brooklyn @ 2026-11-06T20:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T14:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T16:00:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T18:00:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T14:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-06T19:45:00 (Standard)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T13:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T16:45:00 (Standard)
+- Once Upon a Time in Harlem
+  - − BAM Rose Cinemas @ 2026-11-06T19:00:00 (Standard)
+- Godzilla Minus Zero
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T14:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T18:15:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T14:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T18:15:00 (Standard)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-06T16:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-06T18:50:00 (Standard)
+- Clayface
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T15:15:00 (Standard)
+- Blue Velvet
+  - − BAM Rose Cinemas @ 2026-11-06T18:45:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T12:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T15:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-06T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-06T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-08T18:45:00 (Standard)
+- Ken Russell’s The Devils
+  - − BAM Rose Cinemas @ 2026-11-06T16:30:00 (Standard)
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T15:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T18:15:00 (Standard)
+
 ## 2026-11-06 04:13 PM EST
 
 **Showtime changes:**

@@ -1,173 +1,5 @@
 [
   {
-    "date": "2026-10-11 03:52 PM EDT",
-    "movies_added": [
-      "Dolly Double Feature: 9 to 5"
-    ],
-    "movies_removed": [
-      "9 to 5"
-    ],
-    "showtime_changes": [
-      {
-        "title": "Practical Magic 2",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-11T11:00:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Other Mommy",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-11T13:15:00",
-            "format": "HDR by Barco"
-          }
-        ]
-      },
-      {
-        "title": "Forgotten Island",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-11T11:00:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Primetime",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-11T12:15:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-10-11T13:45:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "The Social Reckoning",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-11T12:00:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "The History of Concrete",
-        "added": [],
-        "removed": [
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-10-11T13:30:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Verity",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-11T11:45:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Misty Green",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-11T12:30:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Resident Evil (2026)",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-11T13:00:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-10-11T13:40:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Your Mother Your Mother Your Mother",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-11T12:45:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Naza",
-        "added": [],
-        "removed": [
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-10-11T13:00:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-10-11T15:00:00",
-            "format": "Standard"
-          }
-        ]
-      },
-      {
-        "title": "Digger",
-        "added": [],
-        "removed": [
-          {
-            "theater": "Alamo Drafthouse Brooklyn",
-            "datetime": "2026-10-11T11:15:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-10-11T13:00:00",
-            "format": "Standard"
-          },
-          {
-            "theater": "BAM Rose Cinemas",
-            "datetime": "2026-10-11T15:40:00",
-            "format": "Standard"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "date": "2026-10-11 08:55 PM EDT",
     "movies_added": [],
     "movies_removed": [],
@@ -21131,6 +20963,253 @@
           {
             "theater": "BAM Rose Cinemas",
             "datetime": "2026-11-06T13:20:00",
+            "format": "Standard"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "date": "2026-11-06 08:31 PM EST",
+    "movies_added": [
+      "Fatherland",
+      "Focker In-Law"
+    ],
+    "movies_removed": [
+      "Fatherland",
+      "Focker-In-Law"
+    ],
+    "showtime_changes": [
+      {
+        "title": "The Cat in the Hat (2026)",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-11-06T15:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-11-06T18:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "I Play Rocky",
+        "added": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-11-06T20:30:00",
+            "format": "Standard"
+          }
+        ],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-11-06T14:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-11-06T16:00:00",
+            "format": "35mm"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-11-06T18:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "You Can See Everything",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-11-06T14:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-11-06T19:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Wicker",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-11-06T13:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-11-06T16:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Once Upon a Time in Harlem",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-11-06T19:00:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Godzilla Minus Zero",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-11-06T14:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-11-06T18:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "La Bola Negra",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-11-06T14:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-11-06T18:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Wild Horse Nine",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-11-06T13:00:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-11-06T16:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-11-06T16:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-11-06T18:50:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Clayface",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-11-06T15:15:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Blue Velvet",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-11-06T18:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "The Only Living Pickpocket in New York",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-11-06T12:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-11-06T15:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-11-06T16:20:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-11-06T18:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-11-08T18:45:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Ken Russell’s The Devils",
+        "added": [],
+        "removed": [
+          {
+            "theater": "BAM Rose Cinemas",
+            "datetime": "2026-11-06T16:30:00",
+            "format": "Standard"
+          }
+        ]
+      },
+      {
+        "title": "Club Kid",
+        "added": [],
+        "removed": [
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-11-06T12:30:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-11-06T15:15:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-11-06T15:45:00",
+            "format": "Standard"
+          },
+          {
+            "theater": "Alamo Drafthouse Brooklyn",
+            "datetime": "2026-11-06T18:15:00",
             "format": "Standard"
           }
         ]
