@@ -1,3 +1,56 @@
+## 2026-11-07 02:48 PM EST
+
+**Movies removed:**
+- Playback: City of God (Cidade de Deus)
+- Playback: The Battle of Algiers
+- Playback: The King of Comedy
+
+**Showtime changes:**
+- Godzilla Minus Zero
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T21:45:00 (Standard)
+- Once Upon a Time in Harlem
+  - − BAM Rose Cinemas @ 2026-11-07T13:10:00 (Standard)
+- The Cat in the Hat (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T21:00:00 (Standard)
+- Ken Russell’s The Devils
+  - − BAM Rose Cinemas @ 2026-11-06T21:20:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T21:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-07T12:15:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T22:15:00 (Standard)
+- Backtrack (Director’s Cut of “Catchfire”)
+  - − BAM Rose Cinemas @ 2026-11-06T21:15:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T19:15:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T20:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T21:15:00 (Standard)
+- Fatherland
+  - − BAM Rose Cinemas @ 2026-11-06T21:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-07T13:00:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T18:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-06T21:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T22:00:00 (Standard)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T19:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-06T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T22:45:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-11-07T13:20:00 (Standard)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T22:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T09:30:00 (Standard)
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T21:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T22:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T09:15:00 (Standard)
+- Clayface
+  - − Alamo Drafthouse Brooklyn @ 2026-11-06T22:30:00 (Standard)
+
 ## 2026-11-06 08:31 PM EST
 
 **Movies added:**
