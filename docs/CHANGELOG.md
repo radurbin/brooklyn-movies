@@ -1,3 +1,51 @@
+## 2026-11-07 08:01 PM EST
+
+**Movies removed:**
+- Playback: Divorce Italian Style
+- Playback: Love & Basketball
+- Playback: Salaam Bombay!
+- Playback: Soul to Soul
+
+**Showtime changes:**
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T10:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T14:00:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T10:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T14:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-07T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-07T19:45:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T09:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T12:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-07T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-07T18:30:00 (Standard)
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T12:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T12:30:00 (Standard)
+- Clayface
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T09:45:00 (Standard)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T10:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-07T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-07T18:50:00 (Standard)
+- The Cat in the Hat (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T11:45:00 (Standard)
+- Fatherland
+  - − BAM Rose Cinemas @ 2026-11-07T15:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-07T17:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-07T19:00:00 (Standard)
+- Godzilla Minus Zero
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T14:30:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T10:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T13:30:00 (Standard)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-11-07T12:45:00 (Standard)
+
 ## 2026-11-07 02:48 PM EST
 
 **Movies removed:**
