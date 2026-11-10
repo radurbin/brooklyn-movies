@@ -169,3 +169,20 @@ def get_tms_key() -> str:
 # GitHub's file size limit and fails the workflow's push.
 POSTER_WIDTH = 440
 POSTER_JPEG_QUALITY = 82
+
+# Which remote URL each file in docs/posters/ was downloaded from, so a
+# poster is re-downloaded when the theater publishes new artwork. Lives
+# in docs/ because that is the folder the workflow commits; it can't
+# live in docs/posters/ itself, where unreferenced files are deleted
+# after every run.
+POSTER_SOURCES_JSON = DOCS_DIR / "poster_sources.json"
+
+# Fingerprints of "poster coming soon" placeholder images, which are
+# treated as no poster at all (see MoviePipeline.is_placeholder_poster,
+# which is also how to compute one for a new placeholder design).
+# Real posters measured 59+ bits away from this one out of 256.
+PLACEHOLDER_POSTER_FINGERPRINTS = [
+    # Fathom Entertainment, orange border on dark grey
+    "7c3e83c3814180018001800083c083c087e387e187e180018000000080017ffe",
+]
+PLACEHOLDER_POSTER_MAX_DISTANCE = 20

@@ -39,6 +39,9 @@ from config import (
     DOCS_DIR,
     MOVIES_JSON,
     POSTER_JPEG_QUALITY,
+    PLACEHOLDER_POSTER_FINGERPRINTS,
+    PLACEHOLDER_POSTER_MAX_DISTANCE,
+    POSTER_SOURCES_JSON,
     POSTER_WIDTH,
 )
 
@@ -356,6 +359,42 @@ class MoviePipeline:
     # ---------------------------------------------------------
 
     @staticmethod
+    def is_placeholder_poster(content: bytes) -> bool:
+        """
+        True if the image is a known "poster coming soon" placeholder.
+
+        Compared by a 16x16 average-brightness fingerprint rather than
+        by exact bytes, because the same placeholder is served
+        re-encoded at slightly different sizes.
+        """
+
+        try:
+            image = (
+                Image.open(io.BytesIO(content))
+                .convert("L")
+                .resize((16, 16), Image.LANCZOS)
+            )
+        except Exception:
+            return False
+
+        pixels = image.tobytes()
+        average = sum(pixels) / len(pixels)
+
+        fingerprint = sum(
+            1 << i
+            for i, pixel in enumerate(pixels)
+            if pixel > average
+        )
+
+        return any(
+            bin(fingerprint ^ int(known, 16)).count("1")
+            <= PLACEHOLDER_POSTER_MAX_DISTANCE
+            for known in PLACEHOLDER_POSTER_FINGERPRINTS
+        )
+
+    # ---------------------------------------------------------
+
+    @staticmethod
     def shrink_poster(content: bytes) -> bytes | None:
         """
         The poster resized to POSTER_WIDTH wide and re-encoded as JPEG,
@@ -444,15 +483,14 @@ class MoviePipeline:
     def download_poster(
         self,
         movie: Movie,
+        sources: dict,
     ):
 
         """
-        Downloads one poster.
+        Makes sure one movie's local poster file matches its current
+        remote artwork, then points movie.poster at the local file (or
+        at nothing, if there is no usable artwork).
         """
-
-        if not movie.poster:
-
-            return
 
         filename = self.poster_filename(
             movie
@@ -462,46 +500,91 @@ class MoviePipeline:
             self.poster_dir / filename
         )
 
-        try:
+        url = movie.poster
 
-            original = self.fetch_poster_bytes(movie.poster)
+        movie.poster = None
 
-            content = self.shrink_poster(original)
+        if url:
 
-            if content is None:
+            # Already have exactly this artwork. Comparing the source
+            # URL is what lets a later upload replace an earlier one:
+            # special events are often listed weeks ahead with
+            # placeholder art, and the real poster comes under a new URL.
+            if sources.get(filename) == url and destination.exists():
 
-                # Not an image Pillow can read. Keep it only if it's
-                # small, so it can never push the repo over GitHub's
-                # file size limit.
-                if len(original) > UNDECODABLE_POSTER_MAX_BYTES:
-                    raise ValueError("unreadable image, too large to keep")
+                self.shrink_existing_poster(destination)
 
-                content = original
+                movie.poster = "posters/" + filename
 
-            with open(
-                destination,
-                "wb",
-            ) as f:
+                return "kept"
 
-                f.write(
-                    content
+            content = None
+
+            try:
+
+                original = self.fetch_poster_bytes(url)
+
+                content = self.shrink_poster(original)
+
+                if content is None:
+
+                    # Not an image Pillow can read. Keep it only if it's
+                    # small, so it can never push the repo over GitHub's
+                    # file size limit.
+                    if len(original) > UNDECODABLE_POSTER_MAX_BYTES:
+                        raise ValueError("unreadable image, too large to keep")
+
+                    content = original
+
+            except Exception as ex:
+
+                print(
+                    "Poster download failed:",
+                    movie.title,
+                    ex,
                 )
 
-            #
-            # Replace remote URL with local path.
-            #
+                content = None
 
-            movie.poster = (
-                "posters/" + filename
-            )
+            if content is not None and self.is_placeholder_poster(content):
 
-        except Exception as ex:
+                print("  placeholder artwork, skipping:", url)
 
-            print(
-                "Poster download failed:",
-                movie.title,
-                ex,
-            )
+                content = None
+
+            if content is not None:
+
+                with open(
+                    destination,
+                    "wb",
+                ) as f:
+
+                    f.write(
+                        content
+                    )
+
+                sources[filename] = url
+
+                movie.poster = "posters/" + filename
+
+                return "downloaded"
+
+        # Nothing usable right now. Keep showing a poster we already
+        # have unless it is itself a placeholder -- a failed download
+        # shouldn't blank out good artwork.
+        if destination.exists() and not self.is_placeholder_poster(
+            destination.read_bytes()
+        ):
+
+            self.shrink_existing_poster(destination)
+
+            movie.poster = "posters/" + filename
+
+            return "kept"
+
+        sources.pop(filename, None)
+
+        return "none"
 
     # ---------------------------------------------------------
 
@@ -513,25 +596,50 @@ class MoviePipeline:
         print("Downloading Posters")
         print("=" * 60)
 
+        # filename -> the remote URL that file was downloaded from
+        sources = {}
+
+        if POSTER_SOURCES_JSON.exists():
+            try:
+                with open(POSTER_SOURCES_JSON, "r", encoding="utf-8") as f:
+                    sources = json.load(f)
+            except Exception as ex:
+                print("Failed to read poster sources:", ex)
+
         total = len(self.movies)
+
+        counts = Counter()
 
         for index, movie in enumerate(self.movies, start=1):
 
-            filename = self.poster_filename(movie)
+            result = self.download_poster(movie, sources)
 
-            destination = self.poster_dir / filename
+            counts[result] += 1
 
-            # If we've already downloaded this poster, skip re-downloading.
-            if destination.exists():
-                print(f"[{index}/{total}] {movie.title} - poster exists, skipping")
-                self.shrink_existing_poster(destination)
-                # Ensure movie.poster points to the local path
-                movie.poster = "posters/" + filename
-                continue
+            if result != "kept":
+                print(f"[{index}/{total}] {movie.title} - {result}")
 
-            print(f"[{index}/{total}] {movie.title}")
+        print(
+            f"Posters: {counts['downloaded']} downloaded, "
+            f"{counts['kept']} unchanged, {counts['none']} without artwork."
+        )
 
-            self.download_poster(movie)
+        # Forget files that no movie uses any more (the files themselves
+        # are removed by remove_stale_posters).
+        in_use = {
+            movie.poster.split("/", 1)[1]
+            for movie in self.movies
+            if movie.poster
+        }
+
+        sources = {
+            name: url
+            for name, url in sorted(sources.items())
+            if name in in_use
+        }
+
+        with open(POSTER_SOURCES_JSON, "w", encoding="utf-8") as f:
+            json.dump(sources, f, indent=2, ensure_ascii=False)
 
     # ---------------------------------------------------------
 
