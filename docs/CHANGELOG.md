@@ -1,3 +1,65 @@
+## 2026-11-10 10:39 AM EST
+
+**Showtime changes:**
+- Club Kid
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T11:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T12:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T15:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T15:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T19:00:00 (Standard)
+- I Play Rocky
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T11:30:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T14:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T18:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T22:15:00 (Standard)
+- Wicker
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T18:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T21:15:00 (Standard)
+- Victorian Psycho
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T13:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T16:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T19:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T22:30:00 (Standard)
+- The Cat in the Hat (2026)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T12:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T15:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T19:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T22:30:00 (Standard)
+- Godzilla Minus Zero
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T11:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T15:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T18:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T22:00:00 (Standard)
+- Paper Tiger
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T11:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T14:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T18:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T21:30:00 (Standard)
+- Wild Horse Nine
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T12:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T15:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T18:45:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T22:00:00 (Standard)
+- How to Rob a Bank
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T12:45:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T16:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T19:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T22:15:00 (HDR by Barco)
+- Ebenezer
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T12:00:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T15:15:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T18:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T21:45:00 (Standard)
+- The Only Living Pickpocket in New York
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T11:15:00 (Standard)
+- La Bola Negra
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T14:00:00 (Standard)
+- You Can See Everything
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T11:30:00 (Standard)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T14:15:00 (Open Caption)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-17T21:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T10:15:00 (Standard)
+
 ## 2026-11-10 07:01 AM EST
 
 **Movies added:**
