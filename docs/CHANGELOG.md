@@ -1,3 +1,88 @@
+## 2026-11-10 08:40 PM EST
+
+**Movies added:**
+- It May Be That Beauty Has Strengthened Our Resolve - Masao Adachi
+- Jacquot de Nantes
+- Minotaur
+
+**Movies removed:**
+- It May Be That Beauty Has Strengthened Our Resolve - Masao Adachi
+- Jacquot de Nantes
+- Life & Debt: 25th Anniversary
+
+**Showtime changes:**
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T14:45:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T14:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-10T19:45:00 (Standard)
+- Godzilla Minus Zero
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T15:15:00 (Standard)
+- Elsinore
+  - + BAM Rose Cinemas @ 2026-11-25T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-25T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-25T21:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-26T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-26T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-26T21:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-27T13:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-27T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-27T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-27T21:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-28T13:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-28T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-28T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-28T21:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-29T13:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-29T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-29T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-29T21:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-30T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-30T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-30T21:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-01T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-01T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-01T21:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-02T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-02T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-02T21:40:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-03T16:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-03T19:00:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-03T21:40:00 (Standard)
+- Air Force One
+  - − BAM Rose Cinemas @ 2026-11-10T18:45:00 (Standard)
+- Once Upon a Time in Harlem
+  - − BAM Rose Cinemas @ 2026-11-10T18:50:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T10:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T14:45:00 (Open Caption)
+- Fatherland
+  - − BAM Rose Cinemas @ 2026-11-10T16:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-10T19:00:00 (Standard)
+- Point Blank (1967)
+  - + Alamo Drafthouse Brooklyn @ 2026-11-23T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-23T18:50:00 (Standard)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T15:30:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-11-10T18:50:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T12:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T15:30:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T10:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T13:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T16:30:00 (Standard)
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T15:45:00 (Standard)
+- The Cat in the Hat (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T15:00:00 (Standard)
+
 ## 2026-11-10 04:38 PM EST
 
 **Showtime changes:**
