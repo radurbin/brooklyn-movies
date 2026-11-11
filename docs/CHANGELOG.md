@@ -1,3 +1,23 @@
+## 2026-11-11 05:26 PM EST
+
+**Movies added:**
+- Theater of the Matters Presents: Gassan + Woman of Tokyo
+
+**Movies removed:**
+- Air Force One
+
+**Showtime changes:**
+- You Can See Everything
+  - − BAM Rose Cinemas @ 2026-11-11T16:00:00 (Standard)
+- Fatherland
+  - − BAM Rose Cinemas @ 2026-11-11T16:45:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-11-11T16:00:00 (Standard)
+- Wild Horse Nine
+  - − BAM Rose Cinemas @ 2026-11-11T16:15:00 (Standard)
+- Once Upon a Time in Harlem
+  - − BAM Rose Cinemas @ 2026-11-11T16:30:00 (Standard)
+
 ## 2026-11-11 06:39 AM EST
 
 **Movies removed:**
