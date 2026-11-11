@@ -1,3 +1,47 @@
+## 2026-11-11 06:39 AM EST
+
+**Movies removed:**
+- Compulsion
+- Henry: Portrait of a Serial Killer
+
+**Showtime changes:**
+- Godzilla Minus Zero
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T22:30:00 (Standard)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T19:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-10T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T22:15:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T18:30:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T19:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T22:45:00 (Standard)
+- Clayface
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T18:45:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T16:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T21:00:00 (Standard)
+- Ken Russell’s The Devils
+  - − BAM Rose Cinemas @ 2026-11-10T21:30:00 (Standard)
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T22:00:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T21:45:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T19:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-10T21:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T22:15:00 (Standard)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T21:30:00 (Standard)
+- Fatherland
+  - − BAM Rose Cinemas @ 2026-11-10T21:15:00 (Standard)
+- The Cat in the Hat (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-10T21:20:00 (Standard)
+
 ## 2026-11-10 08:40 PM EST
 
 **Movies added:**
