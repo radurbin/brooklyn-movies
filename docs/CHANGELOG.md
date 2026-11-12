@@ -1,3 +1,19 @@
+## 2026-11-12 05:01 PM EST
+
+**Movies added:**
+- Violent Night 2
+
+**Movies removed:**
+- To Live and Die in L.A.
+
+**Showtime changes:**
+- Club Kid
+  - − BAM Rose Cinemas @ 2026-11-12T16:10:00 (Standard)
+- Wild Horse Nine
+  - − BAM Rose Cinemas @ 2026-11-12T16:15:00 (Standard)
+- You Can See Everything
+  - − BAM Rose Cinemas @ 2026-11-12T16:00:00 (Standard)
+
 ## 2026-11-12 07:05 AM EST
 
 **Movies added:**
