@@ -1,3 +1,45 @@
+## 2026-11-13 06:48 AM EST
+
+**Movies added:**
+- Ebenezer
+
+**Movies removed:**
+- Ebenezer
+
+**Showtime changes:**
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T23:00:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T22:00:00 (Standard)
+- The Cat in the Hat (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T21:15:00 (Standard)
+- Paper Tiger
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T18:15:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T21:00:00 (Standard)
+- Godzilla Minus Zero
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T22:30:00 (Standard)
+- Victorian Psycho
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T16:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T22:45:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T22:15:00 (Standard)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T22:00:00 (Standard)
+- How to Rob a Bank
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T22:15:00 (HDR by Barco)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T19:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-12T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T22:30:00 (Standard)
+
 ## 2026-11-12 09:31 PM EST
 
 **Movies added:**
