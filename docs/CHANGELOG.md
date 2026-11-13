@@ -1,3 +1,54 @@
+## 2026-11-12 09:31 PM EST
+
+**Movies added:**
+- Planes, Trains and Automobiles
+
+**Movies removed:**
+- BAM x Alfreda’s Cinema,  ARTNOIR co-present Alice Coltrane’s Eternity’s Pillar
+- Paris, Texas
+- Planes, Trains & Automobiles
+- Women on the Verge of a Nervous Breakdown
+
+**Showtime changes:**
+- How to Rob a Bank
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T16:00:00 (Standard)
+- Ebenezer
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T15:15:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T14:30:00 (Standard)
+- Paper Tiger
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T14:45:00 (Standard)
+- The Cat in the Hat (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T15:00:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T11:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-12T19:00:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T12:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T14:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-12T19:45:00 (Standard)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T12:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T15:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-12T18:45:00 (Standard)
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T12:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T15:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-12T18:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-12T21:20:00 (Standard)
+- Godzilla Minus Zero
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T13:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T15:00:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T15:15:00 (Standard)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-11-12T12:00:00 (Standard)
+
 ## 2026-11-12 05:01 PM EST
 
 **Movies added:**
