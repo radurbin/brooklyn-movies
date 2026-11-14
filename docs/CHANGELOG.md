@@ -1,3 +1,48 @@
+## 2026-11-14 06:09 AM EST
+
+**Movies removed:**
+- Mystery Voyage
+
+**Showtime changes:**
+- How to Rob a Bank
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T22:15:00 (HDR by Barco)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T22:30:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T17:20:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T21:30:00 (Standard)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T21:15:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T17:15:00 (Standard)
+- Victorian Psycho
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T22:00:00 (Standard)
+- Ebenezer
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T21:45:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-11-13T21:15:00 (Standard)
+- Paper Tiger
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T18:45:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T21:00:00 (Standard)
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T19:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-13T21:20:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T21:45:00 (Standard)
+- Godzilla Minus Zero
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T21:30:00 (Standard)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T19:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-13T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T22:45:00 (Open Caption)
+- Jacquot de Nantes
+  - − BAM Rose Cinemas @ 2026-11-13T21:20:00 (Standard)
+
 ## 2026-11-13 08:57 PM EST
 
 **Movies added:**
