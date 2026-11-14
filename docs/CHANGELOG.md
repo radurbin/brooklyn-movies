@@ -1,3 +1,20 @@
+## 2026-11-14 03:18 PM EST
+
+**Showtime changes:**
+- Club Kid
+  - − BAM Rose Cinemas @ 2026-11-14T13:10:00 (Standard)
+- Fatherland
+  - − BAM Rose Cinemas @ 2026-11-14T15:00:00 (Standard)
+- You Can See Everything
+  - − BAM Rose Cinemas @ 2026-11-14T12:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-14T13:00:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-11-14T13:00:00 (Standard)
+- On Straub-Huillet
+  - − BAM Rose Cinemas @ 2026-11-14T13:30:00 (Standard)
+- Wild Horse Nine
+  - − BAM Rose Cinemas @ 2026-11-14T13:30:00 (Standard)
+
 ## 2026-11-14 06:09 AM EST
 
 **Movies removed:**
