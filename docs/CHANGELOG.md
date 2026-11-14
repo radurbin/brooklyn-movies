@@ -1,3 +1,58 @@
+## 2026-11-13 08:57 PM EST
+
+**Movies added:**
+- Ebenezer
+- The Host: 20th Anniversary
+
+**Movies removed:**
+- All About My Mother
+- Ebenezer
+
+**Showtime changes:**
+- The Cat in the Hat (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T14:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T22:15:00 (Standard)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-13T18:45:00 (Standard)
+- Paper Tiger
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T14:45:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T12:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-13T18:50:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-13T19:30:00 (Standard)
+- Victorian Psycho
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T14:45:00 (Standard)
+- Crunchyroll Anime Nights Sneak Peek (12/14/2026)
+  - − BAM Rose Cinemas @ 2026-11-13T17:00:00 (Standard)
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T12:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T15:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-13T18:40:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T10:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-13T17:00:00 (Standard)
+- Burden of Dreams
+  - − BAM Rose Cinemas @ 2026-11-13T18:45:00 (Standard)
+- Godzilla Minus Zero
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T14:30:00 (Standard)
+- Fatherland
+  - − BAM Rose Cinemas @ 2026-11-13T19:00:00 (Standard)
+- How to Rob a Bank
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T12:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T16:00:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T13:15:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T11:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-13T15:15:00 (Standard)
+
 ## 2026-11-13 04:47 PM EST
 
 **Showtime changes:**
