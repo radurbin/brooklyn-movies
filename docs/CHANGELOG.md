@@ -1,3 +1,39 @@
+## 2026-11-15 03:44 PM EST
+
+**Showtime changes:**
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T09:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-15T13:10:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T10:45:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-11-15T13:00:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T11:00:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-11-15T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-15T15:00:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T10:30:00 (Standard)
+- Ebenezer
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T09:15:00 (Standard)
+- Victorian Psycho
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T10:15:00 (Standard)
+- How to Rob a Bank
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T09:30:00 (Standard)
+- Fatherland
+  - − BAM Rose Cinemas @ 2026-11-15T15:00:00 (Standard)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T09:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-15T13:30:00 (Standard)
+- The Cat in the Hat (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T09:15:00 (Standard)
+- Paper Tiger
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T10:00:00 (Standard)
+- Making Do the Right Thing + Parlons grand-mère
+  - − BAM Rose Cinemas @ 2026-11-15T13:30:00 (Standard)
+- Jacques Rivette, The Night Watchman
+  - − BAM Rose Cinemas @ 2026-11-15T15:35:00 (Standard)
+
 ## 2026-11-15 06:43 AM EST
 
 **Showtime changes:**
