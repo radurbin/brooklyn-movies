@@ -1,3 +1,56 @@
+## 2026-11-14 08:29 PM EST
+
+**Showtime changes:**
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T09:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T12:15:00 (Standard)
+- Victorian Psycho
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T10:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T13:30:00 (Standard)
+- How to Rob a Bank
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T09:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T13:00:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T09:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-14T17:00:00 (Standard)
+- Fatherland
+  - − BAM Rose Cinemas @ 2026-11-14T19:00:00 (Standard)
+- The Cat in the Hat (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T09:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T12:45:00 (Standard)
+- Paper Tiger
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T11:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T14:45:00 (Open Caption)
+- Ebenezer
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T09:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T12:00:00 (Standard)
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T09:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T12:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-14T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-14T18:40:00 (Standard)
+- Elf
+  - − BAM Rose Cinemas @ 2026-11-14T18:45:00 (Standard)
+- Godzilla Minus Zero
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T14:30:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T14:45:00 (Open Caption)
+- The Last Bolshevik
+  - − BAM Rose Cinemas @ 2026-11-14T16:15:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T10:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T14:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-14T15:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-14T16:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-14T19:20:00 (Standard)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T10:30:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T12:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-14T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-14T18:45:00 (Standard)
+
 ## 2026-11-14 03:18 PM EST
 
 **Showtime changes:**
