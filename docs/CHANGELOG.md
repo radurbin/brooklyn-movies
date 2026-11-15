@@ -1,3 +1,57 @@
+## 2026-11-15 06:43 AM EST
+
+**Showtime changes:**
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T20:30:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T16:15:00 (Standard)
+- How to Rob a Bank
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T16:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T19:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T22:15:00 (HDR by Barco)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T18:15:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-11-14T20:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T22:30:00 (Standard)
+- Littermates
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T22:00:00 (Standard)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T15:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T19:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-14T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T22:30:00 (Standard)
+- Godzilla Minus Zero
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T21:30:00 (Standard)
+- Victorian Psycho
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T16:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T20:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T23:00:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T22:45:00 (Standard)
+- Paper Tiger
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T18:45:00 (35mm)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T21:00:00 (Standard)
+- Crunchyroll Anime Nights Sneak Peek (12/14/2026)
+  - − BAM Rose Cinemas @ 2026-11-14T21:20:00 (Standard)
+- The Cat in the Hat (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T22:15:00 (Standard)
+- Ebenezer
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T15:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T21:45:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-11-14T21:15:00 (Standard)
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T15:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T19:00:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-11-14T21:20:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-14T22:00:00 (Standard)
+
 ## 2026-11-14 08:29 PM EST
 
 **Showtime changes:**
