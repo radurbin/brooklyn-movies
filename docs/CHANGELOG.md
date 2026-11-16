@@ -1,3 +1,46 @@
+## 2026-11-16 07:21 AM EST
+
+**Showtime changes:**
+- Ebenezer
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T21:45:00 (Open Caption)
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T18:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-15T21:20:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T21:45:00 (Standard)
+- How to Rob a Bank
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T19:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T22:00:00 (HDR by Barco)
+- Godzilla Minus Zero
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T21:30:00 (Standard)
+- La Bola Negra
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T18:45:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T18:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T22:30:00 (Standard)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T19:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-15T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T22:45:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T22:30:00 (Standard)
+- Paper Tiger
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T21:00:00 (Open Caption)
+- Victorian Psycho
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T19:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T23:00:00 (Standard)
+- The Cat in the Hat (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T22:15:00 (Standard)
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-15T22:45:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-11-15T21:15:00 (Standard)
+
 ## 2026-11-15 08:32 PM EST
 
 **Movies removed:**
