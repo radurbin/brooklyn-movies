@@ -1,3 +1,41 @@
+## 2026-11-16 06:57 PM EST
+
+**Movies added:**
+- The History of Concrete
+- The Lord of the Rings: The Rings of Power
+
+**Movies removed:**
+- Eadweard Muybridge, Zoopraxographer
+
+**Showtime changes:**
+- The Cat in the Hat (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-16T12:30:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-16T11:30:00 (Standard)
+- Ebenezer
+  - − Alamo Drafthouse Brooklyn @ 2026-11-16T12:00:00 (Open Caption)
+- How to Rob a Bank
+  - − Alamo Drafthouse Brooklyn @ 2026-11-16T13:00:00 (Open Caption)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-16T11:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-16T16:00:00 (Standard)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-16T12:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-16T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-16T18:45:00 (Standard)
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-16T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-16T12:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-16T16:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-16T18:40:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − Alamo Drafthouse Brooklyn @ 2026-11-16T11:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-16T16:45:00 (Standard)
+- Godzilla Minus Zero
+  - − Alamo Drafthouse Brooklyn @ 2026-11-16T11:00:00 (Standard)
+- Paper Tiger
+  - − Alamo Drafthouse Brooklyn @ 2026-11-16T12:15:00 (Standard)
+
 ## 2026-11-16 07:21 AM EST
 
 **Showtime changes:**
