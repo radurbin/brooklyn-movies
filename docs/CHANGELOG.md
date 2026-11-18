@@ -1,3 +1,65 @@
+## 2026-11-18 07:33 AM EST
+
+**Movies added:**
+- Billy Joel Tonight
+- The Holiday
+
+**Movies removed:**
+- ArteEast Presents Sunshine Express
+- Indonesian Mystery Movie
+- Littermates
+- On Straub-Huillet
+- The Last Bolshevik
+
+**Showtime changes:**
+- Wicker
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T21:15:00 (Standard)
+- Ebenezer
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T21:45:00 (Standard)
+- Godzilla Minus Zero
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T22:00:00 (Standard)
+- Victorian Psycho
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T16:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T19:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T22:30:00 (Standard)
+- The Cat in the Hat (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T15:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T22:30:00 (Standard)
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T15:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-17T18:40:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T19:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-17T21:20:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T22:15:00 (Standard)
+- Paper Tiger
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T21:30:00 (Standard)
+- You Can See Everything
+  - − BAM Rose Cinemas @ 2026-11-17T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T21:15:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-11-17T21:15:00 (Standard)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T18:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-17T18:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-17T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T22:00:00 (Standard)
+- How to Rob a Bank
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-17T22:15:00 (HDR by Barco)
+- Fatherland
+  - − BAM Rose Cinemas @ 2026-11-17T19:00:00 (Standard)
+
 ## 2026-11-17 06:17 PM EST
 
 **Movies added:**
