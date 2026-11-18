@@ -1,3 +1,40 @@
+## 2026-11-18 05:49 PM EST
+
+**Movies added:**
+- HDR BY BARCO: THE ODYSSEY
+
+**Movies removed:**
+- Making Do the Right Thing + Parlons grand-mère
+
+**Showtime changes:**
+- The Cat in the Hat (2026)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-18T12:30:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − Alamo Drafthouse Brooklyn @ 2026-11-18T11:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-18T16:45:00 (Standard)
+- Ebenezer
+  - − Alamo Drafthouse Brooklyn @ 2026-11-18T12:00:00 (Standard)
+- Godzilla Minus Zero
+  - − Alamo Drafthouse Brooklyn @ 2026-11-18T13:00:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-18T11:45:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-18T11:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-18T16:00:00 (Standard)
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-18T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-18T11:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-18T16:10:00 (Standard)
+- Victorian Psycho
+  - − Alamo Drafthouse Brooklyn @ 2026-11-18T13:15:00 (Standard)
+- How to Rob a Bank
+  - − Alamo Drafthouse Brooklyn @ 2026-11-18T12:45:00 (Standard)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-18T12:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-18T16:15:00 (Standard)
+- Paper Tiger
+  - − Alamo Drafthouse Brooklyn @ 2026-11-18T12:30:00 (Open Caption)
+
 ## 2026-11-18 07:33 AM EST
 
 **Movies added:**
