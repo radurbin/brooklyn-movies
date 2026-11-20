@@ -1,3 +1,60 @@
+## 2026-11-20 07:25 AM EST
+
+**Showtime changes:**
+- How to Rob a Bank
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T16:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T23:00:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T22:00:00 (Standard)
+- Paper Tiger
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T15:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-19T18:50:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T19:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-19T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T22:30:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T15:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-19T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T20:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T22:15:00 (Standard)
+- Elsinore
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T15:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T21:15:00 (Standard)
+- Ebenezer
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T15:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T21:00:00 (Standard)
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T15:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-19T18:40:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T19:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-19T21:20:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T22:45:00 (Standard)
+- The Hunger Games: Sunrise on the Reaping
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T14:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T17:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T18:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T22:00:00 (HDR by Barco)
+- Godzilla Minus Zero
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T14:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T21:45:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-11-19T21:15:00 (Standard)
+- Fatherland
+  - − BAM Rose Cinemas @ 2026-11-19T19:00:00 (Standard)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-19T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T19:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-19T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-19T22:15:00 (Standard)
+
 ## 2026-11-19 05:52 PM EST
 
 **Movies removed:**
