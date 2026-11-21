@@ -1,3 +1,46 @@
+## 2026-11-21 04:25 PM EST
+
+**Showtime changes:**
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-11-21T13:00:00 (Standard)
+- The Hunger Games: Sunrise on the Reaping
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T10:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T11:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T13:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T14:00:00 (HDR by Barco)
+- Fatherland
+  - − BAM Rose Cinemas @ 2026-11-21T15:00:00 (Standard)
+- Ebenezer
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T11:45:00 (Open Caption)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T10:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T14:15:00 (Standard)
+- Paper Tiger
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T11:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-21T13:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-21T16:20:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T10:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-21T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T14:30:00 (Open Caption)
+- Godzilla Minus Zero
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T12:00:00 (Standard)
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T11:30:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-11-21T13:10:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-21T16:00:00 (Standard)
+- Cameron Winter at Carnegie Hall
+  - − BAM Rose Cinemas @ 2026-11-21T15:00:00 (Standard)
+- Elsinore
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T10:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T13:15:00 (Standard)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T12:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-21T13:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-21T16:15:00 (Standard)
+- How to Rob a Bank
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T12:15:00 (Standard)
+
 ## 2026-11-21 06:59 AM EST
 
 **Showtime changes:**
