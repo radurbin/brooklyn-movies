@@ -1,3 +1,49 @@
+## 2026-11-22 07:12 AM EST
+
+**Showtime changes:**
+- Elsinore
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T16:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T19:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T21:00:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-11-21T21:15:00 (Standard)
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T18:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-21T21:20:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T21:45:00 (Standard)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T19:00:00 (Open Caption)
+  - − BAM Rose Cinemas @ 2026-11-21T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T23:00:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T22:45:00 (Standard)
+- Godzilla Minus Zero
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T22:30:00 (Standard)
+- Cameron Winter at Carnegie Hall
+  - − BAM Rose Cinemas @ 2026-11-21T21:00:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T18:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T21:45:00 (Open Caption)
+- The Hunger Games: Sunrise on the Reaping
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T17:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T18:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T22:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T22:45:00 (Standard)
+- The Host: 20th Anniversary
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T21:30:00 (Standard)
+- Ebenezer
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T21:15:00 (Standard)
+- Paper Tiger
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T18:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-21T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T22:00:00 (Standard)
+- How to Rob a Bank
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-21T22:15:00 (Open Caption)
+
 ## 2026-11-21 08:52 PM EST
 
 **Showtime changes:**
