@@ -1,3 +1,36 @@
+## 2026-11-23 08:56 AM EST
+
+**Movies removed:**
+- Victorian Psycho
+
+**Showtime changes:**
+- Elsinore
+  - − Alamo Drafthouse Brooklyn @ 2026-11-22T21:00:00 (Open Caption)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-22T22:45:00 (Standard)
+- The Hunger Games: Sunrise on the Reaping
+  - − Alamo Drafthouse Brooklyn @ 2026-11-22T22:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-22T22:45:00 (Standard)
+- Ebenezer
+  - − Alamo Drafthouse Brooklyn @ 2026-11-22T21:15:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-22T21:45:00 (Standard)
+- How to Rob a Bank
+  - − Alamo Drafthouse Brooklyn @ 2026-11-22T22:15:00 (Standard)
+- Paper Tiger
+  - − Alamo Drafthouse Brooklyn @ 2026-11-22T21:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-22T21:30:00 (Standard)
+- Godzilla Minus Zero
+  - − Alamo Drafthouse Brooklyn @ 2026-11-22T22:30:00 (Standard)
+- The Only Living Pickpocket in New York
+  - − BAM Rose Cinemas @ 2026-11-22T21:15:00 (Standard)
+- Wild Horse Nine
+  - − BAM Rose Cinemas @ 2026-11-22T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-22T22:30:00 (Standard)
+- Club Kid
+  - − BAM Rose Cinemas @ 2026-11-22T21:20:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-22T21:45:00 (Standard)
+
 ## 2026-11-22 09:08 PM EST
 
 **Movies removed:**
