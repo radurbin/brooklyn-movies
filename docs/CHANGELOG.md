@@ -1,3 +1,36 @@
+## 2026-11-24 09:29 AM EST
+
+**Movies added:**
+- Ebenezer
+- How to Rob a Bank
+
+**Movies removed:**
+- Ebenezer
+- How to Rob a Bank
+- The Cook, The Thief, His Wife, & Her Lover
+- The Host: 20th Anniversary
+- The Lord of the Rings: The Rings of Power
+
+**Showtime changes:**
+- The Hunger Games: Sunrise on the Reaping
+  - − Alamo Drafthouse Brooklyn @ 2026-11-23T22:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-23T22:30:00 (Standard)
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-23T21:45:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-23T21:30:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-23T22:00:00 (Standard)
+- Paper Tiger
+  - − Alamo Drafthouse Brooklyn @ 2026-11-23T21:15:00 (Open Caption)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-23T22:45:00 (Standard)
+- Godzilla Minus Zero
+  - − Alamo Drafthouse Brooklyn @ 2026-11-23T22:30:00 (Standard)
+- Elsinore
+  - − Alamo Drafthouse Brooklyn @ 2026-11-23T20:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-23T23:00:00 (Standard)
+
 ## 2026-11-23 09:43 PM EST
 
 **Movies added:**
