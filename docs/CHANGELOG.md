@@ -1,3 +1,74 @@
+## 2026-11-25 06:57 PM EST
+
+**Showtime changes:**
+- You Can See Everything
+  - − BAM Rose Cinemas @ 2026-11-25T15:45:00 (Standard)
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T11:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-25T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-25T18:40:00 (Standard)
+- Focker In-Law
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T09:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T13:15:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T12:15:00 (Standard)
+- Paper Tiger
+  - + BAM Rose Cinemas @ 2026-11-26T16:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-26T18:50:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-26T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-27T13:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-27T16:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-27T18:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-27T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-28T13:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-28T16:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-28T18:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-28T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-29T13:20:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-29T16:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-29T18:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-29T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-30T16:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-30T18:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-11-30T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-01T16:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-01T18:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-01T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-02T16:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-02T18:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-02T21:30:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-03T16:15:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-03T18:45:00 (Standard)
+  - + BAM Rose Cinemas @ 2026-12-03T21:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T11:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-25T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-25T18:50:00 (Standard)
+- Elsinore
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T10:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T13:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-25T16:30:00 (Standard)
+- Ebenezer
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T09:15:00 (Standard)
+- Hexed
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T09:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T12:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T12:30:00 (Standard)
+- Minotaur
+  - − BAM Rose Cinemas @ 2026-11-25T15:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-25T18:30:00 (Standard)
+- Bitter Christmas
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T10:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T13:00:00 (Standard)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T10:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-25T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-25T18:45:00 (Standard)
+- The Hunger Games: Sunrise on the Reaping
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T09:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T10:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T11:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T11:45:00 (Standard)
+
 ## 2026-11-25 08:48 AM EST
 
 **Movies removed:**
