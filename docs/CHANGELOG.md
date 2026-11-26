@@ -1,3 +1,62 @@
+## 2026-11-26 08:27 AM EST
+
+**Movies removed:**
+- Billy Lynn's Long Halftime Walk
+- The Room Returns
+
+**Showtime changes:**
+- Minotaur
+  - − BAM Rose Cinemas @ 2026-11-25T21:15:00 (Standard)
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T14:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T18:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-25T21:20:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T22:00:00 (Standard)
+- You Can See Everything
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T14:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-25T19:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T21:30:00 (Standard)
+- Elsinore
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T16:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-25T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T19:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-25T21:40:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T22:30:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T19:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T22:30:00 (Standard)
+- Paper Tiger
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T14:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T18:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T21:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-25T21:30:00 (Standard)
+- Focker In-Law
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T15:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T16:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T18:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T21:15:00 (Standard)
+- The Hunger Games: Sunrise on the Reaping
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T14:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T15:15:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T15:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T18:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T20:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T22:00:00 (HDR by Barco)
+- Wild Horse Nine
+  - − BAM Rose Cinemas @ 2026-11-25T21:30:00 (Standard)
+- Hexed
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T15:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T18:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T21:15:00 (Standard)
+- Bitter Christmas
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T16:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T19:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T22:15:00 (Standard)
+- Godzilla Minus Zero
+  - − Alamo Drafthouse Brooklyn @ 2026-11-25T18:15:00 (Standard)
+
 ## 2026-11-25 06:57 PM EST
 
 **Showtime changes:**
