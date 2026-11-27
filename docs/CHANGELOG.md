@@ -1,3 +1,67 @@
+## 2026-11-27 06:52 PM EST
+
+**Showtime changes:**
+- Elsinore
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T10:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T13:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-27T13:40:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-27T16:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T16:30:00 (Standard)
+- You Can See Everything
+  - − BAM Rose Cinemas @ 2026-11-27T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T14:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-27T16:30:00 (Standard)
+- Focker In-Law
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T09:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T12:45:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T13:00:00 (Open Caption)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T15:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T16:00:00 (Standard)
+- Minotaur
+  - − BAM Rose Cinemas @ 2026-11-27T13:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-27T15:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-27T18:30:00 (Standard)
+- Ebenezer
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T09:15:00 (Standard)
+- The Hunger Games: Sunrise on the Reaping
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T09:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T09:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T10:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T13:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T14:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T16:00:00 (Standard)
+- Hexed
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T09:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T12:00:00 (HDR by Barco)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T12:30:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T15:30:00 (Standard)
+- Club Kid
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T11:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-27T13:10:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T14:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-27T16:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-27T18:40:00 (Standard)
+- Tokyo Godfathers (Subtitled)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T09:45:00 (Standard)
+- Bitter Christmas
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T10:00:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T13:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T16:15:00 (Standard)
+- I Play Rocky
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T12:15:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T15:30:00 (Standard)
+- Paper Tiger
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T11:00:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-27T13:20:00 (Standard)
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T14:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-27T16:15:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-27T18:45:00 (Standard)
+- Wild Horse Nine
+  - − Alamo Drafthouse Brooklyn @ 2026-11-27T10:45:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-27T13:30:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-27T16:20:00 (Standard)
+  - − BAM Rose Cinemas @ 2026-11-27T18:50:00 (Standard)
+
 ## 2026-11-27 08:24 AM EST
 
 **Showtime changes:**
